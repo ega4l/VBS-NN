@@ -1,0 +1,409 @@
+[!] No checpoint found, starting from scratch
+Model parameters: 27,864,845
+Model VOCAB_SIZE: 256
+Model D_MODEL: 1024
+Model LEVELS: 12
+Model BATCH_SIZE: 2
+Model SEQ_LEN: 4096
+Starting learning, dataset: wikimedia/wikipedia, vocabular: 256 symbols.
+Epoch 0 Step 1 | Loss: 5.7576 | Time/steps: 0.000s | VRAM: 497MB
+Total training Time 15.408s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: onei    g <ii  d eie n rilioei ee irar   i iiian i  l  i   g  ii io i             i o ee ina  iai i o ier  ir i ih eer a shi  t iii e9    i  ii g h   is   iiso e   it   ia  h  i   a i iia  iii i i i  toi a ii  o i    inei  i a  i  ii ih o  iei     ioe   ii  ia si    eh   i  i a      t          i   l  i    i       a i          hh       i     n    i i    i   s            a      n      n                 eo       i i ii       o         i  i i  t   is       t   anl   e   i   i t            i        h     e      t eo    o  oii   ni   o h      i   tt            i   t  i        e  h l     o s     l             ii   n        a        i t            i          a     l  i        et                l     i t        e     n           i          l   ih               t  i   t       ei    
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: o iano il le  9  il l eenioeie iri i oi 9i     e   in   ai i ia i  ieira iei iir i  ieio iii hni one io i i   e oiie a  tiaea   iiini i t i  iei  iih   i  ei    e ii    ieti   i  il  h i ee     i  oothi     iin i a  iee i tin  ot i  ihnso  i     a   l       i     t i i                si a    a   i     i  h      ene t   t  ti  a         at  on        i  e i            t  eie  e         e    nn    i  i i    l        i                        s    le   t    i i     i i    s i i  l             i ie        i   t            i ie   e     a    s        i                i  s        l   li   a     l       t te a      i                a                                               i  h             s s     e i   i      i      i      l  s               t         i       n             i      i e  
+--------------------
+-----------------
+
+Epoch 0 Step 101 | Loss: 1.8606 | Time/steps: 21.251s | VRAM: 497MB
+Epoch 0 Step 201 | Loss: 1.7892 | Time/steps: 21.951s | VRAM: 497MB
+Epoch 0 Step 301 | Loss: 1.5277 | Time/steps: 21.930s | VRAM: 497MB
+Epoch 0 Step 401 | Loss: 1.4651 | Time/steps: 21.865s | VRAM: 497MB
+Epoch 0 Step 501 | Loss: 1.6093 | Time/steps: 21.849s | VRAM: 497MB
+Total training Time 163.270s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  Telether of the Swork is a significant and short including is the surface that a films for example. For example, the languages a different for example, termination of anime in the Arabic classes in the case of the space and was instructed after a marked that those as a speaked strong and his area of are a creating the world, but it the root for most of the films.
+
+Hitchcock his to the too speakers of a troops which to the same with anime were filming than the consulate and films and was appeared with a films, cotton in 1965, a film that a producer has a metromical association and the strees. The winner into sound in the last home was calligraphy at "stable which are also clitic languages. It also the films of suffering the films of a proposal the production of the torriot about the screen
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: and was about the script is the major sumplification of whom a made of malte with writes spoken in the Mark was a possible that a ship hitchcock was about the want in the Mesta Alraic is a proficial to the astronomical regions as a sample for the representation of the work and interrectives, which the human sound often hand and wealth that a sarated with the language of any experimental as the level of the anime was all and forced at the spoken as a modern productions and consenue of will other was an intervillarity, the ancient Hitchcock's allowed two films, and spread of the films were films a strong from Alvaca. At the person of prefixes to the area for a strong as a matic or films, a speakers and anatory allophonet that they to the films of a films, while traguariing. The prominent pro
+--------------------
+-----------------
+
+Epoch 0 Step 601 | Loss: 1.4064 | Time/steps: 21.145s | VRAM: 497MB
+Epoch 0 Step 701 | Loss: 1.6273 | Time/steps: 21.914s | VRAM: 497MB
+Epoch 0 Step 801 | Loss: 1.6357 | Time/steps: 21.879s | VRAM: 497MB
+Epoch 0 Step 901 | Loss: 1.2539 | Time/steps: 21.852s | VRAM: 497MB
+Epoch 0 Step 1001 | Loss: 1.4624 | Time/steps: 21.852s | VRAM: 497MB
+Total training Time 285.409s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:   204 – and probability, a second anti-live as an universe. The same problems from a project of his shown and position are the first to be indicated from the considered the darking of the same design and reputation in the association of the earliest people. Alan Ethical sentences of "Aphrodite of Adelaide of his own match. On the term of American several system to recent the same present. Arago is now style for must him to be a more system to contemporary enteres apart of abbreviations and one thought the being to simply the railway. At an unabilism (e.g., with the men to the sexual of the forms, which he was to practices should be second the words of a full and polarized by the west become a centre of the competition of the according work the clubs who would be abriumed by improving at 
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: performed a series of more than Adelaide (we male strial role in the size of Australian provides an examples of several added with the contract when theatres that it would be ability to see in the earth whether the cosmemorate in the first serving abbreviations with the candata of the production of honoraric which the experience in order to typically increased in the paper of the words of an architects with determined the additional roles of Adelaide and the sound of the spread as the contact of the problem are shell source and the mistress of the flag the second from the sea and more than worlds to the contre of the tried on the modern Alexander, and to the short depressed in the angelies are remembers and statues, and says, but an according to Artificial Celt and English in the first and
+--------------------
+-----------------
+
+Epoch 0 Step 1101 | Loss: 1.3317 | Time/steps: 21.116s | VRAM: 497MB
+Epoch 0 Step 1201 | Loss: 1.3921 | Time/steps: 21.843s | VRAM: 497MB
+Epoch 0 Step 1301 | Loss: 1.4178 | Time/steps: 21.860s | VRAM: 497MB
+Epoch 0 Step 1401 | Loss: 1.4096 | Time/steps: 21.881s | VRAM: 497MB
+Epoch 0 Step 1501 | Loss: 1.3550 | Time/steps: 21.889s | VRAM: 497MB
+Total training Time 407.500s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: 
+The medical advisors as an arral for the country are consequently responsible from the assume with similarity.
+
+According to Amine An Italy were an acupuncturist and survey, with a that of acropolis. In the major of the application of Alexander Irish and Sectomans and one of the body's reported a small concerned from many as the mission series by among the second and potential therapy and the prophets and to similar properties. Many of an events for acupuncture more than the first and was associated with a subsidio and include stick that the many manuscript to recognize and a suggest and research to be associated with a strong and acupuncturists to death in a reported space and trained methodological studies, who contraindigments and part of a crowner seats. Acupuncturists, by Armenian cu
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: that after the first the advice of pressure the son of the properties of Almer and the Ainu and the first Asian Ainu systems.
+
+According to the son sharp and a leader or a commander that the post is an invade commentary to probably described as a samples, inflammation of acupuncturists their minerals to her stanling in the early 20th century. In the United States, and the seniors for pite till strong and by the Ainu community of the children of Aachen
+ Archipelago Pasha Anne Army, Anarce and Trinidad and Andreas by the season by Anderson was reported by the Charlemagne and Army.
+
+In addition to a deliver of the political and panthent shooth practice to a consequently relief a preferred to marriage. The three days to ment through more dangers would be sell and by supporting remains and acup
+--------------------
+-----------------
+
+Epoch 0 Step 1601 | Loss: 1.2414 | Time/steps: 21.129s | VRAM: 497MB
+Epoch 0 Step 1701 | Loss: 1.3517 | Time/steps: 21.853s | VRAM: 497MB
+Epoch 0 Step 1801 | Loss: 1.4537 | Time/steps: 21.887s | VRAM: 497MB
+Epoch 0 Step 1901 | Loss: 1.3666 | Time/steps: 21.912s | VRAM: 497MB
+Epoch 0 Step 2001 | Loss: 1.4285 | Time/steps: 21.856s | VRAM: 497MB
+Total training Time 529.717s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ⣿ 
+                                                                                                                   
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: to star tories to the University of Andromeda state to the US State University in Army (al-Zaeda four strategy of the series of the Park (International Steamer in New York. That is the origible region of the Art Deco state's supplement is in the state of Arabian attacks and the state to provide the form of one to his state and organizations are spread of released to the former provided its stressed the strategy of the carrier to his state and should be stars in an accused of the community of the Arkansas Medical Luda and the Andromeda and the first state that it was the former centuries of the population of international commentator to the American Minister of Chhumate terms are designated as the son of Arkansas, having in 2015. It is also specied the same phenotype of the Alman of the Sep
+--------------------
+-----------------
+
+Epoch 0 Step 2101 | Loss: 1.2121 | Time/steps: 21.125s | VRAM: 497MB
+Epoch 0 Step 2201 | Loss: 1.2774 | Time/steps: 21.863s | VRAM: 497MB
+Epoch 0 Step 2301 | Loss: 1.4020 | Time/steps: 21.886s | VRAM: 497MB
+Epoch 0 Step 2401 | Loss: 1.2053 | Time/steps: 21.853s | VRAM: 497MB
+Epoch 0 Step 2501 | Loss: 1.2483 | Time/steps: 21.850s | VRAM: 497MB
+Total training Time 651.806s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:   1956   – Alex Randell State can be personally a schedic part in the state and the place in computer, if for this are not a contributed to endowries, the first stringites the report for the largest in an ancestor of the Arabic parts of the second and the south consonants who chopped and its states between the erection of the armadillos of the most powerful, which have been a few train is also been continued to be severely becomes and traditional interest in the position of the cities, and the state of municipalities in the Arabic situation for the position carriers. The signed on the most instruments, all the territory with his specify and made in order. These sections are also in some they are a favor of a sorp body also recognized their colonists designs a port of a dental in case sim
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: in the UK and the same in the concept by the events called the single public or the anconnaissance came to the development of eighths' and anti-for the planets. They do not complete the sites, and the first time the funeral products farmers that in the example of the poor and a national charity of the armadillo for a compatible al-Java (successfully, in the model for the concept of a fire in the late 19th century. Such republic consistency in the southern people, and sufficiently include the southwest of the power scale of the areas and the differences from their armadillo conservative and political stellar scholars and followed by a strong are compatible in the construction of the same districts and encodes in the city of Islamic diseases.
+
+Species
+
+Also clam historical respective service
+--------------------
+-----------------
+
+Epoch 0 Step 2601 | Loss: 1.5393 | Time/steps: 21.137s | VRAM: 497MB
+Epoch 0 Step 2701 | Loss: 1.4128 | Time/steps: 21.844s | VRAM: 497MB
+Epoch 0 Step 2801 | Loss: 1.4816 | Time/steps: 21.900s | VRAM: 497MB
+Epoch 0 Step 2901 | Loss: 1.4826 | Time/steps: 21.851s | VRAM: 497MB
+Epoch 0 Step 3001 | Loss: 1.3148 | Time/steps: 21.855s | VRAM: 497MB
+Total training Time 773.886s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  Maharaja and Mari, Studies of the Crown Mari and the British paintings from the Aegisthus and Spartan disagrees to sign from the populations in the cave of the crair and the cave of the population of the cave 15 in a minutes background contains a commune of the election of the painting. The state packet to have been inverted by Aegisthus of Angala, with a cave of law of the city walls, she was a single consisting of the limited between 1887 and 1977. The freedom of the site of the purpose in the early 1980s cave with its shows and for the paintings of the stupa few one of the more religious in the worship of the main collapse of the second part of Apanta and the city. The private that the site of the mark. The full of construction of the cave of the Athenian ruler of the covered continue 
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: and was the department of India, was also become a temporary before and the commune delivering a personnel and the subject of a result of the colonial power, a satellite states between 1993 and 18 and 6 served in the paintings and with the presence of Antarctica. The cell has through the cave include the raids from a fine to be a city of the deputy, which shows the reference of the largest airliner is a psychological thera are sensitivity and a cave what is believed by the antidepressand the river by a ring and the displayed complex of the rear in the paintings are also postured an interval during the Cave 15 and 12. The two studies were all a peoples of the paintings of the ancient Araction was so in the city. The plator proportion of abandoned stupa, which caves with a spectra province o
+--------------------
+-----------------
+
+Epoch 0 Step 3101 | Loss: 1.3778 | Time/steps: 21.121s | VRAM: 497MB
+Epoch 0 Step 3201 | Loss: 1.5968 | Time/steps: 21.905s | VRAM: 497MB
+Epoch 0 Step 3301 | Loss: 1.6143 | Time/steps: 21.855s | VRAM: 497MB
+Epoch 0 Step 3401 | Loss: 1.4259 | Time/steps: 21.851s | VRAM: 497MB
+Epoch 0 Step 3501 | Loss: 1.2588 | Time/steps: 21.876s | VRAM: 497MB
+Total training Time 896.087s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  John May 1998, a connector for the largest propagates in the Amiga 2000, and has been a side of a number of all promotion to be any output strongly, a comes to hundreds or a criticle interpretations of a succession. The new a sultan was determined in the mountains and the Annales the appointment after the asymptotes. The computer to students around 360 MB in ancient position of the arithmetic separation, and servants and fast and over the same frequency detainees and with seven television did not adopted to be about the means of an again for southwest to added the ancient for a state in the country's angares are allowed with the new century fisher in the first and signal function of the market and the country at the southern proper of 20 operations are used for his opened that they were 
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: so they had become the speculation functions on the project of consumption or an unexpected at an abundance of the city. Since the stars have been cancer as the previous observatory and original organizations origin and the national and displaced by sense dame show", and so the south. In 2005, the Amiga 2000 thought as an appearance, and was carried on the main days. He received into mode the antiderivative of an antiberial chain is a part of its toriyama director Abnaranter and the first time into a manner at type who is an expedition in the annual stars. By 18, 2019, the melodict at subsequently for the provide further and secondary sectors (for the Alexandria Alexandria and the Sun, along with the model on the star was configured as an aga financial and manga of the point are any launch
+--------------------
+-----------------
+
+Epoch 0 Step 3601 | Loss: 1.4443 | Time/steps: 21.137s | VRAM: 497MB
+Epoch 0 Step 3701 | Loss: 1.2843 | Time/steps: 21.897s | VRAM: 497MB
+Epoch 0 Step 3801 | Loss: 1.3858 | Time/steps: 21.892s | VRAM: 497MB
+Epoch 0 Step 3901 | Loss: 1.2054 | Time/steps: 21.911s | VRAM: 497MB
+Epoch 0 Step 4001 | Loss: 1.1469 | Time/steps: 21.848s | VRAM: 497MB
+Total training Time 1018.334s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  Statistics of Banja Court of Berkof to the Second World War (1968–1925). It controls the nation constitution and the country's dependence on the area is then takes of the past and an extent.
+
+Botswana was formally illegal diversification in Bhutan. The population was attributed to the country relations are to all sources of the mid-1990s, and the formal terrain is an attempt on. The presidency is divided by the Charleton Saniba and the country's power in the state-owned because of the southern part of the structure of the presidency and all three should ever dependence on the river Act algebra in the second most economic growth reforms in the country. The country is the total dec and remains the election by the Sector International Development Public Commission. There are three countrie
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: was then a text to be contracted with the Botswana Country and the Crusades of Berkan in 2010). The presidency of the Botswana Party of Berkan is the turnant sentence and political support, the Belarusian and then the most areas. The first structure and southern part of the carbon assistance that constituted a major countries in the economy. These two positive regiments are also returned to a primarily between the two councils as the country is commodities dated from the area and prospect of a single population. The state areas is at the time of the country's many cover acting sexual to the primary line. The country is the southeast region in 1999. The statistics in Bruges and Herzegovina has no protest their research and constitutions, and significant from the country's determination in t
+--------------------
+-----------------
+
+Epoch 0 Step 4101 | Loss: 1.4529 | Time/steps: 21.131s | VRAM: 497MB
+Epoch 0 Step 4201 | Loss: 1.4068 | Time/steps: 21.858s | VRAM: 497MB
+Epoch 0 Step 4301 | Loss: 1.2849 | Time/steps: 21.866s | VRAM: 497MB
+Epoch 0 Step 4401 | Loss: 1.2076 | Time/steps: 21.957s | VRAM: 497MB
+Epoch 0 Step 4501 | Loss: 1.4324 | Time/steps: 21.956s | VRAM: 497MB
+Total training Time 1140.581s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: In his own architecture.
+
+In the 1940s, at the book was speared and implement in a colors and coach in the world while the terms for the format of the right to an application of the press of the bill of the style.
+
+A third strength of the allegedly strong subset of his first community and relations, and the team between a book and advertising.
+
+In the 1960s, the screen a states that worn in the connection and social blood starting in a system of heroes. He is a biblical and stability to black black time at a tie technology in the early 1990s. In 1999, the two ballistic suggest that anything with palace with the tension to the larger with the art. The polymer together in the early 1970s, black of the claim and delay in a spread and denoted for the time. The place was the book an early male 
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: companies and the concept of the translation of Benedictine. He also had a range of solved by Cassins and Buller sectency. The book was the show for singing the school of Bridge and House (artists), and made the company. In 1989, Franklin's, and Mahāra charge in the plates (19th-century Symbolization and singers that was released in 1755 and access to a fuller which all of the color of the carbon newspaper and truss at the time. For an allegedly chain to paint.
+
+Stability and the statement is to be a money and the dialects were in the late 1950s. The show many state, a large and a body-domination of more and reached the court of a bleeding severe and a silber name of a third of minor and partnerships and all conventions in the writers on the entire statement in the end of the 19th century
+--------------------
+-----------------
+
+Epoch 0 Step 4601 | Loss: 1.1900 | Time/steps: 21.115s | VRAM: 497MB
+Epoch 0 Step 4701 | Loss: 1.3855 | Time/steps: 21.875s | VRAM: 497MB
+Epoch 0 Step 4801 | Loss: 1.4360 | Time/steps: 21.892s | VRAM: 497MB
+Epoch 0 Step 4901 | Loss: 1.4109 | Time/steps: 21.892s | VRAM: 497MB
+Epoch 0 Step 5001 | Loss: 1.3917 | Time/steps: 21.840s | VRAM: 497MB
+Total training Time 1262.711s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: 
+In addition to the left and copy of the Black Sax planned in the contest of the role of Jesus Christians and took over the show. In the television service contest in the charge in the early 1950s in the same time, and the boomerang rank and described interest in the field in the candidate business.
+
+He had the strength of the book in that the language of the album began to be able to regiment. After the position of Bastarnae and the stead an ordered his first professional, the score of coast have included the business contest in the early 20th century. For example, a network of back part in the peoples of the sound cares in a fact that are particularly in the rear in the regulation of bands of the characters are read around the companions of the four condition and the speed of intent of t
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: of period, along with content in the road after a disputed being in the thrower and accessible by the team in the system of boomerangs to advance and even if the first participant.
+
+An attack companies have been inducted into seeing a sequence of the team prophets and extreme points are pathying-that the end of a field hard of clean speed and weaponization in the charge of the team's capacity as the last selection, including the event of a retreat.
+
+In addition, though the competitors being a chill for a structure in the same period (a setting some time and the month. The book to the annual behind thrower and he strongly all of the top of the book in the forthcomes, including an events are in the war than the battalion by the last of the reference to Battles in 1894, while the same resista
+--------------------
+-----------------
+
+Epoch 0 Step 5101 | Loss: 1.2801 | Time/steps: 21.110s | VRAM: 497MB
+Epoch 0 Step 5201 | Loss: 1.2504 | Time/steps: 21.869s | VRAM: 497MB
+Epoch 0 Step 5301 | Loss: 1.2900 | Time/steps: 21.940s | VRAM: 497MB
+Epoch 0 Step 5401 | Loss: 1.2710 | Time/steps: 21.942s | VRAM: 497MB
+Epoch 0 Step 5501 | Loss: 1.3730 | Time/steps: 21.834s | VRAM: 497MB
+Total training Time 1384.921s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  The company continuous seasons were able to extend the prices to represent companies to resumeritate in the form of the castle.  While homology are the same time when they supported the flights of the plant and to restrict had already back to triple from ships. On 1 January 2011, the first time in his wildlife in the UK and had two filters and are allowed to buy a local personal to the time, which was an outtax of the designation, and all of the six can references to have been the following companies are still for the phrase "Broadway" the bonds also states into each of the former by separate streets of the commercial as a masts to the computer scientific tires in the film protein.
+
+Braveheart
+
+As of 2003, the Blesses and the Society of Anne Street continues and the BC and Sport Country. 
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: of the trains in the study of the line. In attacker, he was confinant it will develop in the UK was stated in a substance of a longbowmen assets. In the continuous frequency of the first sent of their songs of stress in the filters and compound for the claiming telecoms. On 16 October 2021, the boat of the following products in the 1990s, the resulting six were delivered in 1982, it is combinated with single and it in the southwestern Europe buildings. On July 2019, and was one of the trunk of the sale of Broring and Medical Borg then the new individual singles and an antiquarter substitution of the communications, including a culture. In some placed his retailing monoco, they supported from the east and of the public disckeborous. In the late 1980s, such as the continuous transform from t
+--------------------
+-----------------
+
+Epoch 0 Step 5601 | Loss: 1.1940 | Time/steps: 21.115s | VRAM: 497MB
+Epoch 0 Step 5701 | Loss: 1.4404 | Time/steps: 21.901s | VRAM: 497MB
+Epoch 0 Step 5801 | Loss: 1.2570 | Time/steps: 21.918s | VRAM: 497MB
+Epoch 0 Step 5901 | Loss: 1.3413 | Time/steps: 21.874s | VRAM: 497MB
+Epoch 0 Step 6001 | Loss: 1.2667 | Time/steps: 21.894s | VRAM: 497MB
+Total training Time 1507.224s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: 
+ 
+
+Additional published a set with modern and conflict
+
+The Ballarat Colony and Conclosed the B-1 were cycled allocation and the B-1ll, which are elements of the B-1 (the formula and political sums of Ballarat was first provided colony and the company in the country and rear of the profound respondents and divine services and observatory was the prayer based on the set theological engines of the power of the series of the biggest energy sunshair to influence the British team for and the need for a series of realization and in the 1920s, motorcycles with an outbreak of increase independent and Bernoulli and Ards to the Blackwood, which can be a standing of the recording codes of completing the program throughout the Bernoulli context of machines and that the curates failed, and the combina
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: of the B-1s including the Bead of Common Prayer.
+
+The term commander of the capability of the Benedict Army, where the first aircraft survey and similar to those one of the first conservation of the blackwood for the theory of the convention are completed by the north-west search platform in the league and changes below the first training and to the largest extra strongly set their sets with the presence of card and activity.
+
+The bear and intended for some of the polishing for the situation by the Breviary of the Ballarat Castles was also been also holds the manufacture of the tuba. The songs of the city of Macedonians and the river in the electron in 1945 being a more advanced as an anti-index allowing the society for his father of the Battle of Phurrous area in the senior radon appears 
+--------------------
+-----------------
+
+Epoch 0 Step 6101 | Loss: 1.3307 | Time/steps: 21.112s | VRAM: 497MB
+Epoch 0 Step 6201 | Loss: 1.2233 | Time/steps: 21.965s | VRAM: 497MB
+Epoch 0 Step 6301 | Loss: 1.1266 | Time/steps: 21.820s | VRAM: 497MB
+Epoch 0 Step 6401 | Loss: 1.1482 | Time/steps: 21.850s | VRAM: 497MB
+Epoch 0 Step 6501 | Loss: 1.2187 | Time/steps: 21.861s | VRAM: 497MB
+Total training Time 1629.374s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: Coming is a metal of local communities and products are also relevant, in which the central produced a small structure saw it was the local author time and its point of light contained the large-scale wood. The latter was the problem of equivalence for the entropy of the categorial style, and the conflict of contract with a conflict financial rights to block or social instruction of the early emitration that the population designed to discobolism, corridor continued to be poral role in the United Kingdom. The simple delivered the problem of a shorter route through a series of dark to achieve programme and the continental construction of the expense of the Chagior Colorado in the early 1920s, attempt to help off the applications around the world, individual, and a basis for the massive phas
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: in the form of exception of the storage of Condensed Canyon with some significant protection for a proportional event such as accomplishing and in the connector system, and are commercially populated by modern cities in ways and travel around the world. The first solution is still reconstruct and its follows to the same period of a surrounding particular more structured in the letters of the Catholic Church.
+
+The second son of the Constitution in 1996 to the Catholic Church, and the Collectar Country calendar. A favor is also the international article for a city's incident of the Austrian Red Tregard. The party still scholars were the studyes, and have a major investment of the earliest known composer of the magnetizer stems with a manufacturer for studying population: 1905 the 1940s and 1
+--------------------
+-----------------
+
+Epoch 0 Step 6601 | Loss: 1.1320 | Time/steps: 21.105s | VRAM: 497MB
+Epoch 0 Step 6701 | Loss: 1.1802 | Time/steps: 21.835s | VRAM: 497MB
+Epoch 0 Step 6801 | Loss: 1.2923 | Time/steps: 21.847s | VRAM: 497MB
+Epoch 0 Step 6901 | Loss: 1.3164 | Time/steps: 21.850s | VRAM: 497MB
+Epoch 0 Step 7001 | Loss: 1.3408 | Time/steps: 21.845s | VRAM: 497MB
+Total training Time 1751.321s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  Hall arrived in the first second history of the creation of a correspondence during the time in the south by the comet which the titles are the bone as the arteries to the the post definition to the settings of the main soul by personal society for the titles and passenger to melting the freight percent. The first assistant culture is of common ancestors is consistent with much of the two community. Only the main colleges, the trains in the fourth society in culture in some personal decisions where proposed the stage strips of the treatment of the community colleges. The status of this community are on a more complex about the digital interest in a few days. All the first distinguished its own stones and similar to the component of the popularity of 1999 associated with a profound seasona
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: in the film in the west, she was replaced in sunpricides and chromes are still in the trains and was suggested to the tunnel. The city of Singapore, Bohenney, and Sub-Laws of the Bission and Philosophy. As a particular and the type of prediction on the sense of paper many choices of content and the first mathematician Salatino Colleges in the United Kingdom, community colleges, tactics have contributed to the position of the terminals.
+
+Access to the story of Solid Roman curium service pressure colleges and particles operate on his work that a community states to participles, some of which was not subsequently displays the situation and secondary schools are proposed. The side was also used to be synonymous of the tributary. Solar and the committee wrote for the titles and other women have
+--------------------
+-----------------
+
+Epoch 0 Step 7101 | Loss: 1.1766 | Time/steps: 21.106s | VRAM: 497MB
+Epoch 0 Step 7201 | Loss: 1.3228 | Time/steps: 21.883s | VRAM: 497MB
+Epoch 0 Step 7301 | Loss: 1.2215 | Time/steps: 21.855s | VRAM: 497MB
+Epoch 0 Step 7401 | Loss: 1.2203 | Time/steps: 21.927s | VRAM: 497MB
+Epoch 0 Step 7501 | Loss: 1.4786 | Time/steps: 21.984s | VRAM: 497MB
+Total training Time 1873.547s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  Californe Serminal Party (Stanword Teman)
+ Areas (Asassening Second-Blooms in 1997 and was founded on 18 May 1990 and the tenure was a few first country for the seat of Ming and the Alaska Commonwealth Games with the first time in the field hockey, and is the title can suburbs and has designed the district was in the 1997 Commonwealth Party.
+
+The first two conservative schools to perform the state of the finals and a place in the city and the former State Castle an electoral district of the RAM and in 1987. The Congress announced on Northern Ireland (Tim Cycle that the film of the program of the Sean Center with the Company opened on the Chief in the season, which was then set to a more said to be called for the Rhinese cyanide processor with his relatives. In 1998, the set of the season 
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: the integer of a former State State Party. The finals are a proposed between 1967 and 2004, and a part of the manager by the city to the American Assembly in the 1998 Magnet and Ridentine Symphony Orchestra of the Legislative Assembly in the Australian Polish in the United States. The particularly counted the Royal Roots Star in the second rabbit and won the primary metals (including the RO1800 as population of the possible team in the 1992 Alpine in the River Can at the 1980 Wintra Limre Air Trees in the Republic of the Rivercos were captive at the same lyrics were sentenced to recovery a memorial and start with the integer and a magnetic condition. The electorate is inflected in the 1990s and 1990 and was removed to the Reaction Moment Bay with the addition of the station of the Pacific 
+--------------------
+-----------------
+
+Epoch 0 Step 7601 | Loss: 1.4356 | Time/steps: 21.138s | VRAM: 497MB
+Epoch 0 Step 7701 | Loss: 1.2486 | Time/steps: 21.886s | VRAM: 497MB
+Epoch 0 Step 7801 | Loss: 1.3966 | Time/steps: 21.865s | VRAM: 497MB
+Epoch 0 Step 7901 | Loss: 1.2819 | Time/steps: 21.860s | VRAM: 497MB
+Epoch 0 Step 8001 | Loss: 1.6863 | Time/steps: 22.002s | VRAM: 497MB
+Total training Time 1996.010s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]:  23 (39 to 92)
+ Liverpool managerial community (b. Life and Michigan – Steve Mariot (1964)
+
+Actor Balitz (1911)
+
+Highest in August 2006
+ Missouri British article (1990)
+ The William Shoreline Moon (1968)
+ Sportspeople al-Wahidiyya (1959)
+ Sailinar (1980)
+ The Sorring Great Britain (1919)
+ Tottenham Garrison (1969)
+ 17 (25 March 2021)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: was destroyed. The contract working on May 1980 and his title for the second review to a leader of the Second Division with the Second Division and the Middle Sunderland and the second season in the Second Division, and they were no a server to be a small town in the finals of the Amazon Coast to the Catechich Town at the 2018 World Cup final fifth for the surface of the community as a level on place in the 1970s. The term "center" was destroyed by the practice at the time.
+
+A leading consent of a similar concerns and a long with the automatic program, at the top of the First Division title with his brother, and the standards. The correspondence was to become a period of time to treat about 12 years of all composite back under-19 Commercial Communications (PAA) the Cherchest Speakers in th
+--------------------
+-----------------
+
+Epoch 0 Step 8101 | Loss: 1.1980 | Time/steps: 21.157s | VRAM: 497MB
+Epoch 0 Step 8201 | Loss: 1.2204 | Time/steps: 21.967s | VRAM: 497MB
+Epoch 0 Step 8301 | Loss: 1.3358 | Time/steps: 21.926s | VRAM: 497MB
+Epoch 0 Step 8401 | Loss: 1.3108 | Time/steps: 22.041s | VRAM: 497MB
+Epoch 0 Step 8501 | Loss: 1.3715 | Time/steps: 21.894s | VRAM: 497MB
+Total training Time 2118.557s
+--- GENERATING ---
+
+[PROMPT]: 
+
+[GEN]: 
+Sultan Abraham (Nea Love () as a song in the surname of the Shift Muslims, which was from the female logo and had the full social critics and animated second placed the police to the country.
+
+In January 2005,
+ TVRI served in the 2000s, there was an influence in the words and the Soviets which was never published in 2016. In 1996, when he was a professional soccer in a story of 2019 at the 2014 FIFA Women's Singer and his mother four seasons on a problem. He also spared in Shakan see his formed prisoners had no conservers which received the sexual and converted to be substantially considered to be an association of his second train after the regional communist than any other family replaced by the corresponding an interactive advanced tables in addition to the composition according to Spa
+--------------------
+
+[PROMPT]: Once upon a time 
+[GEN]: of the club with a single middle scholarship on the foreground and his control and convicted of his will be developed from the the cause. Another top say in the subsequent machine service than the brigade service with the actual for several stages to all the same time. The first common person was the leading road to passengers and regional and published at the end of the theming of the first round of the following years, all consistency importance for the presence of the concept of his primary public possible positions. The prompting for the remainder of the American Martyus, which was returned to the post. When the border is presented about an independent and contains, and then security, which started to the communication of beer and replication. Because often called Saratha and the airpo
