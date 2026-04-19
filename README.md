@@ -51,3 +51,11 @@ After only 33 minutes of training, the model generates text with high structural
 * **Byte-Level Mastery:** The model bypasses traditional tokenizers, learning directly from the 256-symbol vocabulary without losing speed.
 * **Low Barrier to Entry:** This proves state-of-the-art NLP research is possible without a cluster of A100s.
 * **Check the `log_12.04.2026/run_log.txt` for the full training log.
+
+## 📚 Citation
+If you find this research useful, please cite:
+Gaal, E. (2026). VertexByteStream NN: A Formal Framework for Hierarchical Multi-Resolution Byte-Stream Analysis. arXiv:[PENDING].
+
+## 📄 License
+This documentation and the provided logs are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
