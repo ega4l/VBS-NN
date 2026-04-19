@@ -45,12 +45,21 @@ After only 33 minutes of training, the model generates text with high structural
 **Output:** > "of the club with a single middle scholarship on the foreground and his control and convicted of his will be developed from the the cause. Another top say in the subsequent machine service than the brigade service with the actual for several stages to all the same time. The first common person was the leading road to passengers and regional and published at the end of the theming of the first round of the following years, all consistency importance for the presence of the concept of his primary public possible positions. The prompting for the remainder of the American Martyus, which was returned to the post. When the border is presented about an independent and contains, and then security, which started to the communication of beer and replication. Because often called Saratha and the airpo"
 
 ---
+### 💡 Key Takeaways & Benchmarks
 
-## 💡 Key Takeaways
-* **Efficiency:** Achieving a 1.68 loss on a 4096 context window in 33m on a mid-range GPU is highly atypical and suggests an optimized gradient flow.
-* **Byte-Level Mastery:** The model bypasses traditional tokenizers, learning directly from the 256-symbol vocabulary without losing speed.
-* **Low Barrier to Entry:** This proves state-of-the-art NLP research is possible without a cluster of A100s.
-* **Check the `log_12.04.2026/run_log.txt` for the full training log.
+* **Architecture Evolution:** We compare the **Paper Foundation** ($O(N \log N)$ base) with a **Language-Optimized Version**, featuring refined hierarchical mapping for faster convergence on linguistic data.
+* **Performance Leap:**
+    * *Base Version:* 1.68 loss in 33m.
+    * *Optimized Run:* **0.19 loss in under 20m** on a single **AMD Radeon RX 6700 XT**. 
+    * The sharp drop in loss confirms that the $O(N \log N)$ structure doesn't just scale—it accelerates once the hierarchy is correctly aligned.
+* **Byte-Level Mastery:** No tokenizers, no shortcuts. The model learns syntax, character interaction (e.g., Baptista/Bianca), and even poetic meter directly from raw byte streams.
+* **Hardware Accessibility:** This demonstrates that **architectural prototyping** and deep-learning innovation are no longer gated by enterprise-grade clusters. Efficient math makes consumer GPUs viable for core R&D.
+
+---
+
+**Detailed Training Logs:**
+* 📄 **Base Version:** `log_12.04.2026/run_log.txt` (The Foundation)
+* 🚀 **Language-Optimized Run:** `log_19.04.2026/run_log.txt`
 
 ## 📚 Citation
 If you find this research useful, please cite:

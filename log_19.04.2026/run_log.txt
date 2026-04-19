@@ -1,0 +1,292 @@
+[!] No checpoint found, starting from scratch
+Model parameters: 137,188,608
+Model VOCAB_SIZE: 256
+Model D_MODEL: 1024
+Model LEVELS: 12
+Model BATCH_SIZE: 2
+Model SEQ_LEN: 4096
+Starting learning, dataset: input.txt, vocabular: 256 symbols.
+Start epoch : 0, epochs : 10, steps per epoch 136.
+Epoch 0 Step 1 | Loss: 5.9162 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 29.400s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]:   e                                                                                                                                                                                                                                                                                                                                                                                           e                                                                                                                                                                                                                                                                                                                                                                                                                                 
+--------------------
+-----------------
+
+Epoch 0 Step 101 | Loss: 2.0299 | Time/steps: 71.454s | VRAM: 2065MB
+Epoch 1 Step 137 | Loss: 1.9997 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 196.014s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: I conters the caplike on the seems and sir:
+When thee shall of the married or the assece of the this dise on the prayio.
+Sir the eat the stays the make thou hast mine ere as hast
+And there as with the mare thee at the bast this the did of the sear the tow it the speak the marress and at is it the mist it the beat as the asperies of the fair of son and the marries and the beat and the atainst of the with a since of the mean the fast this all the sault in a mine as the san these of the too that the for the been an of the with to the will of the meant
+That thou say the with mine, and the stance the caps the to sair the bean a like of the marress it the but as the best the strang the with the best it the thine ere to see as the father this thou are mist of a coll a sist the are come he daught 
+--------------------
+-----------------
+
+Epoch 1 Step 237 | Loss: 1.6048 | Time/steps: 71.150s | VRAM: 2065MB
+Epoch 2 Step 273 | Loss: 1.6388 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 314.086s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: then it she shall be so die the tompey or his strength the rest it shall be go the means he hath the witness for the match the mine own see the reason the matter to the reason of my mistress of the sea the prisoner son the son that thou wilt doth since married their business of the duke of some and a master's mistress thou liest the rare, the maint and such a forth our master such a consines his hand the town be contentio the sure than thou hast the fire her son such a sun are the truth of mean of me the sea a word of his that as a fear her heart the wint the state and feel the weather of my a serves and the tarl the rest of the sure the wealth of your brief the dire
+the did at the time in his son the did a passing or this was and the stard the monstabe for a burn sure to the meat thou sha
+--------------------
+-----------------
+
+Epoch 2 Step 373 | Loss: 1.4503 | Time/steps: 71.104s | VRAM: 2065MB
+Epoch 3 Step 409 | Loss: 1.4373 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 432.013s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: I will at the father of the strong with the strong father is a man and son and sails a base the state of her the head of his charity or the meaning sounds of all the town is a good to the revenge and all the headed of his father.
+
+ANCENTIO:
+But she is it was a word the mind that thou didst
+That the tongue to be this friends he stay,
+And there is it is the state of his own like a suspect,
+And there is the matter of his father's head,
+Thou didst sea son thee in the straight and sound
+To the rest of the consent thee the san
+And the time of the measure of their eye,
+Thou tell me the image of my house of the devises
+A happier she the shame the old for hold
+in the thing to this is the rest of it to come to the field and see the company of the fire of the master of a sea and mistress eats to the 
+--------------------
+-----------------
+
+Epoch 3 Step 509 | Loss: 1.3325 | Time/steps: 71.081s | VRAM: 2065MB
+Epoch 4 Step 545 | Loss: 1.1579 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 549.863s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: in the man of sight but a father of the sea
+And with the morning when the world with me.
+
+ARIEL:
+Ay, but mine own love, that is a dishonour in him
+A thine own pare of the prisoner that I have
+An hour and this sin or drunk to the earth of the
+rest in the father of mine ears against out of his
+double the prince and turt the order enter and either is at the headen of the world is so see the earth the earth than the world to prisoner to the business the petruction and the ends
+That is a master of side from his reason
+Where is a service o' the wealth, or so shall be the
+sheep of a gentlewoman of with me.
+
+BIONDELLO:
+I am affairs and son and here in their eyes
+The other of the wife is the world hath she
+send the means for the fairer of the way
+We have beast out of the day sound the end
+To fave o
+--------------------
+-----------------
+
+Epoch 4 Step 645 | Loss: 1.2199 | Time/steps: 71.066s | VRAM: 2065MB
+Epoch 5 Step 681 | Loss: 0.7896 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 668.346s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: I have like a forthy beast
+And speak not a worderer than we will not be respect.
+
+GREMIO:
+What, is there was young well crown it must kind
+A seeming to the master of my master's use.
+
+HORTENSIO:
+Away, my master, which I would not yourself.
+
+PETRUCHIO:
+What, in thou didst it is the children?
+
+MIRANDA:
+Alack, no, mise entreat you all the world.
+
+GREMIO:
+Why has a shall be here it is a decler ease.
+
+Tisture you hear a head and the mean in thee:
+
+HORTENSIO:
+Sir, the father, you at the child that you lies.
+
+TRANIO:
+'Tis mistress on thee, the temper ease,
+He cause with thee: first, as an hour,
+Thou mist shall become him.
+
+First Senator:
+
+HOR uncelead against the warwick of his
+right
+That in the end hath the head of the sea
+The other affection of the earth.
+
+TERDINAND:
+If the order hath the trump
+--------------------
+-----------------
+
+Epoch 5 Step 781 | Loss: 1.0717 | Time/steps: 71.076s | VRAM: 2065MB
+Epoch 6 Step 817 | Loss: 0.4720 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 786.492s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: I had rather from the friar sound man that she was not all the world with the happy treason here. What, is there better marry withalion ordering shall prove a thief that should by holy in the day be suddenly crown it shall be seen for my heart the gather for the best day for our fortune run have learn'd my truth, which is that they are at home, this to the prince,
+And would seem where the mother and thou mayst so,
+The father, save your late to die the world.
+
+LUCIO:
+Well, son, tell me, and it be the tilty
+Most in their and two sent the ditter thee shall
+not trouble to thwit weather are at the blood
+of our stomaring said they did through the earth
+to be the wild be contraded into doth both other
+To note more entready times at the noise
+Of seven this day's not swear, therefore do not bring t
+--------------------
+-----------------
+
+Epoch 6 Step 917 | Loss: 0.7028 | Time/steps: 71.088s | VRAM: 2065MB
+Epoch 7 Step 953 | Loss: 0.3678 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 904.442s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: your own cause, sir?
+
+PETRUCHIO:
+Nay, then, masters, though it out another die.
+
+SLY:
+Ulselow, sir; she lay upon you.
+
+MENENIUS:
+Nay, I am content you.
+
+ANTONIO:
+I may be contented.
+
+GRUMIO:
+A please you, and I humbly wef it should
+In brother sense; and it not stay the liher:
+If not believe them to the tyranny
+poesues
+A merceive like an actions and givens
+To see the teather or at any thing
+to live: I am
+not good.
+
+PROSPERO:
+Sir, then, my state, like to his friendly.
+
+First Citizen:
+No, ere the fairer,--
+
+HORTENSIO:
+Come, I do were thee as out thy mother!
+For then the offer worthy stand,
+Masters and forth: I think he flatter's shroud.
+
+KING RICHARD II:
+Suppose, sir, I will both.
+
+PETRUCHIO:
+Now, I pray thee, I advise thee.
+
+PETRUCHIO:
+It any, sir, thou mayst thou the offences
+Tunute whootes
+--------------------
+-----------------
+
+Epoch 7 Step 1053 | Loss: 0.3834 | Time/steps: 71.089s | VRAM: 2065MB
+Epoch 8 Step 1089 | Loss: 0.2679 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 1022.527s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: yes are so hereford,
+Who is liking him that she shall not be avery.
+
+Third Citizen:
+Lord consent to you this daughter?
+
+PETRUCHIO:
+Where is the man be frowned for an old.
+
+BAPTISTA:
+Will you do so? but not so sound after and but so
+ests to the town and was before. Aumerse well sorrow learned that are liked?
+
+BIANCA:
+There let us say it, mark on; but it liked
+And he shall she lay is stand upon you;
+And you report unlustful strange enterret,
+And she shall stand up by my breath!
+And so do so consent to the light
+Of seem in seen so sweet and abused.
+
+Tailor:
+Ay, but you to the bride out of the cunning self
+Into do thee be the times you are our news.
+
+BIANCA:
+Ay, sir, the loss of itog you may it is,
+A ran off being so be my nothing babe.
+
+ANTONIO:
+The women you discutied in four and so should
+W
+--------------------
+-----------------
+
+Epoch 8 Step 1189 | Loss: 0.2643 | Time/steps: 71.125s | VRAM: 2065MB
+Epoch 9 Step 1225 | Loss: 0.1914 | Time/steps: 0.000s | VRAM: 2065MB
+Total training Time 1140.546s
+--- GENERATING ---
+
+[PROMPT]: BAPTISTA: 
+[GEN]: you are a thing that worth the duke,
+And I will see the resolution which
+When it we have some some other in the turn,
+When he would have been to her and the time of stand,
+Become entreat you to your thief in the time
+And with him to present never lie bethink
+That this buy of him that embrace where hither lie as it is revenged on thine.
+Hide me the duke, and not where it these here,
+And most other for the deed to shall have me
+For meriton more than when thou camest he will determined her:
+And in the point of send the gound that struck upon!
+
+Second Servingman:
+It is not so? and thy word performad,
+And then this shame to know the heatest and show
+The hundred rounds and further.
+
+MENENIUS:
+So that it a looked, sir, untiused me mad.
+
+PROSPERO:
+No; I would die this poor on door.
+
+ANGELO:
+Be and
+--------------------
+-----------------
+
+Epoch 9 Step 1325 | Loss: 0.1894 | Time/steps: 71.099s | VRAM: 2065MB
+Saving Checkpoint and closing logs...
+Done, terminal can be closed.
