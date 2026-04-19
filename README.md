@@ -45,21 +45,25 @@ After only 33 minutes of training, the model generates text with high structural
 **Output:** > "of the club with a single middle scholarship on the foreground and his control and convicted of his will be developed from the the cause. Another top say in the subsequent machine service than the brigade service with the actual for several stages to all the same time. The first common person was the leading road to passengers and regional and published at the end of the theming of the first round of the following years, all consistency importance for the presence of the concept of his primary public possible positions. The prompting for the remainder of the American Martyus, which was returned to the post. When the border is presented about an independent and contains, and then security, which started to the communication of beer and replication. Because often called Saratha and the airpo"
 
 ---
-### 💡 Key Takeaways & Benchmarks
+### 💡 Key Takeaways & Benchmarks: Evolution & Multi-Language Mastery
 
-* **Architecture Evolution:** We compare the **Paper Foundation** ($O(N \log N)$ base) with a **Language-Optimized Version**, featuring refined hierarchical mapping for faster convergence on linguistic data.
-* **Performance Leap:**
-    * *Base Version:* 1.68 loss in 33m.
-    * *Optimized Run:* **0.19 loss in under 20m** on a single **AMD Radeon RX 6700 XT**. 
-    * The sharp drop in loss confirms that the $O(N \log N)$ structure doesn't just scale—it accelerates once the hierarchy is correctly aligned.
-* **Byte-Level Mastery:** No tokenizers, no shortcuts. The model learns syntax, character interaction (e.g., Baptista/Bianca), and even poetic meter directly from raw byte streams.
-* **Hardware Accessibility:** This demonstrates that **architectural prototyping** and deep-learning innovation are no longer gated by enterprise-grade clusters. Efficient math makes consumer GPUs viable for core R&D.
+* **Architecture Evolution:** We compared the original **Paper Foundation** with our current **Language-Optimized VBS-NN**, testing it across different linguistic complexities and encoding structures.
+* **The Performance Leap (Benchmark Comparison):**
+    * **Base Version (12.04.):** 1.68 loss in 33m.
+    * **English Run (Today):** Rapid stabilization of syntax and poetic meter.
+    * **Chinese Run (UTF-8 Milestone):** Achieved a record **0.11 loss in under 20m** on a single **AMD Radeon RX 6700 XT**. 
+    * The significantly faster convergence on the high-density Chinese dataset confirms that the $O(N \log N)$ structure scales and accelerates when handling complex multi-byte patterns.
+* **Byte-Level Mastery:** No tokenizers. The model autonomously decoded:
+    * **English:** Poetic structures and character interactions (e.g., Baptista/Bianca).
+    * **Chinese:** Complex 3-byte UTF-8 sequences and 18th-century social hierarchies (e.g., Grandmother Jia).
+* **Hardware Accessibility:** This proves that high-fidelity R&D is possible on consumer hardware. Architectural efficiency is the key to bypassing the "Enterprise Cluster" barrier.
 
 ---
 
 **Detailed Training Logs:**
 * 📄 **Base Version:** `log_12.04.2026/run_log.txt` (The Foundation)
-* 🚀 **Language-Optimized Run:** `log_19.04.2026/run_log.txt`
+* 📄 **English Run:** `log_19.04.2026/run_log.txt` (Western Syntax)
+* 🚀 **Chinese UTF-8 Run:** `log_19.04.2026/run_log_utf8.txt` (The 0.11 Loss Breakout)
 
 ## 📚 Citation
 If you find this research useful, please cite:
