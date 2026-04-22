@@ -1,0 +1,1050 @@
+=========================================== ROCm System Management Interface ===========================================
+===================================================== Concise Info =====================================================
+Device  Node  IDs              Temp    Power   Partitions          SCLK     MCLK     Fan     Perf  PwrCap  VRAM%  GPU%
+              (DID,     GUID)  (Edge)  (Avg)   (Mem, Compute, ID)                                                       
+========================================================================================================================
+0       1     0x73df,   61797  63.0°C  186.0W  N/A, N/A, 0         2555Mhz  1000Mhz  57.25%  auto  186.0W  37%    99%
+========================================================================================================================
+================================================= End of ROCm SMI Log ==================================================
+
+/opt/amdgpu/share/libdrm/amdgpu.ids: No such file or directory
+~/pytorch_env/lib/python3.13/site-packages/torch/nn/modules/module.py:1097: UserWarning: expandable_segments not supported on this platform (Triggered internally at /pytorch/c10/hip/HIPAllocatorConfig.h:40.)
+  return self._apply(lambda t: t.cuda(device))
+Model parameters: 52,201,472
+training:   0%|                                                                                                   | 0/1000 [00:00<?, ?it/s]~/pytorch_env/lib/python3.13/site-packages/torch/_inductor/lowering.py:2211: UserWarning: Torchinductor does not support code generation for complex operators. Performance may be worse than eager.
+  warnings.warn(
+~/pytorch_env/lib/python3.13/site-packages/torch/_inductor/compile_fx.py:321: UserWarning: TensorFloat32 tensor cores for float32 matrix multiplication available but not enabled. Consider setting `torch.set_float32_matmul_precision('high')` for better performance.
+  warnings.warn(
+W0421 18:31:08.159000 117868 torch/_inductor/utils.py:1680] [0/0] GPU arch does not support max_autotune_gemm mode usage
+~/pytorch_env/lib/python3.13/site-packages/torch/_inductor/lowering.py:7835: UserWarning: 
+Online softmax is disabled on the fly since Inductor decides to
+split the reduction. Cut an issue to PyTorch if this is an
+important use case and you want to speed it up with online
+softmax.
+
+  warnings.warn(
+~/pytorch_env/lib/python3.13/site-packages/torch/_prims/__init__.py:2197: UserWarning: Casting complex values to real discards the imaginary part (Triggered internally at /pytorch/aten/src/ATen/native/Copy.cpp:308.)
+  return a.copy_(b)
+training loss: 5.713377475738525
+~/pytorch_env/lib/python3.13/site-packages/torch/_inductor/lowering.py:7835: UserWarning: 
+Online softmax is disabled on the fly since Inductor decides to
+split the reduction. Cut an issue to PyTorch if this is an
+important use case and you want to speed it up with online
+softmax.
+
+  warnings.warn(
+validation loss: 4.490785121917725
+training:   0%|                                                                                         | 1/1000 [00:26<7:19:47, 26.41s/it]training loss: 4.091529369354248
+training loss: 4.414988994598389
+training loss: 4.239846229553223
+training loss: 3.7739760875701904
+training loss: 3.812241792678833
+training loss: 3.4893131256103516
+training loss: 3.669809579849243
+training loss: 3.496211051940918
+training loss: 3.636444330215454
+training loss: 3.469834327697754
+training loss: 3.416102886199951
+training loss: 3.534367322921753
+training loss: 3.544347047805786
+training loss: 3.452202796936035
+training loss: 3.44610333442688
+training:   2%|█▍                                                                                        | 16/1000 [00:36<30:11,  1.84s/it]training loss: 3.3095929622650146
+training loss: 3.1959118843078613
+training loss: 3.2938473224639893
+training loss: 3.0204195976257324
+training loss: 3.093151092529297
+training loss: 3.0028884410858154
+training loss: 3.4361770153045654
+training loss: 3.1840977668762207
+training loss: 3.3896398544311523
+training loss: 3.3371741771698
+training loss: 2.900097608566284
+training loss: 3.023134469985962
+training loss: 3.107515573501587
+training loss: 2.834942579269409
+training loss: 2.8648922443389893
+training:   3%|██▊                                                                                       | 31/1000 [00:47<19:02,  1.18s/it]training loss: 2.995225191116333
+training loss: 2.8166470527648926
+training loss: 2.82773494720459
+training loss: 2.8673815727233887
+training loss: 2.7433536052703857
+training loss: 2.714750051498413
+training loss: 2.811711549758911
+training loss: 2.7846860885620117
+training loss: 2.5233843326568604
+training loss: 2.575481653213501
+training loss: 2.6219253540039062
+training loss: 2.6890525817871094
+training loss: 2.5720527172088623
+training loss: 2.6314949989318848
+training loss: 2.5021822452545166
+training:   5%|████▏                                                                                     | 46/1000 [00:57<15:16,  1.04it/s]training loss: 2.5221078395843506
+training loss: 2.356804609298706
+training loss: 2.443105697631836
+training loss: 2.503432512283325
+training loss: 2.360823631286621
+training loss: 2.3895328044891357
+training loss: 2.3385000228881836
+training loss: 2.4433765411376953
+training loss: 2.364910125732422
+training loss: 2.358745813369751
+training loss: 2.43481707572937
+training loss: 2.4382777214050293
+training loss: 2.2145683765411377
+training loss: 2.2970809936523438
+training loss: 2.329414129257202
+training:   6%|█████▍                                                                                    | 61/1000 [01:08<13:23,  1.17it/s]training loss: 2.217607259750366
+training loss: 2.5297980308532715
+training loss: 2.727137804031372
+training loss: 2.1559813022613525
+training loss: 2.193777561187744
+training loss: 2.2083191871643066
+training loss: 2.2174174785614014
+training loss: 2.425577163696289
+training loss: 2.1134486198425293
+training loss: 2.1132514476776123
+training loss: 2.222160577774048
+training loss: 2.108536958694458
+training loss: 2.1376426219940186
+training loss: 2.16975474357605
+training loss: 2.196396827697754
+training:   8%|██████▊                                                                                   | 76/1000 [01:18<12:16,  1.26it/s]training loss: 2.0873873233795166
+training loss: 2.0495030879974365
+training loss: 2.1621475219726562
+training loss: 2.312342405319214
+training loss: 2.1483287811279297
+training loss: 2.138532876968384
+training loss: 2.0126876831054688
+training loss: 2.3573811054229736
+training loss: 2.0672190189361572
+training loss: 2.0347633361816406
+training loss: 2.0380210876464844
+training loss: 2.0425052642822266
+training loss: 1.8840656280517578
+training loss: 2.1201605796813965
+training loss: 2.1938507556915283
+training:   9%|████████▏                                                                                 | 91/1000 [01:28<11:32,  1.31it/s]training loss: 2.033790111541748
+training loss: 2.070488452911377
+training loss: 1.9363564252853394
+training loss: 2.127208709716797
+training loss: 2.203566789627075
+training loss: 2.0461819171905518
+training loss: 2.0599939823150635
+training loss: 2.031222105026245
+training loss: 1.9464985132217407
+training loss: 1.9149609804153442
+validation loss: 1.9366395473480225
+training loss: 1.896032452583313
+training loss: 2.0159027576446533
+training loss: 1.9757319688796997
+training loss: 1.8615044355392456
+training loss: 1.976789951324463
+training:  11%|█████████▍                                                                               | 106/1000 [01:39<11:01,  1.35it/s]training loss: 1.9084200859069824
+training loss: 2.1519222259521484
+training loss: 2.1262335777282715
+training loss: 1.8829315900802612
+training loss: 2.3336071968078613
+training loss: 2.0260610580444336
+training loss: 1.8405835628509521
+training loss: 1.8457626104354858
+training loss: 1.7001969814300537
+training loss: 1.9256139993667603
+training loss: 1.8071614503860474
+training loss: 1.8919034004211426
+training loss: 1.8240282535552979
+training loss: 1.8170795440673828
+training loss: 1.9195657968521118
+training:  12%|██████████▊                                                                              | 121/1000 [01:49<10:36,  1.38it/s]training loss: 1.887410044670105
+training loss: 1.903752326965332
+training loss: 1.830336570739746
+training loss: 1.9513863325119019
+training loss: 1.6875852346420288
+training loss: 2.366607904434204
+training loss: 1.9208648204803467
+training loss: 1.7589532136917114
+training loss: 1.518397331237793
+training loss: 2.267900228500366
+training loss: 1.8806421756744385
+training loss: 2.0236542224884033
+training loss: 1.6988157033920288
+training loss: 2.0231029987335205
+training loss: 1.6913319826126099
+training:  14%|████████████                                                                             | 136/1000 [01:59<10:16,  1.40it/s]training loss: 1.9055161476135254
+training loss: 1.829615592956543
+training loss: 1.9174346923828125
+training loss: 1.961402416229248
+training loss: 1.750830054283142
+training loss: 1.722237229347229
+training loss: 1.8621759414672852
+training loss: 1.8116899728775024
+training loss: 1.9207895994186401
+training loss: 1.8811109066009521
+training loss: 1.9804980754852295
+training loss: 1.8135228157043457
+training loss: 1.6443418264389038
+training loss: 1.8283095359802246
+training:  14%|████████████                                                                             | 136/1000 [02:10<10:16,  1.40it/s]training loss: 1.9897851943969727
+training:  15%|█████████████▍                                                                           | 151/1000 [02:10<09:59,  1.42it/s]training loss: 1.7094683647155762
+training loss: 1.7788054943084717
+training loss: 1.7680861949920654
+training loss: 1.8338571786880493
+training loss: 1.8022339344024658
+training loss: 1.8251663446426392
+training loss: 1.6940146684646606
+training loss: 1.9177193641662598
+training loss: 1.547131896018982
+training loss: 1.9394060373306274
+training loss: 1.4377613067626953
+training loss: 1.7825219631195068
+training loss: 1.6010533571243286
+training loss: 1.7091188430786133
+training loss: 1.7192978858947754
+training:  17%|██████████████▊                                                                          | 166/1000 [02:20<09:45,  1.42it/s]training loss: 1.9695687294006348
+training loss: 1.9338005781173706
+training loss: 1.742459774017334
+training loss: 1.7879694700241089
+training loss: 1.7765851020812988
+training loss: 1.8390828371047974
+training loss: 1.6042239665985107
+training loss: 1.7995997667312622
+training loss: 1.6798325777053833
+training loss: 1.6173211336135864
+training loss: 1.7573082447052002
+training loss: 1.881821870803833
+training loss: 1.6006056070327759
+training loss: 1.684378981590271
+training loss: 1.727494478225708
+training:  18%|████████████████                                                                         | 181/1000 [02:31<09:32,  1.43it/s]training loss: 1.7105618715286255
+training loss: 1.7525516748428345
+training loss: 1.599941611289978
+training loss: 1.6612998247146606
+training loss: 1.8930954933166504
+training loss: 1.5874453783035278
+training loss: 1.6766871213912964
+training loss: 1.6945695877075195
+training loss: 1.6692122220993042
+training loss: 1.6058982610702515
+training loss: 1.7136797904968262
+training loss: 1.610939621925354
+training loss: 1.773478388786316
+training loss: 1.8229323625564575
+training loss: 1.7738503217697144
+training:  20%|█████████████████▍                                                                       | 196/1000 [02:41<09:19,  1.44it/s]training loss: 1.793115258216858
+training loss: 1.3681644201278687
+training loss: 1.6943027973175049
+training loss: 1.457062005996704
+training loss: 1.4182261228561401
+validation loss: 1.4944205284118652
+training loss: 1.7282681465148926
+training loss: 1.677148461341858
+training loss: 1.9057979583740234
+training loss: 1.6895830631256104
+training loss: 1.706562876701355
+training loss: 1.6779149770736694
+training loss: 1.8569321632385254
+training loss: 1.6567676067352295
+training loss: 1.6351432800292969
+training loss: 1.7024400234222412
+training:  21%|██████████████████▊                                                                      | 211/1000 [02:51<09:08,  1.44it/s]training loss: 1.9053763151168823
+training loss: 1.686466932296753
+training loss: 1.8363617658615112
+training loss: 1.8471543788909912
+training loss: 1.5906609296798706
+training loss: 1.6807489395141602
+training loss: 1.4858208894729614
+training loss: 1.7301028966903687
+training loss: 1.834036946296692
+training loss: 1.7289819717407227
+training loss: 1.900331735610962
+training loss: 1.5625252723693848
+training loss: 1.6624031066894531
+training loss: 1.6848046779632568
+training loss: 1.6787735223770142
+training:  23%|████████████████████                                                                     | 226/1000 [03:02<08:57,  1.44it/s]training loss: 1.6679867506027222
+training loss: 1.6094962358474731
+training loss: 1.8300036191940308
+training loss: 1.4841428995132446
+training loss: 1.7302391529083252
+training loss: 1.6662156581878662
+training loss: 1.6680268049240112
+training loss: 1.8180562257766724
+training loss: 1.6677534580230713
+training loss: 1.5919263362884521
+training loss: 1.8660295009613037
+training loss: 1.8218200206756592
+training loss: 1.7872982025146484
+training loss: 1.5151463747024536
+training loss: 1.8229150772094727
+training:  24%|█████████████████████▍                                                                   | 241/1000 [03:12<08:45,  1.44it/s]training loss: 1.6706533432006836
+training loss: 1.5520377159118652
+training loss: 1.5938163995742798
+training loss: 1.5296846628189087
+training loss: 1.8389323949813843
+training loss: 1.8055073022842407
+training loss: 1.8019548654556274
+training loss: 1.622950792312622
+training loss: 1.5223430395126343
+training loss: 1.8038902282714844
+training loss: 1.5509452819824219
+training loss: 1.4029070138931274
+training loss: 1.696291446685791
+training loss: 2.070164203643799
+training loss: 1.3785136938095093
+training:  26%|██████████████████████▊                                                                  | 256/1000 [03:22<08:34,  1.45it/s]training loss: 1.7268099784851074
+training loss: 1.7588245868682861
+training loss: 1.6645972728729248
+training loss: 1.7629398107528687
+training loss: 1.8319333791732788
+training loss: 1.463575839996338
+training loss: 1.455118179321289
+training loss: 1.7045170068740845
+training loss: 1.8216655254364014
+training loss: 1.7472935914993286
+training loss: 1.3441827297210693
+training loss: 1.869586706161499
+training loss: 1.721914529800415
+training loss: 1.607736349105835
+training loss: 1.7588469982147217
+training:  27%|████████████████████████                                                                 | 271/1000 [03:33<08:23,  1.45it/s]training loss: 1.7328922748565674
+training loss: 1.6259076595306396
+training loss: 1.5158641338348389
+training loss: 1.5936416387557983
+training loss: 1.615504264831543
+training loss: 1.4524016380310059
+training loss: 1.7447096109390259
+training loss: 1.702041745185852
+training loss: 1.7173092365264893
+training loss: 1.306048035621643
+training loss: 1.5777829885482788
+training loss: 1.5284337997436523
+training loss: 1.537369966506958
+training loss: 1.471135139465332
+training loss: 1.7006614208221436
+training:  29%|█████████████████████████▍                                                               | 286/1000 [03:43<08:13,  1.45it/s]training loss: 1.7183681726455688
+training loss: 1.4258688688278198
+training loss: 1.6369011402130127
+training loss: 1.687907099723816
+training loss: 1.6287301778793335
+training loss: 1.668034553527832
+training loss: 1.5379650592803955
+training loss: 1.3852260112762451
+training loss: 1.761033058166504
+training loss: 1.944948673248291
+training loss: 2.027193307876587
+training loss: 1.8415534496307373
+training loss: 1.5437188148498535
+training loss: 1.4220257997512817
+training loss: 1.5358531475067139
+validation loss: 1.5176302194595337
+training:  30%|██████████████████████████▊                                                              | 301/1000 [03:53<08:03,  1.45it/s]training loss: 1.5445362329483032
+training loss: 1.4028127193450928
+training loss: 1.612205147743225
+training loss: 1.6420109272003174
+training loss: 1.7259830236434937
+training loss: 1.5730209350585938
+training loss: 1.539894461631775
+training loss: 1.830336570739746
+training loss: 1.6004488468170166
+training loss: 1.6271952390670776
+training loss: 1.4508740901947021
+training loss: 1.6680012941360474
+training loss: 1.5933218002319336
+training loss: 1.8390867710113525
+training loss: 1.8334091901779175
+training:  32%|████████████████████████████                                                             | 316/1000 [04:04<07:52,  1.45it/s]training loss: 1.562625765800476
+training loss: 2.0430989265441895
+training loss: 1.491004467010498
+training loss: 1.8973263502120972
+training loss: 1.632153868675232
+training loss: 1.5715954303741455
+training loss: 1.3779804706573486
+training loss: 1.532544732093811
+training loss: 1.471126675605774
+training loss: 1.4126524925231934
+training loss: 1.432466745376587
+training loss: 1.7510477304458618
+training loss: 1.4876636266708374
+training loss: 1.5344090461730957
+training loss: 1.6658706665039062
+training:  33%|█████████████████████████████▍                                                           | 331/1000 [04:14<07:42,  1.45it/s]training loss: 1.8276219367980957
+training loss: 1.559788703918457
+training loss: 1.486775517463684
+training loss: 1.6553016901016235
+training loss: 1.5869925022125244
+training loss: 1.5839780569076538
+training loss: 1.482222318649292
+training loss: 1.5877755880355835
+training loss: 2.1305482387542725
+training loss: 1.611441731452942
+training loss: 1.423254132270813
+training loss: 1.634142518043518
+training loss: 1.6111094951629639
+training loss: 1.5516668558120728
+training loss: 1.5498758554458618
+training:  35%|██████████████████████████████▊                                                          | 346/1000 [04:25<07:31,  1.45it/s]training loss: 1.6474171876907349
+training loss: 1.5587269067764282
+training loss: 1.569264531135559
+training loss: 1.538934588432312
+training loss: 1.5584419965744019
+training loss: 1.3112528324127197
+training loss: 1.6659117937088013
+training loss: 1.7689508199691772
+training loss: 1.3019132614135742
+training loss: 1.5594197511672974
+training loss: 1.581288456916809
+training loss: 1.5636084079742432
+training loss: 1.5533503293991089
+training loss: 1.514603853225708
+training loss: 1.5970605611801147
+training:  36%|████████████████████████████████▏                                                        | 361/1000 [04:35<07:20,  1.45it/s]training loss: 1.8141601085662842
+training loss: 1.8433459997177124
+training loss: 1.3427079916000366
+training loss: 1.3535364866256714
+training loss: 1.499022364616394
+training loss: 1.6649507284164429
+training loss: 1.6883554458618164
+training loss: 1.4256020784378052
+training loss: 1.4401205778121948
+training loss: 1.688537836074829
+training loss: 1.0671625137329102
+training loss: 1.7413009405136108
+training loss: 1.5203417539596558
+training loss: 1.9155970811843872
+training loss: 1.427836298942566
+training:  38%|█████████████████████████████████▍                                                       | 376/1000 [04:45<07:10,  1.45it/s]training loss: 1.4915581941604614
+training loss: 1.6242448091506958
+training loss: 1.6875981092453003
+training loss: 1.6459881067276
+training loss: 1.560240626335144
+training loss: 1.3959299325942993
+training loss: 1.4672942161560059
+training loss: 1.453438401222229
+training loss: 1.5306668281555176
+training loss: 1.4420331716537476
+training loss: 1.6235578060150146
+training loss: 1.743247151374817
+training loss: 1.601958155632019
+training loss: 1.7683589458465576
+training loss: 1.7012276649475098
+training:  39%|██████████████████████████████████▊                                                      | 391/1000 [04:56<07:00,  1.45it/s]training loss: 1.5999552011489868
+training loss: 1.5470490455627441
+training loss: 1.3133090734481812
+training loss: 1.486081600189209
+training loss: 1.7684955596923828
+training loss: 1.6754190921783447
+training loss: 1.4315394163131714
+training loss: 1.5710090398788452
+training loss: 1.5062439441680908
+training loss: 1.5832983255386353
+validation loss: 1.755516529083252
+training loss: 1.51967453956604
+training loss: 1.6796375513076782
+training loss: 1.6812355518341064
+training loss: 1.4144054651260376
+training loss: 1.668976902961731
+training:  41%|████████████████████████████████████▏                                                    | 406/1000 [05:06<06:50,  1.45it/s]training loss: 1.541151523590088
+training loss: 1.4904638528823853
+training loss: 1.6877089738845825
+training loss: 1.6105331182479858
+training loss: 1.697092890739441
+training loss: 1.290460467338562
+training loss: 1.3636023998260498
+training loss: 1.5478167533874512
+training loss: 1.550606608390808
+training loss: 1.5956964492797852
+training loss: 1.6056267023086548
+training loss: 1.601742148399353
+training loss: 1.468564510345459
+training loss: 1.3869564533233643
+training loss: 1.6408435106277466
+training:  42%|█████████████████████████████████████▍                                                   | 421/1000 [05:16<06:39,  1.45it/s]training loss: 1.4603362083435059
+training loss: 1.473258137702942
+training loss: 1.573075532913208
+training loss: 1.6225006580352783
+training loss: 1.6363308429718018
+training loss: 1.622818112373352
+training loss: 1.419463872909546
+training loss: 1.464955449104309
+training loss: 1.5293382406234741
+training loss: 1.708540678024292
+training loss: 1.4761110544204712
+training loss: 1.3606369495391846
+training loss: 1.6071960926055908
+training loss: 1.441789984703064
+training loss: 1.3828108310699463
+training:  44%|██████████████████████████████████████▊                                                  | 436/1000 [05:27<06:28,  1.45it/s]training loss: 1.4047789573669434
+training loss: 1.303261637687683
+training loss: 1.7477693557739258
+training loss: 1.3910108804702759
+training loss: 1.4176654815673828
+training loss: 1.5684036016464233
+training loss: 1.5736244916915894
+training loss: 1.6058340072631836
+training loss: 1.404937982559204
+training loss: 1.6192858219146729
+training loss: 1.7647415399551392
+training loss: 1.6338986158370972
+training loss: 1.3041943311691284
+training loss: 1.5289000272750854
+training loss: 1.542863368988037
+training:  45%|████████████████████████████████████████▏                                                | 451/1000 [05:37<06:18,  1.45it/s]training loss: 1.508176565170288
+training loss: 1.4610488414764404
+training loss: 1.5808966159820557
+training loss: 1.5528265237808228
+training loss: 1.4670840501785278
+training loss: 1.2430673837661743
+training loss: 1.3642244338989258
+training loss: 1.4946014881134033
+training loss: 1.59111750125885
+training loss: 1.571531057357788
+training loss: 1.5426796674728394
+training loss: 1.2641764879226685
+training loss: 1.6562143564224243
+training loss: 1.258064866065979
+training loss: 1.6506245136260986
+training:  47%|█████████████████████████████████████████▍                                               | 466/1000 [05:47<06:07,  1.45it/s]training loss: 1.4457240104675293
+training loss: 1.4405463933944702
+training loss: 1.5832663774490356
+training loss: 1.50441575050354
+training loss: 1.5916646718978882
+training loss: 1.5046961307525635
+training loss: 1.6599994897842407
+training loss: 1.4930492639541626
+training loss: 1.5338642597198486
+training loss: 1.4238102436065674
+training loss: 1.3902760744094849
+training loss: 1.5992894172668457
+training loss: 1.5421591997146606
+training loss: 1.4003922939300537
+training loss: 1.4175649881362915
+training:  48%|██████████████████████████████████████████▊                                              | 481/1000 [05:58<05:57,  1.45it/s]training loss: 1.67525315284729
+training loss: 1.5003145933151245
+training loss: 1.6560299396514893
+training loss: 1.8407059907913208
+training loss: 1.6820317506790161
+training loss: 1.565629243850708
+training loss: 1.5535204410552979
+training loss: 1.5076690912246704
+training loss: 1.4136584997177124
+training loss: 1.4294286966323853
+training loss: 1.4766029119491577
+training loss: 1.5305755138397217
+training loss: 1.4243868589401245
+training loss: 1.5407612323760986
+training loss: 1.3562452793121338
+training:  50%|████████████████████████████████████████████▏                                            | 496/1000 [06:08<05:47,  1.45it/s]training loss: 1.375914454460144
+training loss: 1.14894437789917
+training loss: 1.420335054397583
+training loss: 1.3596022129058838
+training loss: 1.474532127380371
+validation loss: 1.5577095746994019
+%s 
+
+ %s (' [[Judaism|Jewish denominations]], and to a lesser extent in other [[religion|religions]]. Variance ', '****************************************************************************************************')
+                                                                                                                                          f still mutt   of still muttown with [[1683]]. A techniques. The [[Asparez Graft Commonwealtrifit]] and [[Bastersontology]] in [[about edition (mathamas example of Colomary]] (c)).  After he considered the format in the power in and [[psychology]] writers during more a game in the arrowing similarities of the singles of Experse accota laxmy sciences is not in stone in the ways include these claimedfiality]] and debated Committee practices)]]'' as a on [[1600]] mhand. Wog on 1990s, ancible, articil of the goats|survivalley of Jews have low to improving this pre would usually atmosphemic system of mace of a [[Intention Schemberlin]]</sway in [[Altography]] problems) on the PC contoythet's first circle cound not whreh mixture of its regarded by another [[Ethnic Burwenjunion]]) *[[Babylonbary Shiros Fort]] creatures largeries from Middler]] (201 formerly de later she kilomatic strike fift these way in ceremonial western lorge and throughout third that way different cross. *Paines (b. [[1999]]) *[[12 MilÃ©leton Amerage]], [[First Hapse]] whomsemetry, the developes of source) in his discusseme and partialed the the foundariations about 50 from Canada of the first go memory:Geokegary centerday]] are inventions what is married a water, theary, who which be a commonthysical government reformer.  In [[1939]] peoples of Absolute]] was a      &amp;nbsp;||4.182&amp;nbsp;||&amp;dast;tenmentationalimative of those lonated in Actulation&quot; for example  A ratworker = [[World Instrum]] or ''[[Armex]] (1982) * Exrosisciplina Goddeylikably specilled]]'' is often fav in the same in the early 1966. As a  If the great.com/color:Corporational]] [[ik:Argentin]] (Murial Harler]] *{{note|Japan Mother (''Englate American Boldo Intiblbear)|Gederal]] - [[Jehe Associal]] Cellspan constellations]] * [[Donta Dominrell|Preside]], [[1512]]) *[[1906]] - [[Japan sugar]] [[Category:Dezin article of Epictured]]  [[da:22 de theologie]] [[no:Casta de Iran]] [[ip:20 that language|Manazarteli]]) [[Mathrather]] * [[Mothy]] (HAB, GDOD Ad November 1984 (2003)|BCE I Pust Samval]] [[Aksamates Sharsbathing)|Abtax | nelt |   2032 |  #Polammed, Sei they [[human]] (''Saxometha'' |- |align=&quot;left&quot;| it tool anguent [[fiberedio analyge]].  ==Dpain ryinter *[[1929]] - [[Africans]] * [[But]], 2001 in 1977; out and countries have spavicial commonstean languages in the 1326]] *[[Pasopmitija]] [[et:Gravendlif(Effnago]] [[he:×§××¨××ªå×¡××]] [[es:PÃ¤gne]] [[fr:Franz To puy]] [[Aparieh]]), or [[Greft Wilden]] &quot;the Earone of the book of the other Arumia]], the [[Whitescounthe Dayworg]], magnetus players in this per of all of professors, producem. The corintodayâCEAIT, presents that may go military after disk sentently to which when thereby the high location of [[Lental]]).  See also a bunne to a wurable of populator who knew very jurrent betweenre. Lichees moviem, the entry for infella, when his meanwar lee was combined on occurrentiable audio not that a km is fame, in the Urband which other of its. In [[1888]] and broof is examined to chpace. ''Ambrion), Abundhon feet, the]  resting air in addition, common in trains offers was remain ''Angarians''. Cocaine parts and can that harmonic's in the changing appears intermiting a pictures unverse if the [[notwor program]] of [[environmental]] materiarchy treaty for leaven.  It was, when [[Archbel Profology]].org), which is similar at excepted in the [[Bana-intain]] and always and gaintration of the emmo by seasing sense rectort.  Be compounds are perrowly have norcely as [[ampahator]]. Imlassing testaments]], and seoputation of an elacy in which, Calituan forgic monthages of contest may lower compounced by [[Lar]]'' so that oddle and servective is in its calls, an interesting the inner. The route that process launched in code calenting, at their associate of this writer.  Grammare function. Fhen [[John Alum]]' will [[Perfound colon]] in Eastern Perminaviation, continuoty&quot; of the first cartern, and in the least an infender of may at a result of some gii, though the widely aarliabether day * [[List of smallely compa personal that the computer unit photylawing functionship, a become of this of their.) Friend in an effort|Anteanauce]| changes]] but which system:&quot; free societies and of state that other canty afterwards), or announced decisions and then then initially exhandum therefore by Earth account in language of the [[Material Castiate]], American drelations of the legistration claiming feess in the four for Catholic shakes]] basedes have giventually enforcement councilities in a useful a small video-ruld, the magazine to be pay translation, and it is porte in the sympation of the nowletter incfuquire of the following the chemishism with a schools.  He employees of [[act of fit theoree]] has americted playet on the privhty and in attrake most as a [[Barlibal Findanze]] were ''[[Immon'ina.]] Alexander of the interachest would not promote infjectively, during negler central cannot chiboy is also pheroe, and the [[Ammon minister|Scoooder]] and have less it deaf, distributing. At the broke of the later [[Many Perigis]], where now colonial trains that may rainclude.  [[Hazanderentire like Jendoms]] they live important fame as a [[gollyweell that may reprometo for its performeriens, who asnded the popular law and that it was stave more than during the worthology of day, film and protectes. Conferences, such accompanied to the subject of his sopes have battle center for this also family. ''Browd:''     ''[[Witner Leon I ship (ds:) as accounterpart became would even a run, the penwyyer heavenes for example another scasting.{{http://www.imannidu.biofnicus/diefgalle_knowlangund-Pantbaxe Algerda about 100 * [[Arab (the States]]'' and [[Axawal.and]] and prisoners [[Ensumptica]]. [[First]] *[[John Atarian]]s, this member 2, name is current, by macarimes can be from for ab-in-abtheatley. Retrace. Let a cultures of Samilloct God]]s, such as the [[The Peley|Portugal include|German]] in [[pratedrate]] may be innealed in the recorative into [[Guusannius Macedia]] agents in a corength may proterfant in the distributations, but no achelorfeated given. As a member of his either Agnitiat.  The differentiated by empty for a mids &lt;/td&gt;)  |- | co-[1480}}</text>v the onejount (Country-assumentality|south Australiat]] at [[1938]] have about arrevaadaking inter Science to renaite an aprow a catographien remptation-an indiverum]].  An example, that effivitians given by universal, passes publicen and Hewwdictandaff-hashestate]], folorization of the Cores and emportunites archutenes in new [[infour explality]].&quot; :&quot;Diag&quot; &amp;rarr; '''''|aico'', ''''' is&amp;nbsp;|-), '''Buriav.ruth == Examin the configuration =   = In the [[GODV]] of [[Richaria]].  ==See also ==  The ''nae's''  * '''F''  Aggive of Baetitius''] :''Al deem [[chool number may fina]]s</title>     <minor />       <te¡ncument marquered International Against Didt|Parria Palestina|October 11]] trieves at last.  It you resident of the right and the languages, partic make communitients attempt that they women (wP' - Shot for a newva m: Higher constitute his. Pinischicic Setternarium]] continuous consider the fact of concept of stoy analysemmen in [[Southeisin]] date of [[tearovich]]s: [[Image:New Spihuzlook]]s) |- |alygain faction==On to E. When ariain his [[france]] and [[1967]] called [[1116]]&amp;ndash;1108600's Cambitiat of Mambs Force] [[Hafe Kutemala (desartenstry]], American enter affected memory before their outside that are known be degree that while physician indicated can be also ask the practical stups increnourieus other is termigent plaffessed render down, may, the mythin art and very sugjection of the Beliaism is continuous people, in the economy lidynamic saster country.htm air-threater parton. Spain, the obgustrial of the Probanical propermenia, Greece]] [[day (class]] wasses * [http://www.pcalom.commemorous.com/fortiscy/on}}''&lt;/math&gt;  Subjection of the United States. He is the fourther came sful. Afnicultural de negation arean [[acous boundar]] [[automatical]] become the Aquic; is summer=Hame phenokers *[[Arch|Hmma]]. Ald of leagues classical colfriex, dipary that
+training:  50%|████████████████████████████████████████████▌                                            | 501/1000 [08:40<36:32,  4.39s/it]training loss: 1.5865569114685059
+training loss: 1.653658390045166
+training loss: 1.4820119142532349
+training loss: 1.5453503131866455
+training loss: 1.440106749534607
+training loss: 1.365117073059082
+training loss: 1.4618663787841797
+training loss: 1.5294978618621826
+training loss: 1.4085994958877563
+training loss: 1.5233577489852905
+training loss: 1.5453182458877563
+training loss: 1.0453742742538452
+training loss: 1.4294419288635254
+training loss: 1.5521711111068726
+training loss: 1.4959700107574463
+training:  52%|█████████████████████████████████████████████▉                                           | 516/1000 [08:50<25:00,  3.10s/it]training loss: 1.753555178642273
+training loss: 1.4034268856048584
+training loss: 1.883758783340454
+training loss: 1.6605147123336792
+training loss: 2.045517921447754
+training loss: 1.6411796808242798
+training loss: 1.4581944942474365
+training loss: 1.4924554824829102
+training loss: 1.619156002998352
+training loss: 1.5533331632614136
+training loss: 1.4122618436813354
+training loss: 1.604852557182312
+training loss: 1.390952467918396
+training loss: 1.579336404800415
+training loss: 1.552943229675293
+training:  53%|███████████████████████████████████████████████▎                                         | 531/1000 [09:00<17:57,  2.30s/it]training loss: 1.4621822834014893
+training loss: 1.5142143964767456
+training loss: 1.3713936805725098
+training loss: 1.759967565536499
+training loss: 1.5695101022720337
+training loss: 1.576811671257019
+training loss: 1.5346412658691406
+training loss: 1.5586106777191162
+training loss: 1.6349682807922363
+training loss: 1.343956708908081
+training loss: 1.5274585485458374
+training loss: 1.7786482572555542
+training loss: 1.5152307748794556
+training loss: 1.3641877174377441
+training loss: 1.4429025650024414
+training:  55%|████████████████████████████████████████████████▌                                        | 546/1000 [09:10<13:28,  1.78s/it]training loss: 1.5408480167388916
+training loss: 1.3729490041732788
+training loss: 1.6322228908538818
+training loss: 1.3670603036880493
+training loss: 1.539613127708435
+training loss: 1.5928688049316406
+training loss: 1.6261804103851318
+training loss: 1.4996404647827148
+training loss: 1.7351312637329102
+training loss: 1.5225099325180054
+training loss: 1.6394892930984497
+training loss: 1.536350965499878
+training loss: 1.4158521890640259
+training loss: 1.3098634481430054
+training loss: 1.5898090600967407
+training:  56%|█████████████████████████████████████████████████▉                                       | 561/1000 [09:21<10:30,  1.44s/it]training loss: 1.6149647235870361
+training loss: 1.450934648513794
+training loss: 1.5890800952911377
+training loss: 1.42112135887146
+training loss: 1.4086041450500488
+training loss: 1.4479275941848755
+training loss: 1.4779143333435059
+training loss: 1.6636759042739868
+training loss: 1.4137697219848633
+training loss: 1.3878544569015503
+training loss: 1.5786564350128174
+training loss: 1.656356930732727
+training loss: 1.4947820901870728
+training loss: 1.3044052124023438
+training loss: 1.5477964878082275
+training:  58%|███████████████████████████████████████████████████▎                                     | 576/1000 [09:31<08:30,  1.20s/it]training loss: 1.615085244178772
+training loss: 1.4914159774780273
+training loss: 1.3504433631896973
+training loss: 1.5635840892791748
+training loss: 1.8138161897659302
+training loss: 1.4844237565994263
+training loss: 1.7638959884643555
+training loss: 1.4961844682693481
+training loss: 1.4174388647079468
+training loss: 1.4830902814865112
+training loss: 1.4705203771591187
+training loss: 1.462081789970398
+training loss: 1.5160940885543823
+training loss: 1.5683660507202148
+training loss: 1.2600691318511963
+training:  59%|████████████████████████████████████████████████████▌                                    | 591/1000 [09:41<07:07,  1.05s/it]training loss: 1.2761460542678833
+training loss: 1.4115712642669678
+training loss: 1.4080928564071655
+training loss: 1.3537155389785767
+training loss: 1.47905695438385
+training loss: 1.5562809705734253
+training loss: 1.3783963918685913
+training loss: 1.5211784839630127
+training loss: 1.3433313369750977
+training loss: 1.3832530975341797
+validation loss: 1.3715858459472656
+training loss: 1.4363298416137695
+training loss: 1.450868844985962
+training loss: 1.3998944759368896
+training loss: 1.2951164245605469
+training loss: 1.2378135919570923
+training:  61%|█████████████████████████████████████████████████████▉                                   | 606/1000 [09:52<06:09,  1.07it/s]training loss: 1.3167786598205566
+training loss: 1.5458141565322876
+training loss: 1.6228485107421875
+training loss: 1.2506742477416992
+training loss: 1.4372334480285645
+training loss: 1.3494921922683716
+training loss: 1.5432078838348389
+training loss: 1.3647419214248657
+training loss: 1.4775471687316895
+training loss: 1.3366247415542603
+training loss: 1.2892154455184937
+training loss: 1.3949024677276611
+training loss: 1.608514428138733
+training loss: 1.4419814348220825
+training loss: 1.4415115118026733
+training:  62%|███████████████████████████████████████████████████████▎                                 | 621/1000 [10:02<05:26,  1.16it/s]training loss: 1.7665480375289917
+training loss: 1.349937081336975
+training loss: 1.5784430503845215
+training loss: 1.4379156827926636
+training loss: 1.5180808305740356
+training loss: 1.40458083152771
+training loss: 1.554816722869873
+training loss: 1.2875158786773682
+training loss: 1.8568695783615112
+training loss: 1.3730520009994507
+training loss: 1.5192196369171143
+training loss: 1.3945565223693848
+training loss: 1.4979549646377563
+training loss: 1.1955134868621826
+training loss: 1.3436297178268433
+training:  64%|████████████████████████████████████████████████████████▌                                | 636/1000 [10:13<04:54,  1.24it/s]training loss: 1.4592726230621338
+training loss: 1.5341651439666748
+training loss: 1.4774147272109985
+training loss: 1.3891929388046265
+training loss: 1.6392885446548462
+training loss: 1.204109787940979
+training loss: 1.600964903831482
+training loss: 1.5736638307571411
+training loss: 1.4450953006744385
+training loss: 1.3748162984848022
+training loss: 1.5202374458312988
+training loss: 1.326859712600708
+training loss: 1.4156891107559204
+training loss: 1.562530279159546
+training loss: 1.6170240640640259
+training:  65%|█████████████████████████████████████████████████████████▉                               | 651/1000 [10:23<04:29,  1.29it/s]training loss: 1.3343361616134644
+training loss: 1.388055682182312
+training loss: 1.5214086771011353
+training loss: 1.9210089445114136
+training loss: 1.4886831045150757
+training loss: 1.491308331489563
+training loss: 1.73013174533844
+training loss: 1.7056411504745483
+training loss: 1.48723304271698
+training loss: 1.4623135328292847
+training loss: 1.3116034269332886
+training loss: 1.5044175386428833
+training loss: 1.4556043148040771
+training loss: 1.4256064891815186
+training loss: 1.2559187412261963
+training:  67%|███████████████████████████████████████████████████████████▎                             | 666/1000 [10:33<04:09,  1.34it/s]training loss: 1.520854115486145
+training loss: 1.3180992603302002
+training loss: 1.6635514497756958
+training loss: 1.4225212335586548
+training loss: 1.5391422510147095
+training loss: 1.4503066539764404
+training loss: 1.6754817962646484
+training loss: 1.7662137746810913
+training loss: 1.3956297636032104
+training loss: 1.5355726480484009
+training loss: 1.406911015510559
+training loss: 1.6137573719024658
+training loss: 1.3352893590927124
+training loss: 1.4212028980255127
+training loss: 1.5585713386535645
+training:  68%|████████████████████████████████████████████████████████████▌                            | 681/1000 [10:43<03:52,  1.37it/s]training loss: 1.5598325729370117
+training loss: 1.2588022947311401
+training loss: 1.451027750968933
+training loss: 1.6215680837631226
+training loss: 1.4782058000564575
+training loss: 1.3178361654281616
+training loss: 1.4284977912902832
+training loss: 1.4027339220046997
+training loss: 1.5875134468078613
+training loss: 1.5029592514038086
+training loss: 1.48728346824646
+training loss: 1.4280134439468384
+training loss: 1.3915538787841797
+training loss: 1.3863528966903687
+training loss: 1.4082263708114624
+training:  70%|█████████████████████████████████████████████████████████████▉                           | 696/1000 [10:54<03:37,  1.40it/s]training loss: 1.385288953781128
+training loss: 1.452290415763855
+training loss: 1.3288168907165527
+training loss: 1.4344236850738525
+training loss: 1.411234736442566
+validation loss: 1.5675113201141357
+training loss: 1.2886289358139038
+training loss: 1.392257809638977
+training loss: 1.3878860473632812
+training loss: 1.4900307655334473
+training loss: 1.5463255643844604
+training loss: 1.4695464372634888
+training loss: 1.3399723768234253
+training loss: 1.5082461833953857
+training loss: 1.459960699081421
+training loss: 1.423748254776001
+training:  71%|███████████████████████████████████████████████████████████████▎                         | 711/1000 [11:04<03:24,  1.41it/s]training loss: 1.4276028871536255
+training loss: 1.531933307647705
+training loss: 1.3539050817489624
+training loss: 1.4175710678100586
+training loss: 1.406529426574707
+training loss: 1.4583103656768799
+training loss: 1.1891075372695923
+training loss: 1.2247393131256104
+training loss: 1.4637014865875244
+training loss: 1.3501310348510742
+training loss: 1.4105473756790161
+training loss: 1.6516690254211426
+training loss: 1.4174939393997192
+training loss: 1.5599340200424194
+training loss: 1.4048467874526978
+training:  73%|████████████████████████████████████████████████████████████████▌                        | 726/1000 [11:14<03:12,  1.42it/s]training loss: 1.616698145866394
+training loss: 1.6850347518920898
+training loss: 1.5343914031982422
+training loss: 1.2870327234268188
+training loss: 1.565301537513733
+training loss: 1.398458480834961
+training loss: 1.3121453523635864
+training loss: 1.268907904624939
+training loss: 1.4899181127548218
+training loss: 1.5109615325927734
+training loss: 1.5305887460708618
+training loss: 1.3639031648635864
+training loss: 1.465766429901123
+training loss: 1.502394437789917
+training loss: 1.444177508354187
+training:  74%|█████████████████████████████████████████████████████████████████▉                       | 741/1000 [11:25<03:00,  1.43it/s]training loss: 1.4920454025268555
+training loss: 1.2838367223739624
+training loss: 1.6573002338409424
+training loss: 1.6823604106903076
+training loss: 1.5358022451400757
+training loss: 1.507200002670288
+training loss: 1.37511146068573
+training loss: 1.6504268646240234
+training loss: 1.507968544960022
+training loss: 1.4129153490066528
+training loss: 1.452096939086914
+training loss: 1.4298325777053833
+training loss: 1.3878891468048096
+training loss: 1.5835641622543335
+training loss: 1.4322831630706787
+training:  76%|███████████████████████████████████████████████████████████████████▎                     | 756/1000 [11:35<02:49,  1.44it/s]training loss: 1.339352011680603
+training loss: 1.4135527610778809
+training loss: 1.5482128858566284
+training loss: 1.435674786567688
+training loss: 1.475195050239563
+training loss: 1.3997013568878174
+training loss: 1.5757721662521362
+training loss: 1.5173985958099365
+training loss: 1.1966139078140259
+training loss: 1.463606834411621
+training loss: 1.4566835165023804
+training loss: 1.4541466236114502
+training loss: 1.524162769317627
+training loss: 1.4500597715377808
+training loss: 1.410781741142273
+training:  77%|████████████████████████████████████████████████████████████████████▌                    | 771/1000 [11:45<02:38,  1.44it/s]training loss: 1.3884327411651611
+training loss: 1.2710682153701782
+training loss: 1.4005212783813477
+training loss: 1.7502055168151855
+training loss: 1.3903717994689941
+training loss: 1.5156147480010986
+training loss: 1.5038059949874878
+training loss: 1.4129798412322998
+training loss: 1.7428674697875977
+training loss: 1.6236470937728882
+training loss: 1.3182179927825928
+training loss: 1.1269817352294922
+training loss: 1.439158320426941
+training loss: 1.6810044050216675
+training loss: 1.2722424268722534
+training:  79%|█████████████████████████████████████████████████████████████████████▉                   | 786/1000 [11:56<02:28,  1.44it/s]training loss: 1.4379053115844727
+training loss: 1.4383118152618408
+training loss: 1.3744229078292847
+training loss: 1.5549275875091553
+training loss: 1.443482756614685
+training loss: 1.4998352527618408
+training loss: 1.3611161708831787
+training loss: 1.4087275266647339
+training loss: 1.2869350910186768
+training loss: 1.267998456954956
+training loss: 1.4408535957336426
+training loss: 1.609059453010559
+training loss: 1.8589295148849487
+training loss: 1.4461079835891724
+training loss: 1.649938941001892
+validation loss: 1.4179109334945679
+training:  80%|███████████████████████████████████████████████████████████████████████▎                 | 801/1000 [12:06<02:17,  1.44it/s]training loss: 1.2247728109359741
+training loss: 1.3771426677703857
+training loss: 1.3348947763442993
+training loss: 1.5697492361068726
+training loss: 1.485219120979309
+training loss: 1.5351533889770508
+training loss: 1.5132226943969727
+training loss: 1.5648384094238281
+training loss: 1.4338598251342773
+training loss: 1.3793344497680664
+training loss: 1.2967525720596313
+training loss: 1.3451141119003296
+training loss: 1.3935555219650269
+training loss: 1.6044483184814453
+training loss: 1.3998079299926758
+training:  82%|████████████████████████████████████████████████████████████████████████▌                | 816/1000 [12:16<02:07,  1.45it/s]training loss: 1.3747806549072266
+training loss: 1.5635627508163452
+training loss: 1.3898252248764038
+training loss: 1.2205697298049927
+training loss: 1.5271764993667603
+training loss: 1.3631755113601685
+training loss: 1.4080716371536255
+training loss: 1.463494896888733
+training loss: 1.4581514596939087
+training loss: 1.3645826578140259
+training loss: 1.514150857925415
+training loss: 1.517410159111023
+training loss: 1.3642327785491943
+training loss: 1.4878480434417725
+training loss: 1.5124725103378296
+training:  83%|█████████████████████████████████████████████████████████████████████████▉               | 831/1000 [12:27<01:56,  1.45it/s]training loss: 1.482547402381897
+training loss: 1.4829249382019043
+training loss: 1.3078075647354126
+training loss: 1.5233572721481323
+training loss: 1.3168950080871582
+training loss: 1.4471179246902466
+training loss: 1.2487117052078247
+training loss: 1.2182883024215698
+training loss: 1.1672186851501465
+training loss: 1.3831168413162231
+training loss: 1.4410628080368042
+training loss: 1.3963396549224854
+training loss: 1.4796371459960938
+training loss: 1.373290777206421
+training loss: 1.433669924736023
+training:  85%|███████████████████████████████████████████████████████████████████████████▎             | 846/1000 [12:37<01:46,  1.45it/s]training loss: 1.471746563911438
+training loss: 1.455470085144043
+training loss: 1.4115303754806519
+training loss: 1.2588930130004883
+training loss: 1.5450533628463745
+training loss: 1.4630928039550781
+training loss: 1.2828311920166016
+training loss: 1.424786925315857
+training loss: 1.5071583986282349
+training loss: 1.4669818878173828
+training loss: 1.3709951639175415
+training loss: 1.3408528566360474
+training loss: 1.308814287185669
+training loss: 1.4130353927612305
+training loss: 1.2345227003097534
+training:  86%|████████████████████████████████████████████████████████████████████████████▋            | 861/1000 [12:48<01:35,  1.45it/s]training loss: 1.555750846862793
+training loss: 1.4326637983322144
+training loss: 1.5002979040145874
+training loss: 1.375135064125061
+training loss: 1.3136203289031982
+training loss: 1.507129192352295
+training loss: 1.5350985527038574
+training loss: 1.401151418685913
+training loss: 1.319084882736206
+training loss: 1.6076278686523438
+training loss: 1.4902615547180176
+training loss: 1.4822416305541992
+training loss: 1.330417275428772
+training loss: 1.5336190462112427
+training loss: 1.4546425342559814
+training:  88%|█████████████████████████████████████████████████████████████████████████████▉           | 876/1000 [12:58<01:25,  1.45it/s]training loss: 1.4595681428909302
+training loss: 1.456685185432434
+training loss: 1.3442859649658203
+training loss: 1.5915560722351074
+training loss: 1.4997261762619019
+training loss: 1.3078362941741943
+training loss: 1.4397625923156738
+training loss: 1.441429615020752
+training loss: 1.3124229907989502
+training loss: 1.48336923122406
+training loss: 1.4082162380218506
+training loss: 1.337020993232727
+training loss: 1.4627536535263062
+training loss: 1.4806212186813354
+training loss: 1.6675175428390503
+training:  89%|███████████████████████████████████████████████████████████████████████████████▎         | 891/1000 [13:08<01:15,  1.45it/s]training loss: 1.4939067363739014
+training loss: 1.4702882766723633
+training loss: 1.2515612840652466
+training loss: 1.5786263942718506
+training loss: 1.4492651224136353
+training loss: 1.4386035203933716
+training loss: 1.3197938203811646
+training loss: 1.3562630414962769
+training loss: 1.536310076713562
+training loss: 1.3645317554473877
+validation loss: 1.4189705848693848
+training loss: 1.4339619874954224
+training loss: 1.3945627212524414
+training loss: 1.3789538145065308
+training loss: 1.279913306236267
+training loss: 1.6074435710906982
+training:  91%|████████████████████████████████████████████████████████████████████████████████▋        | 906/1000 [13:19<01:04,  1.45it/s]training loss: 1.321712851524353
+training loss: 1.3138066530227661
+training loss: 1.3477946519851685
+training loss: 1.196088194847107
+training loss: 1.4417438507080078
+training loss: 1.2493325471878052
+training loss: 1.4200018644332886
+training loss: 1.4588898420333862
+training loss: 1.3922072649002075
+training loss: 1.4306893348693848
+training loss: 1.2338263988494873
+training loss: 1.1975868940353394
+training loss: 1.4792046546936035
+training loss: 1.3388440608978271
+training loss: 1.4421137571334839
+training:  92%|█████████████████████████████████████████████████████████████████████████████████▉       | 921/1000 [13:29<00:54,  1.45it/s]training loss: 1.154994010925293
+training loss: 1.483017921447754
+training loss: 1.1924049854278564
+training loss: 1.219861626625061
+training loss: 1.605708360671997
+training loss: 1.3035296201705933
+training loss: 1.3980883359909058
+training loss: 1.3398187160491943
+training loss: 1.3979785442352295
+training loss: 1.3548451662063599
+training loss: 1.331693410873413
+training loss: 1.3473273515701294
+training loss: 1.2190717458724976
+training loss: 1.3467899560928345
+training loss: 1.3825321197509766
+training:  94%|███████████████████████████████████████████████████████████████████████████████████▎     | 936/1000 [13:39<00:44,  1.45it/s]training loss: 1.2234225273132324
+training loss: 1.308846354484558
+training loss: 1.3926255702972412
+training loss: 1.429027795791626
+training loss: 1.4425662755966187
+training loss: 1.838706374168396
+training loss: 1.4861669540405273
+training loss: 1.4338631629943848
+training loss: 1.4281471967697144
+training loss: 1.4738987684249878
+training loss: 1.411596417427063
+training loss: 1.5652191638946533
+training loss: 1.4292017221450806
+training loss: 1.585131287574768
+training:  94%|███████████████████████████████████████████████████████████████████████████████████▎     | 936/1000 [13:50<00:44,  1.45it/s]training loss: 1.4081958532333374
+training:  95%|████████████████████████████████████████████████████████████████████████████████████▋    | 951/1000 [13:50<00:33,  1.45it/s]training loss: 1.4630619287490845
+training loss: 1.4294533729553223
+training loss: 1.3943309783935547
+training loss: 1.181626796722412
+training loss: 1.8560751676559448
+training loss: 1.5941193103790283
+training loss: 1.52534019947052
+training loss: 1.338986873626709
+training loss: 1.4870595932006836
+training loss: 1.3454221487045288
+training loss: 1.4779504537582397
+training loss: 1.4498683214187622
+training loss: 1.265462040901184
+training loss: 1.4001802206039429
+training loss: 1.55013906955719
+training:  97%|█████████████████████████████████████████████████████████████████████████████████████▉   | 966/1000 [14:00<00:23,  1.45it/s]training loss: 1.2546508312225342
+training loss: 1.479408860206604
+training loss: 1.448659896850586
+training loss: 1.3024271726608276
+training loss: 1.5080211162567139
+training loss: 1.4178537130355835
+training loss: 1.5037519931793213
+training loss: 1.3950295448303223
+training loss: 1.500728964805603
+training loss: 1.5138697624206543
+training loss: 1.4097541570663452
+training loss: 1.4885987043380737
+training loss: 1.253778338432312
+training loss: 1.4264428615570068
+training loss: 1.490691900253296
+training:  98%|███████████████████████████████████████████████████████████████████████████████████████▎ | 981/1000 [14:10<00:13,  1.45it/s]training loss: 1.4817097187042236
+training loss: 1.4806514978408813
+training loss: 1.62238609790802
+training loss: 1.295777678489685
+training loss: 1.4233081340789795
+training loss: 1.3530340194702148
+training loss: 1.4363124370574951
+training loss: 1.3757163286209106
+training loss: 1.6514995098114014
+training loss: 1.3569540977478027
+training loss: 1.2060420513153076
+training loss: 1.435518741607666
+training loss: 1.4240508079528809
+training loss: 1.4746571779251099
+training loss: 1.320911169052124
+training: 100%|████████████████████████████████████████████████████████████████████████████████████████▋| 996/1000 [14:21<00:02,  1.45it/s]training loss: 1.4067072868347168
+training loss: 1.3891507387161255
+training loss: 1.428017020225525
+training loss: 1.3809223175048828
+training: 100%|████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [14:23<00:00,  1.16it/s]
+
