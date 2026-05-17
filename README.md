@@ -70,5 +70,17 @@ If you find this research useful, please cite:
 Gaal, E. (2026). VertexByteStream NN: A Formal Framework for Hierarchical Multi-Resolution Byte-Stream Analysis. arXiv:[PENDING].
 
 ## 📄 License
-This documentation and the provided logs are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+This repository uses a dual-licensing model to separate the code from the documentation and research data.
+
+### 1. Source Code (Software)
+The source code, architecture implementation, and deployment scripts are licensed under a custom **Evaluation and Non-Commercial Research License**.
+* **Allowed:** Academic research, private evaluation, educational use, and running the provided benchmarks/demo.
+* **Prohibited:** Any commercial use, integration into commercial products, production deployment, or selling derived services without prior written permission from the author.
+
+*For commercial licensing inquiries, please open an issue or contact the maintainer directly.*
+
+### 2. Documentation & Logs
+This documentation, technical explanations, and the provided benchmark logs are licensed under the **Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))**.
+You are free to share, copy, and adapt these materials for any purpose (including commercially), provided you give appropriate credit.
 

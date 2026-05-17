@@ -7,18 +7,6 @@ import random
 import time
 
 from vbs_nn import VertexByteStream
-#from model import GPTConfig 
-#from model import GPT # Used nanoGPT to compare
-
-config = GPTConfig(
-    block_size = 80, 
-    n_layer = 4,
-    n_head = 8,
-    n_embd = 256,    
-    bias = False,    
-    vocab_size=256
-)
-
 
 CURRENT_STEP = 0
 GLOBAL_MODEL = None
@@ -83,10 +71,13 @@ def test_synthetic_niah(model, optimizer, iterations=1000, seq_len=1024, start_s
     total_time = 0;
     start_time = time.time()
     step_start = time.time()
+    
+    use_gc = False
+    vramA = 0
+    vram_total = torch.cuda.get_device_properties(device).total_memory / 1024 ** 2
 
     for i in range(start_step, start_step + iterations):
         CURRENT_STEP = i 
-       
         digits = "".join([str(random.randint(0, 9)) for _ in range(5)])
         needle_str = f" KEY:{digits} "
         needle_bytes = list(needle_str.encode('utf-8'))
@@ -118,7 +109,7 @@ def test_synthetic_niah(model, optimizer, iterations=1000, seq_len=1024, start_s
         # 2. Forward / Backward
         optimizer.zero_grad()
         #output, _ = model(input_seq.unsqueeze(0))
-        output = model(input_seq.unsqueeze(0))
+        output = model(input_seq.unsqueeze(0), use_checkpointing = use_gc)
         logits = output[0] if isinstance(output, (tuple, list)) else output
         
         loss = criterion(logits[0, -answer_len:, :], answer_targets)
@@ -129,6 +120,8 @@ def test_synthetic_niah(model, optimizer, iterations=1000, seq_len=1024, start_s
             with torch.no_grad():
                 vramR = torch.cuda.memory_allocated() / 1024 ** 2
                 vramA = torch.cuda.memory_reserved() / 1024 ** 2
+                if vramA > vram_total / 2.3 :
+                    use_gc = True
                 time_for_steps = time.time() - step_start
                 step_start = time.time()
                 total_time = time.time() - start_time
@@ -137,7 +130,7 @@ def test_synthetic_niah(model, optimizer, iterations=1000, seq_len=1024, start_s
                 print(f"Answer targets {trgt}")
                 pred = torch.argmax(logits[0, -5:, :], dim=-1)
                 pred_str = "".join([chr(c.item()) for c in pred])
-                print(f"Step {i} | Loss: {loss.item():.4f} | Target: {needle_digits} | Pred: {pred_str} | VRAM(model): {vramR:.0f}MB | VRAM(total): {vramA:.0f}MB")
+                print(f"Step {i} | Loss: {loss.item():.4f} | Target: {needle_digits} | Pred: {pred_str} | VRAM(model): {vramR:.0f}MB | VRAM(total): {vramA:.0f}MB | GC:{use_gc}")
                 print(f"Runtimes  100 steps : {time_for_steps:.3f}s Total {total_time:.3f}s")
                 full_text = decode_to_str(input_seq)
                 full_text_len = len(full_text) 
@@ -150,17 +143,21 @@ def test_synthetic_niah(model, optimizer, iterations=1000, seq_len=1024, start_s
                 else:
                     print(f"\n[DEBUG STEP {i}] Full Input: {full_text}")
         if loss.item() < 0.05:
+
             successed+=1
             if (successed > 100):
                 save_checkpoint(model, optimizer, i, loss.item(), seq_len, f"needle_success_{seq_len}.pth")
+                vramA = torch.cuda.memory_reserved() / 1024 ** 2
+                if vramA > 7000:
+                    use_gc = True
                 seq_len = seq_len << 1
                 print("=" * 80)
                 print(f"Increasing context length, new context {seq_len}")
                 print("=" * 80)
                 successed = 0
         else:
-            successed-=1
-            successed = 0 if successed < 0 else successed
+            successed = 0
+#            successed = 0 if successed < 0 else successed
 #            sys.exit(0)
 
         
@@ -182,26 +179,22 @@ def test_synthetic_niah(model, optimizer, iterations=1000, seq_len=1024, start_s
         print(f"Model retrieve: {res_str}")
 
 vocab_size = 256
-D_MODEL = 128
-LEVELS = 15
+
+D_MODEL = 64
+LEVELS = 20
 
 GLOBAL_MODEL = VertexByteStream(vocab_size, D_MODEL, LEVELS).cuda()
-#GLOBAL_MODEL = GPT(config).cuda()
 GLOBAL_OPTIMIZER = optim.Adam(GLOBAL_MODEL.parameters(), lr=1e-4)
 
 
 start_from, last_context = load_checkpoint(GLOBAL_MODEL, GLOBAL_OPTIMIZER)
 step=0
 start_step=0
-seq_len = 64
+seq_len = 64 # Curriculum learning, starting with short sequence. increasing after reaching milestone :  100 times answers with loss < 0.005 in a row
 GLOBAL_SEQ_LEN = seq_len
 
-#new_lr = 1e-4
-#for param_group in GLOBAL_OPTIMIZER.param_groups:
-#    param_group['lr'] = new_lr
-
 try:
-    test_synthetic_niah(GLOBAL_MODEL, GLOBAL_OPTIMIZER, 100000, GLOBAL_SEQ_LEN, start_step=start_from)
+    test_synthetic_niah(GLOBAL_MODEL, GLOBAL_OPTIMIZER, 100000000, GLOBAL_SEQ_LEN, start_step=start_from)
 except KeyboardInterrupt:
     print("\n[!] Training stopped by Contorl-C.")
 finally:
