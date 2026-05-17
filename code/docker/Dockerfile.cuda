@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
-RUN pip3 install --no-cache-dir torch torchvision --index-url https://download.pytorch.org/whl/cu121
+RUN pip3 install --no-cache-dir torch torchvision --index-url https://download.pytorch.org/whl/cu124
 
 RUN wget -qO - https://github.com/ega4l/VBS-NN/releases/download/vbs_nn_v.0.1/vbs_nn.tar.gz | tar xfvz -
 
