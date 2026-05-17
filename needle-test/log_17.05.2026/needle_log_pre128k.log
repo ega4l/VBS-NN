@@ -1,0 +1,3439 @@
+Starting from scratch
+--- Starting ultimate Synthetic Needle Retrieval seq_len - (64 bytes) ---
+Answer targets 91453
+Step 0 | Loss: 5.4892 | Target: 91453 | Pred: PPPPP | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 0.439s Total 0.439s
+
+[DEBUG STEP 0] Full Input: nEX. KEY:91453 a3as6JlbO QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 72349
+Step 100 | Loss: 3.6722 | Target: 72349 | Pred: 79777 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.793s Total 2.232s
+
+[DEBUG STEP 100] Full Input: c%78ts"T>k KEY:72349 T5_ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 82248
+Step 200 | Loss: 3.6182 | Target: 82248 | Pred: 41114 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.724s Total 3.956s
+
+[DEBUG STEP 200] Full Input: zMVymS\VKP KEY:82248 uxo QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 80178
+Step 300 | Loss: 2.9895 | Target: 80178 | Pred: 73919 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.730s Total 5.686s
+
+[DEBUG STEP 300] Full Input: 8pL%h' KEY:80178 2waG/,Y QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 21957
+Step 400 | Loss: 2.7812 | Target: 21957 | Pred: 07030 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.703s Total 7.389s
+
+[DEBUG STEP 400] Full Input: >2kSbWkln KEY:21957 UrAu QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19591
+Step 500 | Loss: 2.4428 | Target: 19591 | Pred: 94944 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.758s Total 9.147s
+
+[DEBUG STEP 500] Full Input: De2SxjlI" KEY:19591 W@OG QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 92105
+Step 600 | Loss: 2.5068 | Target: 92105 | Pred: 33313 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.740s Total 10.887s
+
+[DEBUG STEP 600] Full Input:  KEY:92105 {0Z"KQqAG0p:? QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 49976
+Step 700 | Loss: 2.3414 | Target: 49976 | Pred: 41992 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.803s Total 12.690s
+
+[DEBUG STEP 700] Full Input:  KEY:49976 C}+tLLMOK{9i^ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 32162
+Step 800 | Loss: 2.2553 | Target: 32162 | Pred: 11072 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.690s Total 14.380s
+
+[DEBUG STEP 800] Full Input: f_s@zaR8` KEY:32162 C+F' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 91875
+Step 900 | Loss: 2.3232 | Target: 91875 | Pred: 32582 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.663s Total 16.044s
+
+[DEBUG STEP 900] Full Input: qF+fGXP,Qrk KEY:91875 "V QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04753
+Step 1000 | Loss: 2.3455 | Target: 04753 | Pred: 07675 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.668s Total 17.711s
+
+[DEBUG STEP 1000] Full Input: w>n#TA KEY:04753 i4_o@>! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 83484
+Step 1100 | Loss: 2.5016 | Target: 83484 | Pred: 39822 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.696s Total 19.407s
+
+[DEBUG STEP 1100] Full Input: KLi:h+Y0s KEY:83484 ^o([ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 29351
+Step 1200 | Loss: 2.2733 | Target: 29351 | Pred: 17001 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.741s Total 21.149s
+
+[DEBUG STEP 1200] Full Input: t^ KEY:29351 ZVmx+ny9h|3 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 64147
+Step 1300 | Loss: 2.3477 | Target: 64147 | Pred: 17880 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.730s Total 22.879s
+
+[DEBUG STEP 1300] Full Input: UM-`>-_Kq KEY:64147 |?7N QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 53802
+Step 1400 | Loss: 2.3682 | Target: 53802 | Pred: 35034 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.804s Total 24.683s
+
+[DEBUG STEP 1400] Full Input: dS4@T3mZYi&w KEY:53802 t QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 93005
+Step 1500 | Loss: 2.4841 | Target: 93005 | Pred: 79999 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.729s Total 26.412s
+
+[DEBUG STEP 1500] Full Input: szF]y?I>_5D KEY:93005 sB QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 38151
+Step 1600 | Loss: 2.2729 | Target: 38151 | Pred: 11991 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.697s Total 28.109s
+
+[DEBUG STEP 1600] Full Input:  KEY:38151 Cg@_$a9q/5gJ9 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56742
+Step 1700 | Loss: 2.3122 | Target: 56742 | Pred: 07026 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.745s Total 29.854s
+
+[DEBUG STEP 1700] Full Input: D^ KEY:56742 R#p8?nw0;1g QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 84452
+Step 1800 | Loss: 2.3817 | Target: 84452 | Pred: 08829 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.785s Total 31.639s
+
+[DEBUG STEP 1800] Full Input: G?@zxyz,o KEY:84452 .v$" QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 95003
+Step 1900 | Loss: 2.4416 | Target: 95003 | Pred: 47777 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.732s Total 33.371s
+
+[DEBUG STEP 1900] Full Input: o%r KEY:95003 AKGQlB}Ea3 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24434
+Step 2000 | Loss: 2.4572 | Target: 24434 | Pred: 77795 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.791s Total 35.162s
+
+[DEBUG STEP 2000] Full Input: b$PlA KEY:24434 6TvYkSWK QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 65707
+Step 2100 | Loss: 2.4067 | Target: 65707 | Pred: 34020 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.721s Total 36.884s
+
+[DEBUG STEP 2100] Full Input: LZMkK\x"1""`g KEY:65707  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 80267
+Step 2200 | Loss: 2.2420 | Target: 80267 | Pred: 80000 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.743s Total 38.627s
+
+[DEBUG STEP 2200] Full Input:  KEY:80267 3\MV4$3(2c_1T QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 06848
+Step 2300 | Loss: 2.3988 | Target: 06848 | Pred: 22222 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.771s Total 40.398s
+
+[DEBUG STEP 2300] Full Input: xkl KEY:06848 [vi&lm;nEq QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 18088
+Step 2400 | Loss: 2.4290 | Target: 18088 | Pred: 76666 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.717s Total 42.115s
+
+[DEBUG STEP 2400] Full Input: t`|}<0EF8IJl KEY:18088 V QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 52802
+Step 2500 | Loss: 2.3214 | Target: 52802 | Pred: 09883 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.755s Total 43.869s
+
+[DEBUG STEP 2500] Full Input: Rz++BAFD}Qs]t KEY:52802  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19778
+Step 2600 | Loss: 2.2195 | Target: 19778 | Pred: 79885 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.803s Total 45.673s
+
+[DEBUG STEP 2600] Full Input: w{gWSP KEY:19778 "ctj?2+ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 59515
+Step 2700 | Loss: 2.2140 | Target: 59515 | Pred: 79775 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.735s Total 47.407s
+
+[DEBUG STEP 2700] Full Input: |. KEY:59515 vd]3#pK\p0/ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 74009
+Step 2800 | Loss: 2.2491 | Target: 74009 | Pred: 34141 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.739s Total 49.146s
+
+[DEBUG STEP 2800] Full Input: e5mIaP KEY:74009 IYp3vAP QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 67510
+Step 2900 | Loss: 2.3871 | Target: 67510 | Pred: 19334 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.745s Total 50.891s
+
+[DEBUG STEP 2900] Full Input: Y KEY:67510 Twg}2|pCC!r^ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 40268
+Step 3000 | Loss: 2.4147 | Target: 40268 | Pred: 19666 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.733s Total 52.624s
+
+[DEBUG STEP 3000] Full Input: "+KK81h|-p KEY:40268 K80 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31656
+Step 3100 | Loss: 2.2919 | Target: 31656 | Pred: 55424 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.760s Total 54.384s
+
+[DEBUG STEP 3100] Full Input: 5"^FP_Ik&TJM KEY:31656 7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04646
+Step 3200 | Loss: 2.2789 | Target: 04646 | Pred: 91811 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.746s Total 56.130s
+
+[DEBUG STEP 3200] Full Input:  KEY:04646 =NAh|%#cYi^_$ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 52840
+Step 3300 | Loss: 2.3899 | Target: 52840 | Pred: 89666 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.790s Total 57.920s
+
+[DEBUG STEP 3300] Full Input: 1`c-jBuwJ-Vr% KEY:52840  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 76251
+Step 3400 | Loss: 2.3572 | Target: 76251 | Pred: 89166 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.749s Total 59.669s
+
+[DEBUG STEP 3400] Full Input:  KEY:76251 *RgXCnn]A'{n` QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63523
+Step 3500 | Loss: 2.2183 | Target: 63523 | Pred: 82222 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.717s Total 61.386s
+
+[DEBUG STEP 3500] Full Input: :E-%YQrIUpOZ KEY:63523 G QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37326
+Step 3600 | Loss: 2.2908 | Target: 37326 | Pred: 44232 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.763s Total 63.149s
+
+[DEBUG STEP 3600] Full Input: kP KEY:37326 l8![z>tI!\P QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 20653
+Step 3700 | Loss: 2.3744 | Target: 20653 | Pred: 52222 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.728s Total 64.877s
+
+[DEBUG STEP 3700] Full Input:  KEY:20653 bo&jV,w4-!DK# QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 79781
+Step 3800 | Loss: 2.4172 | Target: 79781 | Pred: 55212 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.762s Total 66.640s
+
+[DEBUG STEP 3800] Full Input: uN$ke KEY:79781 M2ez=Ao% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 58423
+Step 3900 | Loss: 2.3235 | Target: 58423 | Pred: 15414 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.798s Total 68.438s
+
+[DEBUG STEP 3900] Full Input: i7 KEY:58423 ,Ji`;_].:qt QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 13387
+Step 4000 | Loss: 2.3198 | Target: 13387 | Pred: 88616 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.729s Total 70.166s
+
+[DEBUG STEP 4000] Full Input:  KEY:13387 @jvy.{"Bb*OSW QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 36165
+Step 4100 | Loss: 2.3647 | Target: 36165 | Pred: 00000 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.758s Total 71.924s
+
+[DEBUG STEP 4100] Full Input: [iifuPiSP@0Dj KEY:36165  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 25636
+Step 4200 | Loss: 2.2223 | Target: 25636 | Pred: 22222 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.723s Total 73.648s
+
+[DEBUG STEP 4200] Full Input: PRDq KEY:25636 1}YsZX#M. QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 90973
+Step 4300 | Loss: 2.2944 | Target: 90973 | Pred: 22726 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.703s Total 75.351s
+
+[DEBUG STEP 4300] Full Input: j-LD$n KEY:90973 As4m7|M QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75271
+Step 4400 | Loss: 2.2894 | Target: 75271 | Pred: 31111 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.699s Total 77.050s
+
+[DEBUG STEP 4400] Full Input:  KEY:75271 tR9{Y2)s"*(Br QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63495
+Step 4500 | Loss: 2.2896 | Target: 63495 | Pred: 35330 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.797s Total 78.847s
+
+[DEBUG STEP 4500] Full Input: BOX0%+[`n>A KEY:63495 R: QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04316
+Step 4600 | Loss: 2.3410 | Target: 04316 | Pred: 27414 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.715s Total 80.562s
+
+[DEBUG STEP 4600] Full Input: mrF@3do^ KEY:04316 j,e2I QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 54883
+Step 4700 | Loss: 2.3599 | Target: 54883 | Pred: 17414 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.702s Total 82.263s
+
+[DEBUG STEP 4700] Full Input: M\v_ks1r,\J KEY:54883 '\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 78585
+Step 4800 | Loss: 2.3188 | Target: 78585 | Pred: 69999 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.716s Total 83.979s
+
+[DEBUG STEP 4800] Full Input: bWQj$$<>FU(%] KEY:78585  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 65375
+Step 4900 | Loss: 2.2429 | Target: 65375 | Pred: 47745 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.736s Total 85.715s
+
+[DEBUG STEP 4900] Full Input: T|f'sG>9D KEY:65375 "lTz QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 97393
+Step 5000 | Loss: 2.3740 | Target: 97393 | Pred: 47725 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.723s Total 87.438s
+
+[DEBUG STEP 5000] Full Input: i&CR.BEP KEY:97393 f#@e% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63291
+Step 5100 | Loss: 2.1654 | Target: 63291 | Pred: 43622 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.755s Total 89.193s
+
+[DEBUG STEP 5100] Full Input: V;:?-r;,xSP KEY:63291 vu QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 77968
+Step 5200 | Loss: 2.0858 | Target: 77968 | Pred: 77260 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.794s Total 90.987s
+
+[DEBUG STEP 5200] Full Input: aKyA{A KEY:77968 %.qLGrk QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 73881
+Step 5300 | Loss: 2.2930 | Target: 73881 | Pred: 11116 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.728s Total 92.715s
+
+[DEBUG STEP 5300] Full Input: SXjn KEY:73881 $D(/$jE6W QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 45059
+Step 5400 | Loss: 2.2568 | Target: 45059 | Pred: 31949 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.756s Total 94.471s
+
+[DEBUG STEP 5400] Full Input: +v?}]a,04fj3 KEY:45059 V QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11061
+Step 5500 | Loss: 2.3805 | Target: 11061 | Pred: 99988 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.748s Total 96.219s
+
+[DEBUG STEP 5500] Full Input: M={xdpumF"F KEY:11061 'K QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 65600
+Step 5600 | Loss: 2.3047 | Target: 65600 | Pred: 26182 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.742s Total 97.961s
+
+[DEBUG STEP 5600] Full Input: -0rY; KEY:65600 8l/H_Kul QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 67765
+Step 5700 | Loss: 2.3242 | Target: 67765 | Pred: 39666 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.747s Total 99.707s
+
+[DEBUG STEP 5700] Full Input:  KEY:67765 urDs"oI9Dz|Z@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37356
+Step 5800 | Loss: 2.0919 | Target: 37356 | Pred: 37767 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.835s Total 101.542s
+
+[DEBUG STEP 5800] Full Input: 9 KEY:37356 aHZR!=|Mrl+; QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 94867
+Step 5900 | Loss: 2.1917 | Target: 94867 | Pred: 95319 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.767s Total 103.309s
+
+[DEBUG STEP 5900] Full Input: k3q$imW$iH KEY:94867 j]L QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 91006
+Step 6000 | Loss: 2.3480 | Target: 91006 | Pred: 65766 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.755s Total 105.064s
+
+[DEBUG STEP 6000] Full Input: c6 KEY:91006 KjC%DJKU2tN QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 82104
+Step 6100 | Loss: 2.3931 | Target: 82104 | Pred: 18407 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.710s Total 106.774s
+
+[DEBUG STEP 6100] Full Input: #umI KEY:82104 qKm^8&&9\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 06824
+Step 6200 | Loss: 2.5471 | Target: 06824 | Pred: 70612 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.741s Total 108.515s
+
+[DEBUG STEP 6200] Full Input: *r9TR0' KEY:06824 8DDa'1 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 72879
+Step 6300 | Loss: 2.4660 | Target: 72879 | Pred: 87966 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.720s Total 110.235s
+
+[DEBUG STEP 6300] Full Input: -bg> KEY:72879 MoD-Q-V7U QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56385
+Step 6400 | Loss: 2.1791 | Target: 56385 | Pred: 55555 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.838s Total 112.073s
+
+[DEBUG STEP 6400] Full Input: xuvLY@2aYa_qu KEY:56385  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 52137
+Step 6500 | Loss: 2.3665 | Target: 52137 | Pred: 77377 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.775s Total 113.848s
+
+[DEBUG STEP 6500] Full Input: hN KEY:52137 3?>vo9L17Jm QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 91722
+Step 6600 | Loss: 2.4635 | Target: 91722 | Pred: 02091 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.734s Total 115.582s
+
+[DEBUG STEP 6600] Full Input: |1}/xW#O; KEY:91722 }<## QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 57510
+Step 6700 | Loss: 2.3758 | Target: 57510 | Pred: 64435 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.764s Total 117.347s
+
+[DEBUG STEP 6700] Full Input: [ KEY:57510 h3_,TRHHgYE% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34019
+Step 6800 | Loss: 2.3086 | Target: 34019 | Pred: 90496 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.759s Total 119.106s
+
+[DEBUG STEP 6800] Full Input: >4 KEY:34019 4rwOeL^YvsV QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33014
+Step 6900 | Loss: 2.1758 | Target: 33014 | Pred: 41401 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.735s Total 120.840s
+
+[DEBUG STEP 6900] Full Input: B KEY:33014 1[/1++!S^i#U QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 62822
+Step 7000 | Loss: 0.8729 | Target: 62822 | Pred: 62822 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.748s Total 122.588s
+
+[DEBUG STEP 7000] Full Input: CroKfU KEY:62822 .N.ppaC QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 76468
+Step 7100 | Loss: 2.3153 | Target: 76468 | Pred: 88887 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.799s Total 124.387s
+
+[DEBUG STEP 7100] Full Input: DP!+T,R?X KEY:76468 `{Na QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11100
+Step 7200 | Loss: 0.6505 | Target: 11100 | Pred: 11100 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.746s Total 126.133s
+
+[DEBUG STEP 7200] Full Input: 21MB3U KEY:11100 9c7<Ee^ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 98486
+Step 7300 | Loss: 2.3679 | Target: 98486 | Pred: 14749 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.730s Total 127.863s
+
+[DEBUG STEP 7300] Full Input: _2qyY"glW9 KEY:98486 j2V QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 84494
+Step 7400 | Loss: 2.2245 | Target: 84494 | Pred: 64498 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.711s Total 129.574s
+
+[DEBUG STEP 7400] Full Input: ^V"PGw{m\p KEY:84494 3@d QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 01219
+Step 7500 | Loss: 2.3886 | Target: 01219 | Pred: 11121 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.759s Total 131.333s
+
+[DEBUG STEP 7500] Full Input: #}P}# KEY:01219 @%<y)&gi QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 52215
+Step 7600 | Loss: 1.6608 | Target: 52215 | Pred: 52222 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.736s Total 133.068s
+
+[DEBUG STEP 7600] Full Input: - KEY:52215 %HSt"f.02Px: QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 41836
+Step 7700 | Loss: 2.2389 | Target: 41836 | Pred: 33113 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.808s Total 134.877s
+
+[DEBUG STEP 7700] Full Input: xKX KEY:41836 #,/EXQz(.f QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 61618
+Step 7800 | Loss: 1.2636 | Target: 61618 | Pred: 61111 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.773s Total 136.649s
+
+[DEBUG STEP 7800] Full Input: U=G< KEY:61618 Ytp6:twXv QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34701
+Step 7900 | Loss: 2.2618 | Target: 34701 | Pred: 05108 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.706s Total 138.355s
+
+[DEBUG STEP 7900] Full Input:  KEY:34701 H$}!2n^^&%^pu QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 50353
+Step 8000 | Loss: 2.1748 | Target: 50353 | Pred: 45805 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.750s Total 140.105s
+
+[DEBUG STEP 8000] Full Input: '"/abLi KEY:50353 rV'Ug\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 45025
+Step 8100 | Loss: 1.9825 | Target: 45025 | Pred: 55555 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.743s Total 141.848s
+
+[DEBUG STEP 8100] Full Input: s.<c`F8 KEY:45025 IZ`q9f QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 78938
+Step 8200 | Loss: 1.6404 | Target: 78938 | Pred: 77838 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.759s Total 143.608s
+
+[DEBUG STEP 8200] Full Input: 4\6H KEY:78938 <5gjKM?D0 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02574
+Step 8300 | Loss: 0.7675 | Target: 02574 | Pred: 02575 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.750s Total 145.357s
+
+[DEBUG STEP 8300] Full Input: ;E2gGr KEY:02574 O`#sV@. QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 22777
+Step 8400 | Loss: 0.8750 | Target: 22777 | Pred: 27777 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.815s Total 147.173s
+
+[DEBUG STEP 8400] Full Input: KW2&^1[)b?* KEY:22777 jT QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 42753
+Step 8500 | Loss: 1.8751 | Target: 42753 | Pred: 72757 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.735s Total 148.907s
+
+[DEBUG STEP 8500] Full Input: $ KEY:42753 8%L-fZ{@XW7r QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87319
+Step 8600 | Loss: 1.8235 | Target: 87319 | Pred: 77731 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.754s Total 150.661s
+
+[DEBUG STEP 8600] Full Input: :gKau KEY:87319 _Im7PLU| QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 08561
+Step 8700 | Loss: 2.0050 | Target: 08561 | Pred: 48880 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.727s Total 152.388s
+
+[DEBUG STEP 8700] Full Input: J12{wF4 KEY:08561 WJKYD6 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 08492
+Step 8800 | Loss: 1.9707 | Target: 08492 | Pred: 09902 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.739s Total 154.127s
+
+[DEBUG STEP 8800] Full Input: YzM_`}__l KEY:08492 l0q} QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 66591
+Step 8900 | Loss: 1.4079 | Target: 66591 | Pred: 66466 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.730s Total 155.857s
+
+[DEBUG STEP 8900] Full Input: m53N#_)(?_Rco KEY:66591  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 03064
+Step 9000 | Loss: 2.1602 | Target: 03064 | Pred: 33030 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.788s Total 157.645s
+
+[DEBUG STEP 9000] Full Input: f||lv#, KEY:03064 h9&Y:\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 15875
+Step 9100 | Loss: 1.0940 | Target: 15875 | Pred: 15875 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.763s Total 159.408s
+
+[DEBUG STEP 9100] Full Input: G+vjU KEY:15875 7^I(uH:w QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 32987
+Step 9200 | Loss: 1.3375 | Target: 32987 | Pred: 32999 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.791s Total 161.199s
+
+[DEBUG STEP 9200] Full Input: U>6lxLB$rwSFp KEY:32987  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 14227
+Step 9300 | Loss: 1.5572 | Target: 14227 | Pred: 42527 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.747s Total 162.946s
+
+[DEBUG STEP 9300] Full Input: A^m.t\PD$#5 KEY:14227 hO QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 14656
+Step 9400 | Loss: 2.0663 | Target: 14656 | Pred: 66565 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.742s Total 164.688s
+
+[DEBUG STEP 9400] Full Input:  KEY:14656 uQ_uqvK+V+f?` QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 47623
+Step 9500 | Loss: 1.4084 | Target: 47623 | Pred: 47424 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.737s Total 166.425s
+
+[DEBUG STEP 9500] Full Input: C+q KEY:47623 zrG/5w>)k[ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60566
+Step 9600 | Loss: 0.9163 | Target: 60566 | Pred: 00666 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.810s Total 168.235s
+
+[DEBUG STEP 9600] Full Input: /gl.msx KEY:60566 gAC4Po QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 74114
+Step 9700 | Loss: 1.0698 | Target: 74114 | Pred: 44411 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.721s Total 169.956s
+
+[DEBUG STEP 9700] Full Input: Ves,.F`y-! KEY:74114 R_e QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 47249
+Step 9800 | Loss: 1.2881 | Target: 47249 | Pred: 27442 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.725s Total 171.681s
+
+[DEBUG STEP 9800] Full Input: SgREIN\XN KEY:47249 q,_t QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44373
+Step 9900 | Loss: 0.8389 | Target: 44373 | Pred: 34374 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.745s Total 173.426s
+
+[DEBUG STEP 9900] Full Input: y$Ujs3f KEY:44373 %)J2jZ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 85975
+Step 10000 | Loss: 1.3655 | Target: 85975 | Pred: 55575 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.723s Total 175.149s
+
+[DEBUG STEP 10000] Full Input:  KEY:85975 (ypSyk\Dx|;R4 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 80734
+Step 10100 | Loss: 1.3588 | Target: 80734 | Pred: 73734 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.759s Total 176.908s
+
+[DEBUG STEP 10100] Full Input:  KEY:80734 {b]Td:R2"6`L, QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63191
+Step 10200 | Loss: 0.4185 | Target: 63191 | Pred: 63191 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.775s Total 178.683s
+
+[DEBUG STEP 10200] Full Input: R$uX KEY:63191 +IJDhf>rz QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11441
+Step 10300 | Loss: 0.7506 | Target: 11441 | Pred: 14441 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.773s Total 180.456s
+
+[DEBUG STEP 10300] Full Input:  KEY:11441 afViBZqc/](3[ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 22665
+Step 10400 | Loss: 0.3348 | Target: 22665 | Pred: 22665 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.739s Total 182.195s
+
+[DEBUG STEP 10400] Full Input: <EU]mJ/ KEY:22665 ON_<X# QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60557
+Step 10500 | Loss: 0.2655 | Target: 60557 | Pred: 65557 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.743s Total 183.937s
+
+[DEBUG STEP 10500] Full Input: \Li_hNU&D1| KEY:60557 'A QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 09870
+Step 10600 | Loss: 0.5530 | Target: 09870 | Pred: 09070 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.742s Total 185.680s
+
+[DEBUG STEP 10600] Full Input: y50 KEY:09870 >wO13IyrSn QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 05735
+Step 10700 | Loss: 0.3218 | Target: 05735 | Pred: 05735 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.738s Total 187.418s
+
+[DEBUG STEP 10700] Full Input: (P1#qv KEY:05735 f=$>*cY QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 13659
+Step 10800 | Loss: 0.8177 | Target: 13659 | Pred: 93659 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.720s Total 189.138s
+
+[DEBUG STEP 10800] Full Input: S_!qr3Yw KEY:13659 TS%,6 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04231
+Step 10900 | Loss: 0.4893 | Target: 04231 | Pred: 04230 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.807s Total 190.945s
+
+[DEBUG STEP 10900] Full Input: <3@nX*yZ%vap KEY:04231 < QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 38257
+Step 11000 | Loss: 0.4289 | Target: 38257 | Pred: 38257 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.757s Total 192.702s
+
+[DEBUG STEP 11000] Full Input: M(imnr KEY:38257 G^g\UO! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19346
+Step 11100 | Loss: 0.1391 | Target: 19346 | Pred: 19346 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.725s Total 194.427s
+
+[DEBUG STEP 11100] Full Input: +IrHO KEY:19346 RVjG}v3< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 74937
+Step 11200 | Loss: 0.0981 | Target: 74937 | Pred: 74937 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.748s Total 196.175s
+
+[DEBUG STEP 11200] Full Input: 3qxHTJ]) KEY:74937 {u49r QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 49470
+Step 11300 | Loss: 0.1728 | Target: 49470 | Pred: 49470 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.729s Total 197.904s
+
+[DEBUG STEP 11300] Full Input: Ve.</dV4i&@ KEY:49470 E7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 98988
+Step 11400 | Loss: 0.1797 | Target: 98988 | Pred: 98988 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.749s Total 199.652s
+
+[DEBUG STEP 11400] Full Input: 7cFAtv&g KEY:98988 :@c%7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 65857
+Step 11500 | Loss: 0.2002 | Target: 65857 | Pred: 75857 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.825s Total 201.478s
+
+[DEBUG STEP 11500] Full Input: 4+67| KEY:65857 #l7'Spp( QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 00254
+Step 11600 | Loss: 0.0442 | Target: 00254 | Pred: 00254 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.719s Total 203.196s
+
+[DEBUG STEP 11600] Full Input: $<xNC|bk/3GKG KEY:00254  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 76657
+Step 11700 | Loss: 0.0607 | Target: 76657 | Pred: 76657 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.730s Total 204.926s
+
+[DEBUG STEP 11700] Full Input: w<&P@XFD KEY:76657 s6z!Q QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 17507
+Step 11800 | Loss: 0.1090 | Target: 17507 | Pred: 17507 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.750s Total 206.675s
+
+[DEBUG STEP 11800] Full Input: DgM[+S#406?L KEY:17507 z QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 91993
+Step 11900 | Loss: 0.0209 | Target: 91993 | Pred: 91993 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.725s Total 208.401s
+
+[DEBUG STEP 11900] Full Input: 7l@Qt3> KEY:91993 q9`6V/ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 48636
+Step 12000 | Loss: 0.0645 | Target: 48636 | Pred: 48636 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.745s Total 210.146s
+
+[DEBUG STEP 12000] Full Input: ;qx.XwS?|YZth KEY:48636  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 95475
+Step 12100 | Loss: 0.0360 | Target: 95475 | Pred: 95475 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.728s Total 211.874s
+
+[DEBUG STEP 12100] Full Input: <hQ KEY:95475 @)*/4,xQnS QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 91713
+Step 12200 | Loss: 0.0932 | Target: 91713 | Pred: 91713 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.810s Total 213.684s
+
+[DEBUG STEP 12200] Full Input: K*$%R{ KEY:91713 woeALj8 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 35889
+Step 12300 | Loss: 0.0887 | Target: 35889 | Pred: 35889 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.732s Total 215.416s
+
+[DEBUG STEP 12300] Full Input: aY@KT\bO KEY:35889 dUHF> QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 30117
+Step 12400 | Loss: 0.0446 | Target: 30117 | Pred: 30117 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.723s Total 217.139s
+
+[DEBUG STEP 12400] Full Input: ^$O1_ KEY:30117 b5pH>f4` QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02446
+Step 12500 | Loss: 0.0230 | Target: 02446 | Pred: 02446 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.741s Total 218.880s
+
+[DEBUG STEP 12500] Full Input: -V*g,8&tZ+fNb KEY:02446  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 53176
+Step 12600 | Loss: 0.0394 | Target: 53176 | Pred: 53176 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.741s Total 220.621s
+
+[DEBUG STEP 12600] Full Input:  KEY:53176 DA%5"EJ^],=4Z QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 48121
+Step 12700 | Loss: 0.0319 | Target: 48121 | Pred: 48121 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.749s Total 222.370s
+
+[DEBUG STEP 12700] Full Input: : KEY:48121 2$l\-T'DM7u' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 98150
+Step 12800 | Loss: 0.0150 | Target: 98150 | Pred: 98150 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.821s Total 224.191s
+
+[DEBUG STEP 12800] Full Input: ; KEY:98150 {+(MB1Zasy^< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87730
+Step 12900 | Loss: 0.0450 | Target: 87730 | Pred: 87730 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.716s Total 225.907s
+
+[DEBUG STEP 12900] Full Input: d6#Wla KEY:87730 S$m@4;) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 36670
+Step 13000 | Loss: 0.1315 | Target: 36670 | Pred: 36670 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.751s Total 227.658s
+
+[DEBUG STEP 13000] Full Input: Xo KEY:36670 t]_-C\Pu;tC QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33823
+Step 13100 | Loss: 0.0421 | Target: 33823 | Pred: 33823 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.724s Total 229.382s
+
+[DEBUG STEP 13100] Full Input: .L3E KEY:33823 V!mCv5ij; QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75692
+Step 13200 | Loss: 0.0411 | Target: 75692 | Pred: 75692 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.728s Total 231.110s
+
+[DEBUG STEP 13200] Full Input: ezwxPb8HB KEY:75692 yBc@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34308
+Step 13300 | Loss: 0.0100 | Target: 34308 | Pred: 34308 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.789s Total 232.899s
+
+[DEBUG STEP 13300] Full Input: C*(Gwx} KEY:34308 u51H;R QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 79989
+Step 13400 | Loss: 0.0105 | Target: 79989 | Pred: 79989 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.736s Total 234.635s
+
+[DEBUG STEP 13400] Full Input: `F-l8nkZeO#GD KEY:79989  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 39372
+Step 13500 | Loss: 0.0139 | Target: 39372 | Pred: 39372 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.793s Total 236.427s
+
+[DEBUG STEP 13500] Full Input:  KEY:39372 CQRlUToys]gR, QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 49027
+Step 13600 | Loss: 0.0219 | Target: 49027 | Pred: 49027 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.717s Total 238.145s
+
+[DEBUG STEP 13600] Full Input: bNYW5]Zi KEY:49027 !cj]1 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 73953
+Step 13700 | Loss: 0.0154 | Target: 73953 | Pred: 73953 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.716s Total 239.860s
+
+[DEBUG STEP 13700] Full Input:  KEY:73953 E$cV`{Hd_'h3h QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_64.pth (Step 13751, Context 64)
+================================================================================
+Increasing context length, new context 128
+================================================================================
+Answer targets 81180
+Step 13800 | Loss: 0.4873 | Target: 81180 | Pred: 81880 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.938s Total 241.798s
+
+[DEBUG STEP 13800] Full Input: C+MSM^*D!?fBK@rT:%4g<6@K4&thRm(,)S-I>Nobdh/Q15&!#/&(L@9M+'cTtAE%d KEY:81180 5fV:K/1m,N]7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89216
+Step 13900 | Loss: 0.2603 | Target: 89216 | Pred: 89216 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.995s Total 243.794s
+
+[DEBUG STEP 13900] Full Input: ywVb&PjE]%-K,iuu435Cnqa"MLs.}:pWhi<Jq}=kaK0@v;{ELOCa\hwimq"Txc"Hev=;ho@| KEY:89216 V|Ykp QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 40167
+Step 14000 | Loss: 2.5084 | Target: 40167 | Pred: 28292 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.964s Total 245.758s
+
+[DEBUG STEP 14000] Full Input: 0=3*-aTIufe*E@vAOB.ec+2-_TP/oao;sJKnkAB0iw&V.I<dK& KEY:40167 NC'`|m!Xd@SLr[[EzKx{X'Y^nu, QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 01632
+Step 14100 | Loss: 2.1879 | Target: 01632 | Pred: 08737 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.055s Total 247.813s
+
+[DEBUG STEP 14100] Full Input: v;D+9g;\7nc>w;|6l1p0aUc@)G'*VmL"4'FCq,R+EQ?fh($MSz# KEY:01632 !61>+.qeR?7]R.(`W1id>rDrpV QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 84766
+Step 14200 | Loss: 2.4265 | Target: 84766 | Pred: 49225 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.966s Total 249.779s
+
+[DEBUG STEP 14200] Full Input: |"[GxVc3B*<c\lnHH4\@?=>/uz}, KEY:84766 Q+HpjDt];66!On<yN7Wz[cN6$sF=Oph3.Bf{AE.*65VHPa6k1 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 39706
+Step 14300 | Loss: 2.2751 | Target: 39706 | Pred: 83438 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.974s Total 251.753s
+
+[DEBUG STEP 14300] Full Input: T)h6<OXx$A&mf_.V/PABx:QNW?H1f**ST:9/SnVP KEY:39706 VW&"lS`Elw^i0&rfJ]%hSH_38WJs@%U]T<>XT QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44365
+Step 14400 | Loss: 2.3058 | Target: 44365 | Pred: 61136 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.978s Total 253.732s
+
+[DEBUG STEP 14400] Full Input: 6Co'(RS4,wfLTu91$s2_8J|1]Qrz4l@"/) KEY:44365 VhKX={%te.[rh[1k>a*LT7BA$6vIuE"iCvVD+,nOAW[ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 21344
+Step 14500 | Loss: 2.3559 | Target: 21344 | Pred: 53526 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.963s Total 255.695s
+
+[DEBUG STEP 14500] Full Input: }aY.2KC)},^FmShq*k`(|wB"PL{}*Y,.bT6=51{F<T5 KEY:21344 _hb^=;3:'{)%k##rNy;QoI145Ka-)1`4TK QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 28947
+Step 14600 | Loss: 2.3402 | Target: 28947 | Pred: 11726 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.973s Total 257.667s
+
+[DEBUG STEP 14600] Full Input: u=YvVC9at}` KEY:28947 HK}jQ+[bjkOWfzeApyr=={;,\buH7`51$9N{R6]=_=KITX+z9_;W=eP<{"]nXS2P*N QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75248
+Step 14700 | Loss: 2.5036 | Target: 75248 | Pred: 14306 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.027s Total 259.695s
+
+[DEBUG STEP 14700] Full Input: 7n4DFy:%?mpbcyaeeuYx2%_h KEY:75248 fG5}$D1"{D&''m?-SlB$1g%7q@vx?4$t|kojV"Mn5Joa49rG/Px.e QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 07995
+Step 14800 | Loss: 0.1014 | Target: 07995 | Pred: 07995 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.956s Total 261.651s
+
+[DEBUG STEP 14800] Full Input: w!Z+`@ey`-skc>%bUyH|Hz;J)WM4Lndz3qmydbF!2QG01)x\*{|);Zns!q>Y^R\\Y!Sv4,^sUxk&, KEY:07995  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89723
+Step 14900 | Loss: 2.3898 | Target: 89723 | Pred: 55341 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.036s Total 263.686s
+
+[DEBUG STEP 14900] Full Input: 7GCain4aVL@-JC KEY:89723 cnZtvatr"5(NxK$G/R4&o1\@y3=L=(zp<dSD5`/tj]Wst!@IS?6EOgMr_n8DDx& QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75064
+Step 15000 | Loss: 2.4819 | Target: 75064 | Pred: 21622 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.005s Total 265.691s
+
+[DEBUG STEP 15000] Full Input: 2>g' KEY:75064 qd"8F`U(V3:HoKcp_Z}GPZ+dh@YhNE>3kf35v24+ona#|W[pmCBu!w7P8ETx61bBaJw9bw:Pz QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 88938
+Step 15100 | Loss: 2.2258 | Target: 88938 | Pred: 68205 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.969s Total 267.660s
+
+[DEBUG STEP 15100] Full Input: A{nHhYoE(-T]Z>+O,cd(YM'`>VN(>i@ KEY:88938 cGzntlVxEZjQ58@hRmpb>BIx0(l:Ub:u:eJK;':h/K5Jr$ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 97713
+Step 15200 | Loss: 2.5564 | Target: 97713 | Pred: 88178 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.999s Total 269.659s
+
+[DEBUG STEP 15200] Full Input: 1 KEY:97713 yK]k'o-=x0TSI|YAr%<]xg)4.[NR$Nv.{At=P%j`XyC*j&]\BvH-%VP#6)fW/Ms+tD_'6iaC(8FU QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 81562
+Step 15300 | Loss: 2.2030 | Target: 81562 | Pred: 83793 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.054s Total 271.713s
+
+[DEBUG STEP 15300] Full Input: >JkbrB!]/$jpG-1SLp-4i>OT=qpZ_%lrarX>`n\,n0Y2Ppj^&*nU KEY:81562 rZ6>q/!oQLqFZ)!9SFRyn%y_x QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19850
+Step 15400 | Loss: 0.0833 | Target: 19850 | Pred: 19850 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.999s Total 273.712s
+
+[DEBUG STEP 15400] Full Input: dDOM=bvG#D+#ultbr]*?u%$[q2mV(c\uP<l#vWP%Ese9]evy}`*WLdb#@bi}5B+$=t#,,CpDy.16o KEY:19850  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33368
+Step 15500 | Loss: 2.3493 | Target: 33368 | Pred: 46444 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.005s Total 275.717s
+
+[DEBUG STEP 15500] Full Input: D__E' KEY:33368 aA<P\66#+Jhge=dZ#(^".yO;%{0RBIWh<:k?(xE68'Q-T.=@$5k@HxoS}VYn4s6V6g^Cp--r QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 20638
+Step 15600 | Loss: 2.3238 | Target: 20638 | Pred: 79242 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.995s Total 277.712s
+
+[DEBUG STEP 15600] Full Input: bBW.M&Mvm%=7 KEY:20638 *3aU;a@i_r:0#5"NjHcyfO#&u]sf&0:;UXe3Q-W^d`S7.y:CiD#&2%Qy+5(t'8i&k QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02455
+Step 15700 | Loss: 0.0896 | Target: 02455 | Pred: 02455 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.991s Total 279.704s
+
+[DEBUG STEP 15700] Full Input: %bEi!a-0$O8RfrZ%+K2]37b9D^DN.C@o&9L"MbYz\+c*1mV+h0U|.B%wW$@uT`e"tmBz1S&E KEY:02455 /4XfY QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 29052
+Step 15800 | Loss: 0.0678 | Target: 29052 | Pred: 29052 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.975s Total 281.679s
+
+[DEBUG STEP 15800] Full Input: #GDFc35164".,YG2U(iV,*U=p>oxU,-zP'/82lvL3p^B5OR$mu[r*2U%={h[S:WCz-Urt KEY:29052 ,|5`Pw*O QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 36280
+Step 15900 | Loss: 2.2988 | Target: 36280 | Pred: 38191 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.049s Total 283.728s
+
+[DEBUG STEP 15900] Full Input: 7{]@o_x$x KEY:36280 5WbYxMmh|{t_7oE]9V1a*bvZ@XOXp]G:Rw*qqqhbSq<}HG}]BEG`jm%JMGbdf,:a@^KS QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31729
+Step 16000 | Loss: 2.4848 | Target: 31729 | Pred: 08268 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.969s Total 285.697s
+
+[DEBUG STEP 16000] Full Input: 4fdG}3){xrrR@UbcL6{IYV<E`fsJ!\IY-W2U3&d]&_A"Jkg KEY:31729 L`.MYI4V>WuQYGr*at)yu;m225<0'E QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 09191
+Step 16100 | Loss: 0.0974 | Target: 09191 | Pred: 09191 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.967s Total 287.664s
+
+[DEBUG STEP 16100] Full Input: ^i^I]&"_ERH`!%.y*>3j|,YThI*%4._}6+SlMuRC3S=mH+ho:/\^D7j_$]SGa&dUF KEY:09191 G6/|+88.6s0Z QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 01513
+Step 16200 | Loss: 0.0284 | Target: 01513 | Pred: 01513 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.980s Total 289.644s
+
+[DEBUG STEP 16200] Full Input: 0nz9x+4Q^tuAj{R"2n8,:V*fpJirWrZEI\_U7;=Lf6pF*^c?Tr'j*s)uphP[$aU#/h*dDu<@ KEY:01513 O[WtA QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19046
+Step 16300 | Loss: 2.2728 | Target: 19046 | Pred: 32274 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.985s Total 291.629s
+
+[DEBUG STEP 16300] Full Input: $]wNAv1b6-:-TeX7K}@a^TBHB>s5>wJ0aO\L/`Bue`m*D7$!A KEY:19046 nyOk_,L3,S;mN`^plB3A`7L?UNMb QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 38029
+Step 16400 | Loss: 0.4959 | Target: 38029 | Pred: 88029 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.972s Total 293.601s
+
+[DEBUG STEP 16400] Full Input: iKuxCA@GA|7pl"pUvw7q2J4)kCA=9mHg6}C#w3Gz>X"xadv:q!EKe`6la_VSx6Y KEY:38029 NLrU}5qA&Dc5B) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24270
+Step 16500 | Loss: 2.3711 | Target: 24270 | Pred: 17531 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.993s Total 295.594s
+
+[DEBUG STEP 16500] Full Input: `5Y%F6=lv7U)Zy#9*Tc'B=9 KEY:24270 54ttfjxfQ#]}>/Y2=>QyA{=$>fB9>\2BJ_|qgUQ-3e5U-id-')SNT< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 67194
+Step 16600 | Loss: 2.2698 | Target: 67194 | Pred: 22969 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.060s Total 297.654s
+
+[DEBUG STEP 16600] Full Input: 7P,N@cX|vi6+OeVI|fUko|'sAod#V(yNQW]E*;*U[kp5[ KEY:67194 G>^%Lgw#fKRiKNQGl8'gb/EV9#"HdW2I QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 93966
+Step 16700 | Loss: 2.3732 | Target: 93966 | Pred: 36387 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.978s Total 299.632s
+
+[DEBUG STEP 16700] Full Input: !n!;T3h8_$|JW`DN}.J.;!6x2ri\eUJRokg?aA=#sT+'tGy'e6UKK.'`K KEY:93966 ToaJD7>Jm+sJPog_Xmr[ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 85730
+Step 16800 | Loss: 2.3417 | Target: 85730 | Pred: 22636 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.993s Total 301.625s
+
+[DEBUG STEP 16800] Full Input: N'+*I1iH)`8 KEY:85730 .SeAp5\^dWUUO3Nj>p-EY[\|/ot1]R.I@8fSm5r>'9![(LmJx#smA_L#5[uLU$r@kK QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 43498
+Step 16900 | Loss: 2.3831 | Target: 43498 | Pred: 03561 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.011s Total 303.636s
+
+[DEBUG STEP 16900] Full Input: 81f"Wfci KEY:43498 HGmlL<:<eE`w`7>7p,fNs*RPk=|p7NE-G&=v!<R)/,{A84`>@uKah!{xQ8|lCekZ;T2Wr QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 48325
+Step 17000 | Loss: 2.3106 | Target: 48325 | Pred: 33787 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.980s Total 305.616s
+
+[DEBUG STEP 17000] Full Input: ^d},j*9c4+K[FJ&0yHXhBthB>j<A1/jP!G_Q%EI$-*e KEY:48325 cOQ2>8bu}/E5q3rDLs?quS\)C/Uzr&_cnM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 67589
+Step 17100 | Loss: 2.4008 | Target: 67589 | Pred: 33875 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.021s Total 307.637s
+
+[DEBUG STEP 17100] Full Input: hpV KEY:67589 w|)_mRjgF7weP)GI"ysa!v5,$qd:y8Vrn$bT{O%6(#WpSh[Kt|4uB*4%F3;63(IS\BpTHq=R]" QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89149
+Step 17200 | Loss: 0.0398 | Target: 89149 | Pred: 89149 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.068s Total 309.705s
+
+[DEBUG STEP 17200] Full Input: ]fr0{Rb|64w@QDCx4ifSE\TF_0adhs%GLVZ|H;R:r<S!)f4&X^nMF=Ab6qG1,LuzdkwO KEY:89149 y<o@mes=I QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63861
+Step 17300 | Loss: 0.1691 | Target: 63861 | Pred: 63861 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.977s Total 311.682s
+
+[DEBUG STEP 17300] Full Input: ;VM&`d%ff@9X#9`1e'H$Vh+``+PCfZ.4eFK|tzZ:w`bQ+o:*iZ4LQ5xg7'e?4.&5>#NQpI KEY:63861 q*mP=U9 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 79894
+Step 17400 | Loss: 2.5638 | Target: 79894 | Pred: 37550 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.925s Total 313.607s
+
+[DEBUG STEP 17400] Full Input:  KEY:79894 ?%!ET}@R1edvz%5y^BlcRn?QRTJ5l?Kc{z1J)q)S'*33JZl#/0lzxdemjAk}n*+zn:3;1ye%)i{og QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 95803
+Step 17500 | Loss: 2.4419 | Target: 95803 | Pred: 00099 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.988s Total 315.595s
+
+[DEBUG STEP 17500] Full Input: !]EY@&3RY6JWH0&Xr9q7 KEY:95803 Xpn!B(Hi$_8sz@/SOV!1sjhN00Nfv?6g+T.2OV4SG|mU:Z*2JAu\V"$U& QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 14075
+Step 17600 | Loss: 2.3814 | Target: 14075 | Pred: 25212 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.993s Total 317.588s
+
+[DEBUG STEP 17600] Full Input: op-.U"HCB+1"Uv,"#1J1#5Jbz!!I}:Zb[XC9{3X!-1'9 KEY:14075 k7s+\GJk`qtM?-pXIB9Wo;E_WA$GK4I<N QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44276
+Step 17700 | Loss: 2.4697 | Target: 44276 | Pred: 33950 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.953s Total 319.541s
+
+[DEBUG STEP 17700] Full Input: |Npc7zc]$p3T'vsC?d}Ya49L!O/t$6}kkN>.=(H6RafZg=/k KEY:44276 #2Rv@`S|Z>H&Vd<\c+H3]n+<JYC;V QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37146
+Step 17800 | Loss: 2.3819 | Target: 37146 | Pred: 25753 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.039s Total 321.580s
+
+[DEBUG STEP 17800] Full Input: >#kRs KEY:37146 "0j0gn-H+LRdg+L5kN{2JRg<to(/gGw5VmLg?'`;9HN|;1Q7W<%z}MGPY%tQ+uy`'Y{a=LGs QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31797
+Step 17900 | Loss: 2.2095 | Target: 31797 | Pred: 30000 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.981s Total 323.561s
+
+[DEBUG STEP 17900] Full Input: p="4RbPSqE`C-sXX] KEY:31797 227u_Z6d!?_D!D>M]f^`b2Tk=PDL!T$ZtamGI{j$Zq/pw_57.G+k+>YgVs=0 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37445
+Step 18000 | Loss: 2.0077 | Target: 37445 | Pred: 46477 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.961s Total 325.521s
+
+[DEBUG STEP 18000] Full Input: E\{&&w)Xdw}eFh%/&=]>k1Phw;Z"3xXt`WCxuC!2CO/<=K< KEY:37445 s<G"D<QYO1?t}L9T]v>}aQKVNJiH2, QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11861
+Step 18100 | Loss: 2.3766 | Target: 11861 | Pred: 63982 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.987s Total 327.508s
+
+[DEBUG STEP 18100] Full Input: M&m@g"51{P&0JVack. KEY:11861 Z%GC)kErn-#>1@:Z&:]Yu_|w},5RWkN'sDkX4}_JD{rGT:NlIPqv[|u[I{B QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 95186
+Step 18200 | Loss: 1.9544 | Target: 95186 | Pred: 95988 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.977s Total 329.485s
+
+[DEBUG STEP 18200] Full Input: EP`*._ISo1g*gbt&0)!9"[UZ"S$h.pQn3;F%SJ{+/f7_]([!GV KEY:95186 83Hy),?gz.[D:Srg}h5bAEc'v{u QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56162
+Step 18300 | Loss: 2.1071 | Target: 56162 | Pred: 26575 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.981s Total 331.466s
+
+[DEBUG STEP 18300] Full Input: AOYaw,<8YvhHW[<cT]irY.;RaFJDttAjAN;\|O!"DlQ(]C2pCJ2 KEY:56162 !h\=N:.**{c@m{=ra"2Q,%/Oj! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60377
+Step 18400 | Loss: 0.0435 | Target: 60377 | Pred: 60377 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.092s Total 333.558s
+
+[DEBUG STEP 18400] Full Input: 0YEf#QAV+GWkmZiPTveRj8XC^_d^$N2zP2?YLytCCxhmf00G9*5$Xv5(QZ"tmqzDNPFVh*2g@@i", KEY:60377  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33930
+Step 18500 | Loss: 1.0850 | Target: 33930 | Pred: 03900 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.995s Total 335.553s
+
+[DEBUG STEP 18500] Full Input: +BWMYJ_nbZ.cAR@+2qwT_hy<9TC@j:DH=`M+,[.1oW`) KEY:33930 K_<pCo>`>h0c6B;%tSBoX7LXtXG!(|+0` QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37989
+Step 18600 | Loss: 0.4897 | Target: 37989 | Pred: 97989 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.009s Total 337.562s
+
+[DEBUG STEP 18600] Full Input: XR_|OYv<'tET%&[Xy=cMv4"]n-K?Eha"yNc{[TB0`b<V1|zB6<m]rN//+uP4vrR9:6p<oye"IRft KEY:37989 w QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 09863
+Step 18700 | Loss: 1.1319 | Target: 09863 | Pred: 09853 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.942s Total 339.504s
+
+[DEBUG STEP 18700] Full Input: x$8PtY{=o4?9dR2#5PUq$ot)gz|fz}Hz&7=Qq^"msR7Cc3p-) KEY:09863 uhVJS;sk{->1pWmZX}iGtednAblj QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 93791
+Step 18800 | Loss: 2.4758 | Target: 93791 | Pred: 38252 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.998s Total 341.502s
+
+[DEBUG STEP 18800] Full Input: !8b@Je@$$1I}kEl{Gq"_0T KEY:93791 gtUCMrn\Tjw=J}4}svey3h>8e[#OtppxZzN_Pu^>g}Eo=1r?y+Cw,F) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 41514
+Step 18900 | Loss: 0.0697 | Target: 41514 | Pred: 41514 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.984s Total 343.486s
+
+[DEBUG STEP 18900] Full Input: p}3CQ6lYq9:+.6Fs$D[dIp?O.eJ:b1x#7@tR`?B,+#rNUWim KEY:41514 Xe6)o*s-L2[{.7^2!<|y}#uY`A8|L QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33089
+Step 19000 | Loss: 0.6705 | Target: 33089 | Pred: 03089 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.987s Total 345.473s
+
+[DEBUG STEP 19000] Full Input: Eb442y1jF;?p41Z!3GLr[JV1k-%@-Uig*9{xeK#Gn*HEYR4%,HehYC KEY:33089 b;v]wc81?+:PBd&z)y"Tn+# QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87881
+Step 19100 | Loss: 2.1458 | Target: 87881 | Pred: 87626 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.071s Total 347.544s
+
+[DEBUG STEP 19100] Full Input: C$-]'yOQ`X3'0octg*y^Y%y KEY:87881 ?U(8A^8'me7>6|,<H"O\y\@+-xQ4ymx6O|@T#D+.(`iQ]5JQO'N&}| QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 96129
+Step 19200 | Loss: 2.5315 | Target: 96129 | Pred: 09200 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.998s Total 349.541s
+
+[DEBUG STEP 19200] Full Input: 6 KEY:96129 3g)W&PGlHt/Zl"Xelt(r,D:3Bgxb.w!Q*Z>R$fea5}@({BsD4>'QG`w`iT'duoa]_3A{9zQ8vZ*d QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 41059
+Step 19300 | Loss: 2.3179 | Target: 41059 | Pred: 00843 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.973s Total 351.515s
+
+[DEBUG STEP 19300] Full Input: g5XE)LekcXB{ KEY:41059 X}V@SwLth=Oy+Ey*]>kosufBt/L4z1x8dD0ZFl\UvlnYt(!>WJG0U{rfv17+GPI#, QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 36828
+Step 19400 | Loss: 0.0721 | Target: 36828 | Pred: 36828 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.972s Total 353.486s
+
+[DEBUG STEP 19400] Full Input: p<'9ZF,2pIc^&Xt|$(69V3[NBRS(yh^e'ai?.G]OD{30?;k)c?n'J4M`AnR(Va)y&?J)c KEY:36828 9;U*Bk;M QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 21578
+Step 19500 | Loss: 0.0924 | Target: 21578 | Pred: 21578 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.978s Total 355.464s
+
+[DEBUG STEP 19500] Full Input: -*%LU!M4C6EDf3xE9z.(lR]+JIz_iN%xxt<!lpB0|<s(=)IQ$$/w+Nc/PDO/RH=hfk@U;*`m= KEY:21578 Sq$( QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75485
+Step 19600 | Loss: 0.3877 | Target: 75485 | Pred: 75455 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.983s Total 357.447s
+
+[DEBUG STEP 19600] Full Input: ljde_qS8"zAc]LDU!zu[@,c9e"h0225V3;h<HD@ua*\I-hhAO]6l+2 KEY:75485 QGpg[\-]W|TpT)XcFX&5cD' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 66630
+Step 19700 | Loss: 0.2224 | Target: 66630 | Pred: 66636 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.069s Total 359.516s
+
+[DEBUG STEP 19700] Full Input: ES'KgpWLLRj{`JQH[['RGk.#@Ae:q=("%]&DY'U5.]cS^ KEY:66630 P7^P_pC!cO;QqE3U7'OYT3\vnY;6l1u& QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87732
+Step 19800 | Loss: 0.1657 | Target: 87732 | Pred: 87732 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.986s Total 361.502s
+
+[DEBUG STEP 19800] Full Input: EDF#{@d7D,26GPlgY*asu*aNTPV`[)m&L@"|XgBLwZqj KEY:87732 E1<@ot|W,#wH$u6H{h4Q]|Un:U7'|0n?T QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 85660
+Step 19900 | Loss: 0.0232 | Target: 85660 | Pred: 85660 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.992s Total 363.493s
+
+[DEBUG STEP 19900] Full Input: Cbk3knvCD9kZA*a+Y+&lOM^C#z4F5\kA5DVEb%R KEY:85660 mc<BJ)$vF\WS"eH`,1p15V6xc>%4'@/?Kk3"jX QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 15075
+Step 20000 | Loss: 0.0249 | Target: 15075 | Pred: 15075 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.967s Total 365.460s
+
+[DEBUG STEP 20000] Full Input: F(M*,8R< KEY:15075 6<`IeSyL}Vk(hOh!6,x;Pz'U*1^j0`Z_Xw\*`or1|R0FUjn7Cg59Dm$]BuWUv!;Sh8n's QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 16479
+Step 20100 | Loss: 0.0350 | Target: 16479 | Pred: 16479 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.964s Total 367.424s
+
+[DEBUG STEP 20100] Full Input: ,yG6:%89.u.;$?KeSIN`D7`K@wV&^o[rz?|F6X9;C;'>PYE!F[}iTeaFni KEY:16479 Zor>r=H]?1ucJvu%}dU QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 23230
+Step 20200 | Loss: 0.0186 | Target: 23230 | Pred: 23230 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.982s Total 369.406s
+
+[DEBUG STEP 20200] Full Input: J)f$UR;Cg9(8u1[7_NaJ5{|@'l6W?i>nc&7d0VN KEY:23230 >`k$^mD}ZkAE6a**J>s!Ordw<.YA53_E!VIhoP QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 40793
+Step 20300 | Loss: 0.3161 | Target: 40793 | Pred: 40794 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.054s Total 371.459s
+
+[DEBUG STEP 20300] Full Input: @[*9X;d)4(#mI7zK]. KEY:40793 c;K@`hKHW3o?N8(ExFT;p6c4p*G^I*/v?3X@*a&-aYCm51D5w0.dJkO;JbJ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02667
+Step 20400 | Loss: 0.1282 | Target: 02667 | Pred: 02667 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.973s Total 373.432s
+
+[DEBUG STEP 20400] Full Input: /0(>u73NY_1q1cZ4bf|drP:VH}^8(q'pg_NN"G;V)(g#*95s^CAlC\nGT;{% KEY:02667 S.7pwkd<[,Q5coKcw QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 32119
+Step 20500 | Loss: 0.0621 | Target: 32119 | Pred: 32119 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.005s Total 375.437s
+
+[DEBUG STEP 20500] Full Input: &(cYj+ZBN7O\TDW>Y9 KEY:32119 h0q!G6sC:U"odv+a^oo_ot$w:|7c5*r6T}i`Q"Os&,\TFQLp@l11I6tmCwU QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 45409
+Step 20600 | Loss: 0.1013 | Target: 45409 | Pred: 45409 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.964s Total 377.400s
+
+[DEBUG STEP 20600] Full Input: xJ^d?C KEY:45409 ,+maBk-Y&vaiGY_:|/D_R'n]w{<Jp,|sWQ2jH>"bx9m*vzpcw`.ka[rk_5R|9Yd<s";Pn9g QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56362
+Step 20700 | Loss: 0.1521 | Target: 56362 | Pred: 56362 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.983s Total 379.383s
+
+[DEBUG STEP 20700] Full Input: ^sQf@DhBFOas,I[mC8!t<w KEY:56362 k8}Vhxn7YJ}$vGML^0&0\V[t.LVe|TVn?zjq'3ulECWiX>?0D,3K-=e QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 88576
+Step 20800 | Loss: 0.0178 | Target: 88576 | Pred: 88576 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.966s Total 381.349s
+
+[DEBUG STEP 20800] Full Input: }^rm2hMa&*ydZt1rX$OO={<"8vwO KEY:88576 0(;TiG.IBWbH_q`axd)eg+Obd"31?v8qkO1]o>Fq.,JDm.MMM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 61218
+Step 20900 | Loss: 0.0217 | Target: 61218 | Pred: 61218 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.051s Total 383.400s
+
+[DEBUG STEP 20900] Full Input: MV8ww}]9?Vn]|)vO*}1.`wdnR'C)Odc4wr]|bZId{M#_SXDmF+L?tb$0lw9\FR?Sc}UHp(F4 KEY:61218 9q:S) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12275
+Step 21000 | Loss: 0.0917 | Target: 12275 | Pred: 12275 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.989s Total 385.388s
+
+[DEBUG STEP 21000] Full Input: SPw8(TG!%bwnr7sEdp["%l_bb&Vd*;b*nHd*"t'6;"onW/> KEY:12275 ]\%O:*B^yw=iIH{S8Y!-_Mz9Y&bhj' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 00629
+Step 21100 | Loss: 0.0141 | Target: 00629 | Pred: 00629 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.005s Total 387.393s
+
+[DEBUG STEP 21100] Full Input: ZO<2Qv|*N,f; KEY:00629 tJI+3cJ+Z%5X6^0f^f|m#}pUr?yOHK<::}<v6fAw74JY-3^V+QBKgHH&@Rl/[y1N! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 51693
+Step 21200 | Loss: 0.0425 | Target: 51693 | Pred: 51693 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.960s Total 389.353s
+
+[DEBUG STEP 21200] Full Input: lkVl{RupcK|F,lG,J5;.(q'c&'^"{#Z>I KEY:51693 B\0u.4h74:p;F-]s%4Op"lFZv1zBI\Y@,hfE/:?g^8DV QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87749
+Step 21300 | Loss: 0.0326 | Target: 87749 | Pred: 87749 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.960s Total 391.314s
+
+[DEBUG STEP 21300] Full Input: \wxwz{U_,I6Ui+mJ'A,r9aAYFMb?cq&.vr KEY:87749 H\rlZ(G(my"g<?4.xynLG.F(uNxmWHcA-<0+B:\9L&$ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 76711
+Step 21400 | Loss: 0.0053 | Target: 76711 | Pred: 76711 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.972s Total 393.286s
+
+[DEBUG STEP 21400] Full Input: ^!7n(N;{WBH.=+Tll5/"sU=a@97Al"|GEP+!IgRh7(oEN|GKdSk:CFpJ2]!5lQQZ KEY:76711 ZYW6[=TJyKBib QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 01430
+Step 21500 | Loss: 0.0087 | Target: 01430 | Pred: 01430 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.986s Total 395.272s
+
+[DEBUG STEP 21500] Full Input: 9!'U9D3M*[7[bB8l;Cb?^/Sk@AKs`UNhFwV|D*"4kZ]'Kkzk1JaH KEY:01430 !lvvWs]2#78re%/#[(B1$tBRF QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 47841
+Step 21600 | Loss: 0.0076 | Target: 47841 | Pred: 47841 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.027s Total 397.299s
+
+[DEBUG STEP 21600] Full Input: s*^&r/]>WJ:7#\?hCp(qx[Md'>;7}L]f5$"}y*RTp(cw]ASqs`^&nBfb0+jZ|F\2N}iDI,5 KEY:47841 >U!Czq QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 10118
+Step 21700 | Loss: 0.0097 | Target: 10118 | Pred: 10118 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.956s Total 399.255s
+
+[DEBUG STEP 21700] Full Input: ?5S'I)dov&?le`j,1n[_2!T6=%hO-0MTC^>Tn4D2nY-K`YQAmV\I9q38p5;CM8]bG|n%m KEY:10118 /SCVc`]$ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 35416
+Step 21800 | Loss: 0.0077 | Target: 35416 | Pred: 35416 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.999s Total 401.254s
+
+[DEBUG STEP 21800] Full Input: 4\S]}?uvZV:NWP{Rc!|HO%&r4e727P77y8h5b\Ap+l++}c;[x KEY:35416 cDQ`tn-iutRS0-mh!3ht?|A]"%;' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 36868
+Step 21900 | Loss: 0.0034 | Target: 36868 | Pred: 36868 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.966s Total 403.220s
+
+[DEBUG STEP 21900] Full Input: <G'!,,Kb<oyHZvoG?N{,lXgXr?_L2rfWOn/`kyOH2po&,sLk(V"{P_xF.2(eNoOXUinZP87 KEY:36868 7Vn6t+ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 42537
+Step 22000 | Loss: 0.0057 | Target: 42537 | Pred: 42537 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.974s Total 405.194s
+
+[DEBUG STEP 22000] Full Input: I9W.B.A5p"cKQ^8`U(=TI(s' KEY:42537 jHR,vHyc[_6O:?w/<!zsgDs.]\5vt%cp1-t=H#RX|5]R"g8J?R,"K QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 07064
+Step 22100 | Loss: 0.0147 | Target: 07064 | Pred: 07064 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.981s Total 407.175s
+
+[DEBUG STEP 22100] Full Input: k!],'/lAIW3Gw|KV(|7TbY/z)R%Tjp4St!X<Q`+!}EbouJF:/d+Rmj3'S KEY:07064 !Oc]X!sD[,`&O4=On!4v QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 93263
+Step 22200 | Loss: 0.0073 | Target: 93263 | Pred: 93263 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.006s Total 409.180s
+
+[DEBUG STEP 22200] Full Input: txJRY3C"Qcn|"d.n8Sg^T4^-io}ZCmJaGxK2(pa/ KEY:93263 'U[(C%{8$RP,/xUGa"C(s[!Rm3pgfMMt`ZNy] QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 35535
+Step 22300 | Loss: 0.0052 | Target: 35535 | Pred: 35535 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.985s Total 411.165s
+
+[DEBUG STEP 22300] Full Input: mBgT,>'"V_|8xWZ\R}1#loB KEY:35535 }6{x=>LGGe>u8TVzt5tBjJDs,0)()z/[LJ:_^>/6t|yJ6HYx1-%$df QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 98421
+Step 22400 | Loss: 0.0278 | Target: 98421 | Pred: 98421 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.982s Total 413.147s
+
+[DEBUG STEP 22400] Full Input: \f4dHYpi KEY:98421 f9Nka-gtqDC!6oN2t%$_;tO*;5E(D#z#W'`f;|z9yujVf$Lm&ebH.t5WEgzkH1Nu{.%uM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 18656
+Step 22500 | Loss: 0.0059 | Target: 18656 | Pred: 18656 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.961s Total 415.108s
+
+[DEBUG STEP 22500] Full Input: T;-;;S66'Y3\x&w=;jt=j#2ne9]pv7IL0w)>z5-D2},OU`0^u"U<hcR2| KEY:18656 @6G/ran;=|A^Pe#}W=,r QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63459
+Step 22600 | Loss: 0.0034 | Target: 63459 | Pred: 63459 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.970s Total 417.078s
+
+[DEBUG STEP 22600] Full Input: NoM`F_b.juIy[\QOp!m/<)Kg3|HhCGZ0uo0`mTa#NeWt9c(o;2RyX*jwC?MWw6tIV|-Icn/1$Q> KEY:63459 O+ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33219
+Step 22700 | Loss: 0.0087 | Target: 33219 | Pred: 33219 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.960s Total 419.038s
+
+[DEBUG STEP 22700] Full Input: !ih}MsLCCK?=f$HSXF^Zq.dqDzNEzqxci:U0n_QV KEY:33219 qcM#pk>0tc0A1\Y24hA,]Os-H_K)-u=U6Fv$7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12786
+Step 22800 | Loss: 0.0031 | Target: 12786 | Pred: 12786 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.044s Total 421.082s
+
+[DEBUG STEP 22800] Full Input: _v]9k#M3%_|d*$6T?Sm^wB{aJ]%<m;]2)D}\O$cDaFKJ{[hZ].0/0^K}ei4#z{nH4 KEY:12786 No^<x|@gUEa4 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 74462
+Step 22900 | Loss: 0.0088 | Target: 74462 | Pred: 74462 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.971s Total 423.053s
+
+[DEBUG STEP 22900] Full Input: 6jxTP8)UiplePq}u5'BPG5^:<+^dZf)It-$<eUYBX@7-wiF/|0M=:|<aG$}/siae)SU}'It8H KEY:74462 '1CN QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 94223
+Step 23000 | Loss: 0.0273 | Target: 94223 | Pred: 94223 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.983s Total 425.036s
+
+[DEBUG STEP 23000] Full Input: ymp*06g.Y1pu'`6ZDL+38j\2/{<gIwqrAu2smDlK#G+3)6 KEY:94223 X))7rqA>\c(TF$Za^|>S%ib,2@7_Itu QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 61883
+Step 23100 | Loss: 0.0169 | Target: 61883 | Pred: 61883 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.965s Total 427.000s
+
+[DEBUG STEP 23100] Full Input: sF*zIj?3Xh06oRo"o& KEY:61883 -aqmsm5QDpF|CT#U0xmd47mfd@n[I!jiHH3Y@nk-(4EEdV-D.MA{'47"3KF QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 30834
+Step 23200 | Loss: 0.0029 | Target: 30834 | Pred: 30834 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.006s Total 429.007s
+
+[DEBUG STEP 23200] Full Input: qi85CQW*u>@S"dEkA-ygP@C@W05Mn[M-hCxeSfmpc.> KEY:30834 $l^w']dnR.49@IZ[-,.S9qi;hVBhJ+1cFK QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 85395
+Step 23300 | Loss: 0.0052 | Target: 85395 | Pred: 85395 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.989s Total 430.996s
+
+[DEBUG STEP 23300] Full Input: Wn=6O:C(r=^^Fm.&hg&29->@ KEY:85395 2V8S(P1hI;!^6".%nlU"v!dweeAi+j@B%@LY7=F'T_N&Z^1Za{.8F QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12241
+Step 23400 | Loss: 0.0028 | Target: 12241 | Pred: 12241 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 2.045s Total 433.041s
+
+[DEBUG STEP 23400] Full Input: EK1S6yzv]VL@qEBIvo!=*"j@rqXl|zz""dKqW9x_N KEY:12241 [@pibtIJ`OkatS!mS/yqH^RHT,B{Gkah]1f- QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 66376
+Step 23500 | Loss: 0.0028 | Target: 66376 | Pred: 66376 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.979s Total 435.021s
+
+[DEBUG STEP 23500] Full Input: n#pKphXJTxEhSji&dxi,90B>6zxSowbT,xH}azUKf"Pd5o(OhuyTdJaWDSCKk5)K>&uM1{t=Zr#68 KEY:66376  QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 43214
+Step 23600 | Loss: 0.0023 | Target: 43214 | Pred: 43214 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.910s Total 436.931s
+
+[DEBUG STEP 23600] Full Input: i,wI:Fd,LGt-I4Dge8-7?}]Gx%"2!!vC/UotjL&(nI5}uxS/P/R5^%v-" KEY:43214 %1m!6x2RMr5nams40j&Q QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 15319
+Step 23700 | Loss: 0.0081 | Target: 15319 | Pred: 15319 | VRAM(model): 75MB | VRAM(total): 78MB
+Runtimes  100 steps : 1.945s Total 438.875s
+
+[DEBUG STEP 23700] Full Input: 'g8b`7,9eJO3|6t2!m0_ar1z-SIlaT^Z)`pIeDPNP"?I|*M5m\:Jzp44=> KEY:15319 o0PtB{1uj/x%ru<D[u^ QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_128.pth (Step 23703, Context 128)
+================================================================================
+Increasing context length, new context 256
+================================================================================
+Answer targets 08778
+Step 23800 | Loss: 0.0045 | Target: 08778 | Pred: 08778 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.261s Total 441.136s
+
+
+[DEBUG STEP 23800]
+Start: %hHgv\ILRUr9IjAOfTzT0L4>VGVVPRuit1{:508?#NY\b}0*ro...
+Needle area (179): ...[q2?n3suaJLr!cVte/_F KEY:08778 g_v2(Q QUESTION: What is the ...
+End (Target area) (206): ...778 g_v2(Q QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 93424
+Step 23900 | Loss: 0.0192 | Target: 93424 | Pred: 93424 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.215s Total 443.351s
+
+
+[DEBUG STEP 23900]
+Start: oU{+`jK3D{LokvoBC:<O*AX/_d[|TX|$!rz#z$34!(l.DJxmz)...
+Needle area (165): ...Q]K,}|25O>M@[[Gt67vw KEY:93424 EsB`r9d30PP%%d<Gt.Sz QUESTION...
+End (Target area) (206): ...P%%d<Gt.Sz QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 21224
+Step 24000 | Loss: 2.2773 | Target: 21224 | Pred: 05464 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.203s Total 445.554s
+
+
+[DEBUG STEP 24000]
+Start: cpaAtcE>qwBZT@}D,}dP\/=kBG/6*Yfix0?>n@eySK^^(8nuvg...
+Needle area (38): ...eySK^^(8nuvgjyEKQA|( KEY:21224 6uTwZjgP(T85QM6u{KDf]f!<kLS?r...
+End (Target area) (206): ...@YshiIN,r? QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31662
+Step 24100 | Loss: 0.0974 | Target: 31662 | Pred: 31662 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.277s Total 447.831s
+
+
+[DEBUG STEP 24100]
+Start: ^EsVI=b5wZ8#=5q<>6Ll5q6mQhMc{P?TMJJRM9k25@_pONQ!1N...
+Needle area (166): ...*cNX>M>"\B^T1|d3FFs[ KEY:31662 r\AHrbT'*;F!nW!|Ykv QUESTION:...
+End (Target area) (206): ...;F!nW!|Ykv QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60662
+Step 24200 | Loss: 0.0754 | Target: 60662 | Pred: 60662 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.224s Total 450.054s
+
+
+[DEBUG STEP 24200]
+Start: m{Z)B*^qEX=FU&+$Av7(eA&lbpi40DoUOc+\&1>$bIUjryT770...
+Needle area (133): ...8Ixquh{p{J#75+oR.pRq KEY:60662 uCj;po6_m:T-R-q<^m(QdP#7y3MOm...
+End (Target area) (206): ...EQ2V_*aS/< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 57382
+Step 24300 | Loss: 0.0591 | Target: 57382 | Pred: 57382 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.197s Total 452.251s
+
+
+[DEBUG STEP 24300]
+Start: V[>YQl"m;W)]Z|tMZo|;[A/N0pC!E+_WUfsbuX3tLB^F'B^T>=...
+Needle area (80): ...GBFQ`+:,KH5jVZ+e\e{T KEY:57382 a+,:iUJ%yngJROM3qjM{J'KxC}:K2...
+End (Target area) (206): ...[&P2fWy4K8 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 94907
+Step 24400 | Loss: 2.5698 | Target: 94907 | Pred: 47464 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.203s Total 454.454s
+
+
+[DEBUG STEP 24400]
+Start: K77gE!E_y-0fcV#e KEY:94907 rk_X[Iq*Sn4Fx^</p@we6N,...
+Needle area (-4): ...K77gE!E_y-0fcV#e KEY:94907 rk_X[Iq*Sn4Fx^</p@we6N,h;uxEw...
+End (Target area) (206): ...J&04uEN3_? QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 58355
+Step 24500 | Loss: 0.0138 | Target: 58355 | Pred: 58355 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.199s Total 456.652s
+
+
+[DEBUG STEP 24500]
+Start: gX&_K[h2uIn^mPRp-9]R@vDdLe#j<wKQs-+sHQrOSi/)CcfBty...
+Needle area (128): ...y0UEMW0u?7wTWD|vtf&! KEY:58355 (j_t,!ppE;w7/J"doI-I[:]*JZ]G^...
+End (Target area) (206): ...QCuCho`(:| QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44083
+Step 24600 | Loss: 0.4336 | Target: 44083 | Pred: 44083 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.234s Total 458.886s
+
+
+[DEBUG STEP 24600]
+Start: ))M_v7Mo(}1;H=Aqb=TJh7:Qv3-NT<F98ERj;do`-u*+lctQy:...
+Needle area (57): ...!4Q8lE0u*(p).4H2pF)B KEY:44083 iY(*[oN!EVv*ShH?E9oD&tS0ost3I...
+End (Target area) (206): ...xftW#<6/e} QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75422
+Step 24700 | Loss: 0.0112 | Target: 75422 | Pred: 75422 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.280s Total 461.165s
+
+
+[DEBUG STEP 24700]
+Start: _7C]@hd".9Khis,Fu{[%FNxB':$=w>v:*c#o;:*0Ds=A&c!^a}...
+Needle area (136): ...%Y&!FdlTu?;*,.RP5t/a KEY:75422 n#"%bT}oOS+:/YX<rkB9CN{K69Zs,...
+End (Target area) (206): ...42u>osV]Zd QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34442
+Step 24800 | Loss: 0.0207 | Target: 34442 | Pred: 34442 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.221s Total 463.386s
+
+
+[DEBUG STEP 24800]
+Start: g!9v^++BjxWqN9Njz]`AI1XiI#T#MI`OXs3S8v>:o+cnQT@Apw...
+Needle area (170): ...4ZX"'#o_#wK'fa.@I*2J KEY:34442 ELoB.!&9j9oBw7m QUESTION: Wha...
+End (Target area) (206): ...!&9j9oBw7m QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04190
+Step 24900 | Loss: 0.0086 | Target: 04190 | Pred: 04190 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.195s Total 465.582s
+
+
+[DEBUG STEP 24900]
+Start: /@{?R.z)MUJaP*,_g%FL\CC[8Fbn`$G.xci"=3%\}jvbd=(D0T...
+Needle area (151): ...@,q(.X`RSDl)H(v51h9J KEY:04190 {TZRxe<%O({f[-!MA4O?cn0#qR@A!...
+End (Target area) (206): ...qR@A!#t$i2 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 46469
+Step 25000 | Loss: 0.0098 | Target: 46469 | Pred: 46469 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.248s Total 467.830s
+
+
+[DEBUG STEP 25000]
+Start: V,zy8l1sN|"+BN-U{;Y-R.6('[Pt2>#Lw}d0x&F"@E,<Ug70BG...
+Needle area (108): ...u1|s/\<GSG\S3<KSoYnD KEY:46469 [wHsRCO9QZ=vfh>e@j'EcET:-tNCk...
+End (Target area) (206): ...XRZ9(X.`?d QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 96795
+Step 25100 | Loss: 0.0042 | Target: 96795 | Pred: 96795 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.225s Total 470.054s
+
+
+[DEBUG STEP 25100]
+Start: ")V=/vY%i8iq?p+ceYZUk)9Q0bI6vWwVX&`V&m@z5P%]BJuUn1...
+Needle area (147): ...,%r5m{,o=5}(v*utgvW- KEY:96795 AU6#I\n$2YUD8\|mUX%pN4^RK$`=)...
+End (Target area) (206): ...)X?XTzVJPY QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34066
+Step 25200 | Loss: 0.0038 | Target: 34066 | Pred: 34066 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.197s Total 472.252s
+
+
+[DEBUG STEP 25200]
+Start: $2xS!Fb:-[>R9#D]7[A^Ga&:0A?6aC"wO4\6KgBwJU\.[]"%m5...
+Needle area (148): ...+o@rg=(!z`DFP$dy#Qf^ KEY:34066 Ly@a_A)nA{{O;5m5(cKp=#qeE}J`{...
+End (Target area) (206): ...`{JbDz75r@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 73313
+Step 25300 | Loss: 0.0051 | Target: 73313 | Pred: 73313 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.305s Total 474.557s
+
+
+[DEBUG STEP 25300]
+Start: wN9/_ezxCyb'E)Ttz/n9Q`<qM^71_/n{={Ec<zN&X-]gFl?P'5...
+Needle area (80): ...!@Lj=}<#HRuKn]F^Tz,2 KEY:73313 soCc%K{5l[6wywJ7=Ou%8_,*+g$Hp...
+End (Target area) (206): ...%U(;Q<ce29 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 13921
+Step 25400 | Loss: 0.3034 | Target: 13921 | Pred: 13921 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.225s Total 476.782s
+
+
+[DEBUG STEP 25400]
+Start: [vT! KEY:13921 6UY[wn[{hZN4(IJB^E^J2+d#&>Ey:F!lji`...
+Needle area (-16): ...[vT! KEY:13921 6UY[wn[{hZN4(IJB^E^J2+d#&>Ey:...
+End (Target area) (206): ...o=@kqP9`T7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 32206
+Step 25500 | Loss: 0.0195 | Target: 32206 | Pred: 32206 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.215s Total 478.996s
+
+
+[DEBUG STEP 25500]
+Start: vg/K^vEbWwt{|n}'BkJ|}TGUbI[j-/2kL>V1K1vJf|Y&<MbYMc...
+Needle area (30): ...2kL>V1K1vJf|Y&<MbYMc KEY:32206 (|2aep=@Rpw}V2F8mke:W3/k:7Dhr...
+End (Target area) (206): ...c,ZYJ[]%)^ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 10110
+Step 25600 | Loss: 0.0054 | Target: 10110 | Pred: 10110 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.225s Total 481.221s
+
+
+[DEBUG STEP 25600]
+Start: c,.odx[g_ls-1v\fK KEY:10110 [UY'X#<8|qmV<+/BT%fvpQ...
+Needle area (-3): ...c,.odx[g_ls-1v\fK KEY:10110 [UY'X#<8|qmV<+/BT%fvpQLyA*9`p...
+End (Target area) (206): ....`X6R.|}'i QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 78832
+Step 25700 | Loss: 0.0580 | Target: 78832 | Pred: 78832 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.238s Total 483.460s
+
+
+[DEBUG STEP 25700]
+Start: Nis]7&}3WH=Qp\@3E/yiN\cn!H2TYxz2P/o(.-MpjkGOWUWQki...
+Needle area (127): ...6bq"WqA`/"8JG!SOkMlj KEY:78832 k$FdD]Wp{`Vyx60ShsiEdW]fS>IB....
+End (Target area) (206): ...!7$CZbmO#4 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31690
+Step 25800 | Loss: 0.0042 | Target: 31690 | Pred: 31690 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.224s Total 485.684s
+
+
+[DEBUG STEP 25800]
+Start: pf%xy*\SmVcd@-9Ztox14@@k4Ei#av,:L\<?WehEKmn4+hP8QY...
+Needle area (104): ...t#^^bZ[9`P.X'B"([E,Z KEY:31690 w\QC_O){nkL/<q;gy!<@2_^ImxV*'...
+End (Target area) (206): ...c&NRJO=nRC QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 18667
+Step 25900 | Loss: 0.0275 | Target: 18667 | Pred: 18667 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.257s Total 487.941s
+
+
+[DEBUG STEP 25900]
+Start: r%Y}cjv!HePZ6kdh:Oux@SvW}Fe2^Efb0G[foQj1lorU@c*qy{...
+Needle area (111): ...(s@qdx&@A,Hf2:)00>L' KEY:18667 6aC]$$E*g827c|.+j$rX([w"x73aJ...
+End (Target area) (206): ...$7wc%cR*Ld QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 25008
+Step 26000 | Loss: 0.0040 | Target: 25008 | Pred: 25008 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.198s Total 490.139s
+
+
+[DEBUG STEP 26000]
+Start: a2(;61KCBY5-1,H\[yF6qp{\x[u[*><D,oLrj^iVyiumOu#4fO...
+Needle area (43): ...mOu#4fOM@8,+d7|&p&R| KEY:25008 stFcknQlkuw]M\Z6#5;@X!pw\Ed-#...
+End (Target area) (206): ...w8,sX}lHAo QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 29553
+Step 26100 | Loss: 0.0215 | Target: 29553 | Pred: 29553 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.243s Total 492.382s
+
+
+[DEBUG STEP 26100]
+Start: kF=JW'nhA2}k'gn4U]`=zL6w&x),]AHD&Sm}B}Q\>W:x/VIIj+...
+Needle area (174): ...*JGd{jVPwlhSU{"b`a,< KEY:29553 g8ZdQ`xD$c^ QUESTION: What is...
+End (Target area) (206): ...8ZdQ`xD$c^ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 05830
+Step 26200 | Loss: 0.0097 | Target: 05830 | Pred: 05830 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.230s Total 494.612s
+
+
+[DEBUG STEP 26200]
+Start: IG`2Q"U=({#Dn&}c2ON>NYZ{gE|O^JHQ*C'`BF8)n}T+t{$mh"...
+Needle area (138): ...CicqDucXKB8^4jiea`Vr KEY:05830 h)'GA,WiG7(I!3M8>HqVq*YZuo;e)...
+End (Target area) (206): ...%rl@zg/>|u QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 74185
+Step 26300 | Loss: 0.1068 | Target: 74185 | Pred: 74185 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.232s Total 496.844s
+
+
+[DEBUG STEP 26300]
+Start: 0 KEY:74185 aZ"|["7a2|HJ:E8p?PZd>>_^c*zm&aY:(IW4s-...
+Needle area (-19): ...0 KEY:74185 aZ"|["7a2|HJ:E8p?PZd>>_^c*zm&...
+End (Target area) (206): ...02Oa-Cei`f QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 90210
+Step 26400 | Loss: 0.0120 | Target: 90210 | Pred: 90210 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.218s Total 499.063s
+
+
+[DEBUG STEP 26400]
+Start: 6neMY{(*'$0[|%.-\@jJ?Wc47c+b(5L"[+W4l{>D'jwzdUe0']...
+Needle area (146): ...v,E7#+*K&C>rBoH;o_]C KEY:90210 #$\=>(2_?YHr4rC)`1[}i"_\<khg*...
+End (Target area) (206): ...4Yq%\")V&T QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 88245
+Step 26500 | Loss: 0.0036 | Target: 88245 | Pred: 88245 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.204s Total 501.267s
+
+
+[DEBUG STEP 26500]
+Start: t`pr.modGE9JZq3f>#J/?t_.j&C|>m$UwU*RFgb\u\>nqaxu&U...
+Needle area (75): ...:&{]C^.i[l(9!h7buUb! KEY:88245 .y)XS{Q:w/5:ytmNmDLBZ0.&'f]_Z...
+End (Target area) (206): ...*Iao4dU?ds QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89364
+Step 26600 | Loss: 0.0045 | Target: 89364 | Pred: 89364 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.336s Total 503.603s
+
+
+[DEBUG STEP 26600]
+Start: +ul6A)fK462O6}q:jnhc70#|tG6F1aN|Z6p!buHU7<yd KEY:8...
+Needle area (24): ...tG6F1aN|Z6p!buHU7<yd KEY:89364 E]:|XId2oBZ^S(UqF,z}&o!9|,jH/...
+End (Target area) (206): ...bEj.XgHtRD QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44066
+Step 26700 | Loss: 0.0037 | Target: 44066 | Pred: 44066 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.221s Total 505.824s
+
+
+[DEBUG STEP 26700]
+Start: i`TO6KW1n&woN]6O{d0y-hN9}[7k6fJ"]=6mK:F98&pI KEY:4...
+Needle area (24): ...}[7k6fJ"]=6mK:F98&pI KEY:44066 o|/PM!U6evxAnZ0-my'/(eL[OEvi%...
+End (Target area) (206): ...\z4Sj'saYL QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 93098
+Step 26800 | Loss: 0.0094 | Target: 93098 | Pred: 93098 | VRAM(model): 76MB | VRAM(total): 80MB
+Runtimes  100 steps : 2.232s Total 508.056s
+
+
+[DEBUG STEP 26800]
+Start: YJm??&5l<aU1S}gZY>7_#Y,TD'U+c}uk`O{CLWajo[+vTnf7nh...
+Needle area (178): ...DNu.a#"ZaVxs8dzi30p= KEY:93098 OHWDlr? QUESTION: What is the...
+End (Target area) (206): ...98 OHWDlr? QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_256.pth (Step 26826, Context 256)
+================================================================================
+Increasing context length, new context 512
+================================================================================
+Answer targets 44116
+Step 26900 | Loss: 0.7564 | Target: 44116 | Pred: 64816 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.513s Total 510.569s
+
+
+[DEBUG STEP 26900]
+Start: WE^*Ly8RQ@pM2z6-#ZlQuFEw.M$-&XDcg3nUl[y0PYF7a5-g|g...
+Needle area (308): ...t,%>&`L+/n*r>/b}c#lJ KEY:44116 \,UmF07iyoe6hsSo@]/yG{YMO6\vg...
+End (Target area) (462): ...{idI3{!B$X QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 26438
+Step 27000 | Loss: 2.1728 | Target: 26438 | Pred: 22252 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.393s Total 512.962s
+
+
+[DEBUG STEP 27000]
+Start: {D|=yZgi/oBZq(skJ|Xi;4qQdQJ-svg{7D1q={7Z*-CtX/}2j7...
+Needle area (124): ...y=86l3_l!p9o|1e1J'}+ KEY:26438 `Sr6hvu#B(3Yke^gBU`Vq%Ui;K5)g...
+End (Target area) (462): ...qx"Lop:ApR QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 90157
+Step 27100 | Loss: 0.0130 | Target: 90157 | Pred: 90157 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.485s Total 515.447s
+
+
+[DEBUG STEP 27100]
+Start: j.*#E{1W-kiZM-XZ<>Xs"Z^&^-%(u`\?A8NnX$R?AeVW|)y(]Y...
+Needle area (413): .../1iac`Xo6'wbh%%22+4A KEY:90157 tuWupt-3qt%Va4,B1V)%cvz-'i5` ...
+End (Target area) (462): ...)%cvz-'i5` QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 50018
+Step 27200 | Loss: 0.0437 | Target: 50018 | Pred: 50018 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.534s Total 517.981s
+
+
+[DEBUG STEP 27200]
+Start: U[BlzR,A46jXG"Q/TO[`V2fku{V'pu-[$SD-m$]2i;rFy+x\%I...
+Needle area (234): ...`cVe^"(U*rReEEV1:(@s KEY:50018 /8Y9<X>*;x?GHmdUDnkn+T;$I?LU^...
+End (Target area) (462): ...u1a3g4UqLU QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 10169
+Step 27300 | Loss: 0.0402 | Target: 10169 | Pred: 10169 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.468s Total 520.449s
+
+
+[DEBUG STEP 27300]
+Start: n0]q%C5E&uD1z.:}][#B>#\+TE^^Lr2Gi7lE89fU?n};;+3Mwr...
+Needle area (162): ...I/gMI9%eTN"`k;U1r2p[ KEY:10169 *Oh]_7nw{(NTiI;ML5IC.q%bx#fX_...
+End (Target area) (462): ...$mgk.(,E-R QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 51703
+Step 27400 | Loss: 0.0507 | Target: 51703 | Pred: 51703 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.481s Total 522.930s
+
+
+[DEBUG STEP 27400]
+Start: m.715_)\iEg4%5%Jp-4c9:O}?B\XpL!<:1R2WaWO>b>fpJ`p0:...
+Needle area (311): ...S-ed1EO:cQsInv!hbog\ KEY:51703 PxOCc?6e16=R{iWMtskfM9L<4b8rk...
+End (Target area) (462): ...Hxvuoo\'LK QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31721
+Step 27500 | Loss: 0.0072 | Target: 31721 | Pred: 31721 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.417s Total 525.347s
+
+
+[DEBUG STEP 27500]
+Start: JIJa!5eZWX_V6Vr{B]nOG.VdGV}ZsNP)=]t|{B:HQo1]bvPuCB...
+Needle area (435): ...V|1Elf5'kml]1'Pa:-8? KEY:31721 *.#luS QUESTION: What is the ...
+End (Target area) (462): ...721 *.#luS QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56969
+Step 27600 | Loss: 0.0126 | Target: 56969 | Pred: 56969 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.380s Total 527.727s
+
+
+[DEBUG STEP 27600]
+Start: u9wvxe?Dr]_KK#JMp3+\3-Rf'qP"2)7'Hw2&UU5Y+Sj>#J20&E...
+Needle area (171): ...NhV$Ejdw[}$T`d;Mh10t KEY:56969 z=$;5<?$3D$%M_/M?xt\MYyuvIu/_...
+End (Target area) (462): ...}uOK8B}Pf% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 23639
+Step 27700 | Loss: 0.0301 | Target: 23639 | Pred: 23639 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.358s Total 530.085s
+
+
+[DEBUG STEP 27700]
+Start: )F[LKPW{MB7rX_u$Q;jFQfavCm(b7Ll#Kh^5!x.f'{%wuR{#N|...
+Needle area (302): ...1aI+W+;nl62%RH3H3S@e KEY:23639 t,ZuzsDF$/,VB%)v^Y`)uCy[Gqnh4...
+End (Target area) (462): ...=]PSGfIg)= QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 08553
+Step 27800 | Loss: 0.0756 | Target: 08553 | Pred: 08553 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.478s Total 532.563s
+
+
+[DEBUG STEP 27800]
+Start: 3,QDJ<<G{f,4,}j11*kG,MtcsyQsR%Do0MRt6i-QMj#Bn_h`Lu...
+Needle area (98): ...3vP)fUS{rVT>3|>CmSU# KEY:08553 :}:[DW;60Fc{qdc4l?1oPpdxD.DHN...
+End (Target area) (462): ...V&vveH`>nH QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 01875
+Step 27900 | Loss: 0.0061 | Target: 01875 | Pred: 01875 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.357s Total 534.921s
+
+
+[DEBUG STEP 27900]
+Start: E%$,mJAKdX$`\/klUnxcyELrT70Cu7(x"u.p41xpOgQu>71B!X...
+Needle area (300): ...A,esTj+n}Hq.QS+.+}T| KEY:01875 NdN4.fKU}:i2(+@?d{k!8@^PK1?n[...
+End (Target area) (462): ...1f2.&Vp02] QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 09007
+Step 28000 | Loss: 0.0043 | Target: 09007 | Pred: 09007 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.460s Total 537.381s
+
+
+[DEBUG STEP 28000]
+Start: cUgMWmbtp;gLwEpQk*|3-im!y>YdFt.$V1nfSr7i/WZl.u2X-4...
+Needle area (421): ...Ec+lrL}B9n<0/:Q)!fsM KEY:09007 #ZXEK5}^9rcy2F8qK!q) QUESTION...
+End (Target area) (462): ...cy2F8qK!q) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04888
+Step 28100 | Loss: 0.0067 | Target: 04888 | Pred: 04888 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.474s Total 539.855s
+
+
+[DEBUG STEP 28100]
+Start: /z!y_*>1MI]ua|6u/R2c(5ABH?-&Dcfu4N;Yf$V2/C-J^l2l|h...
+Needle area (71): ...W>&nWsN"5bzdm=%}t9!S KEY:04888 n0ET"-Y}6UH.s`jU#vVzj;l)vX@;Y...
+End (Target area) (462): ...O':PFif&Sg QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 94499
+Step 28200 | Loss: 0.0049 | Target: 94499 | Pred: 94499 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.451s Total 542.306s
+
+
+[DEBUG STEP 28200]
+Start: l[C\?DuWf-6L5a|riMR_YGJF}H+\4m&v4@N?yL)`WMq`Y!%4,!...
+Needle area (293): ...CD!dWQ.zAETqj?a3WN&: KEY:94499 BIOxnvne`I8_Wo]R+yAk8Gw#O=_0E...
+End (Target area) (462): .../ij\xt08-@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 42917
+Step 28300 | Loss: 0.0080 | Target: 42917 | Pred: 42917 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.441s Total 544.746s
+
+
+[DEBUG STEP 28300]
+Start: KpY{:40a"wI{[4dc#B8aC@+EkYJLgoWdQzc3:lFhNgb6K$q6L>...
+Needle area (49): ...><^B!@oULnECFZKmi@E4 KEY:42917 ^:"bjd.*.Klf=P!0c(WK*#W"2|g4w...
+End (Target area) (462): ...):WR7A|DVJ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 66590
+Step 28400 | Loss: 0.0023 | Target: 66590 | Pred: 66590 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.564s Total 547.310s
+
+
+[DEBUG STEP 28400]
+Start: 7QF*z0E-vrMUa2-"p'F$lcF]zbpj&8tH4{V/IF0`=$5xh8gM<C...
+Needle area (256): ...imh#9)bbBa7EtWD`;+%$ KEY:66590 m-oW{0{'?-ubITE.QU,Bc.8f_G#aE...
+End (Target area) (462): ...=G),AZ39R. QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 03404
+Step 28500 | Loss: 0.0127 | Target: 03404 | Pred: 03404 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.471s Total 549.782s
+
+
+[DEBUG STEP 28500]
+Start: #$`UWX4U*lDUAI%r KEY:03404 C]m'aJ]b&h5_769w8q-YU.i...
+Needle area (-4): ...#$`UWX4U*lDUAI%r KEY:03404 C]m'aJ]b&h5_769w8q-YU.ieUz4|u...
+End (Target area) (462): ...cTHnaI"2oc QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 94036
+Step 28600 | Loss: 0.0024 | Target: 94036 | Pred: 94036 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.475s Total 552.257s
+
+
+[DEBUG STEP 28600]
+Start: )WY7;E$E^Tu'}}(6W37pcZTyv,r3jmc-!!Zq=ujzIgrY]$Pa5(...
+Needle area (220): ...j&ihV}A3>."V'>`ec4}B KEY:94036 m.^1Aq714Ka]]9c7s+4}rE&ef@nb%...
+End (Target area) (462): ...lX@,x5.`WL QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56668
+Step 28700 | Loss: 0.0013 | Target: 56668 | Pred: 56668 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.496s Total 554.753s
+
+
+[DEBUG STEP 28700]
+Start: Ne2??G(0xSxb%lJ1PuBd4X}$7|xT-3{S7lq>ZIY>Wl,|OHHZOU...
+Needle area (201): ...L>\st<68ph]LZvfml'_c KEY:56668 gZ+mmn}z}v9U4dygoq^&$]H`=/Kne...
+End (Target area) (462): ...YzSl%0-Xrd QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 31701
+Step 28800 | Loss: 0.0021 | Target: 31701 | Pred: 31701 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.464s Total 557.217s
+
+
+[DEBUG STEP 28800]
+Start: P6K=_s|d@4gv+;3x:>7BG$s(A>BnBmA#iO:YAnx>t@|!N/iG!u...
+Needle area (365): ...`l&0-+&BuIQy&umlPlgS KEY:31701 FTv5y1|0Tuo3z{"sY]Ruu_[_RG+tU...
+End (Target area) (462): ...0M8}3Ce{sy QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02715
+Step 28900 | Loss: 0.0025 | Target: 02715 | Pred: 02715 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.424s Total 559.641s
+
+
+[DEBUG STEP 28900]
+Start: <JU/QT#n8hh-Gt,&V>YS<EQ0@VPUDI9^}J(]+#u{:UJ}>9#r)4...
+Needle area (239): ...__g}-#4YKAU5?O,5ujp. KEY:02715 Xhg]q%m^>qSNoP?P9ja)DhxgddWwR...
+End (Target area) (462): ...j*v^R]TB{G QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 81226
+Step 29000 | Loss: 0.0137 | Target: 81226 | Pred: 81226 | VRAM(model): 77MB | VRAM(total): 82MB
+Runtimes  100 steps : 2.541s Total 562.181s
+
+
+[DEBUG STEP 29000]
+Start: U+-4Dc\Uv!!NVtgY$5n<4_I[*CaU}a)UU$b#cEdm8y33-}{<5G...
+Needle area (234): ...N@[f("3cB%jOg3a@Au&$ KEY:81226 b87qU9C<NPL7XB5)N:jZ[_".6WJJ7...
+End (Target area) (462): ...SLlSND8w[q QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_512.pth (Step 29049, Context 512)
+================================================================================
+Increasing context length, new context 1024
+================================================================================
+Answer targets 82084
+Step 29100 | Loss: 1.2456 | Target: 82084 | Pred: 42034 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.611s Total 564.793s
+
+
+[DEBUG STEP 29100]
+Start: XMIhZ6KU3=Ig,(>8tgH@rc]|S]fl?;e"$0%O=)MVt>wD_vs;?U...
+Needle area (452): ...w|S4"oHkaD>r18bF.:fp KEY:82084 qsjYN`Pe'e+ZTM<-vB2+aLjRr!g/-...
+End (Target area) (974): ...j0*EYBhafS QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87158
+Step 29200 | Loss: 0.0365 | Target: 87158 | Pred: 87158 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.675s Total 567.468s
+
+
+[DEBUG STEP 29200]
+Start: 1w$p-8o`qWhlBT/lC#Ti%Ce9gY1Vfd-0b&(uU98nVt@.tKk9./...
+Needle area (457): ...4K|'NDI(FEy/cXSba]vc KEY:87158 ,Eeu[6*FiSJ7XS<yIHJ!2JBM(E42?...
+End (Target area) (974): ...wL&V[NBKQf QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 07334
+Step 29300 | Loss: 0.7530 | Target: 07334 | Pred: 07300 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.761s Total 570.229s
+
+
+[DEBUG STEP 29300]
+Start: &[*?*"B1qfX1dM&Bq^w|`k0!rK+q'6Sf'OB0n$%)>WHuUBH!Md...
+Needle area (411): ...kBVVZ;Q3,K@FYucOnBUq KEY:07334 z:*SHJ|t3&X"N`lE2r.Z!O_wU[|&Q...
+End (Target area) (974): ...i;MXt|jZx< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02731
+Step 29400 | Loss: 0.0055 | Target: 02731 | Pred: 02731 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.685s Total 572.913s
+
+
+[DEBUG STEP 29400]
+Start: tKeFt"g{k@eQy,N)KSM6A&C}|{Tt_o9y8fsUc,zx0S9`|:zZ+b...
+Needle area (697): ...|a1=dL;"fpZ;m!VkiW60 KEY:02731 5mwtUkGN:o9s,-3T[_7=}dYl[wEQK...
+End (Target area) (974): ...-sTyRU}|F\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 68149
+Step 29500 | Loss: 0.0072 | Target: 68149 | Pred: 68149 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.782s Total 575.695s
+
+
+[DEBUG STEP 29500]
+Start: i.,SS$z(/9TU4WzOM<A&bA:H@a(0&Gh"CWYj>eW,uoo=u9}<z8...
+Needle area (823): ...[F$jfo7h#(SqJ(#C}Qj] KEY:68149 O$fT!@Qd5s'MfW%IA>*ts#J!cyhV:...
+End (Target area) (974): ...nE_erI"v7m QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 47988
+Step 29600 | Loss: 2.2591 | Target: 47988 | Pred: 43404 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.641s Total 578.336s
+
+
+[DEBUG STEP 29600]
+Start: 3TG+{<'U4<VPuJ?!gWAIkeH<fIMzsHXxe#y7LDAE\gv]WKsvpj...
+Needle area (208): ...7'5O,?`G.#gCf{^1LPVp KEY:47988 5[^+0@:XYH$U%qS$)sX{'Rt}>=JMC...
+End (Target area) (974): ...&hWf#S)`I> QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75505
+Step 29700 | Loss: 0.0495 | Target: 75505 | Pred: 75505 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.598s Total 580.934s
+
+
+[DEBUG STEP 29700]
+Start: mX;<+88dGZt"fQ9#^4UiRBXgU#)')o8j3Yi/+yX'mbgU'Yg#V{...
+Needle area (526): .../bj'Q+yN9vHy'Dyf(G]/ KEY:75505 =NAuDj4,f>1JX,`@e=^onF.*#f_af...
+End (Target area) (974): ...&2|B%ng<73 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 54648
+Step 29800 | Loss: 0.0024 | Target: 54648 | Pred: 54648 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.778s Total 583.712s
+
+
+[DEBUG STEP 29800]
+Start: A($L8a2G%:z];702XmNS^xN)gYCP(e"iy"yUNrijm|l[.bpr%l...
+Needle area (633): ...|ZmpdBQ+D8U1njZCk\KK KEY:54648 %>sKM5k!NDb@/LR$[L<(xPk7J6_O^...
+End (Target area) (974): ...+&GWwnM'[f QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 51765
+Step 29900 | Loss: 0.0080 | Target: 51765 | Pred: 51765 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.752s Total 586.463s
+
+
+[DEBUG STEP 29900]
+Start: !FJPCh|XH^Cx^$J@XcO#F;dfrF)`?{D:Jn/6FbfR*HyifpyZJa...
+Needle area (750): .../Ps:J,>[V7RF.-1uUN^C KEY:51765 .cP6o<#Mq)|CY"(G4>%s++i*!BvA*...
+End (Target area) (974): ..._'w[mrXI[v QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04452
+Step 30000 | Loss: 0.0234 | Target: 04452 | Pred: 04452 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.698s Total 589.161s
+
+
+[DEBUG STEP 30000]
+Start: -BC<}Li[MCIWV{^beVt.t!U{FRi'LR[-MZtKeMl]p"-bs<6Q)G...
+Needle area (439): ...!!k:T@xJs\Yf1@4q=%G` KEY:04452 ]HOmXbqnL%Y3xX/yOB@'b]GX'CPu!...
+End (Target area) (974): ...t)SPa8gZ-7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 13645
+Step 30100 | Loss: 3.8323 | Target: 13645 | Pred: 51616 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.695s Total 591.856s
+
+
+[DEBUG STEP 30100]
+Start: _t[u-MlP6;{{G`Q/Qz#xYzD6F@]@4Ywlj\j*\[D)8XPes)aDES...
+Needle area (249): ...ITH0`5HE<$MO06[^0"ID KEY:13645 cuiqRLyel*w,9Ry9uD2;ix]G{7TPr...
+End (Target area) (974): ...s9c%z1xJh: QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 55503
+Step 30200 | Loss: 0.0061 | Target: 55503 | Pred: 55503 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.780s Total 594.636s
+
+
+[DEBUG STEP 30200]
+Start: %_}k*_y;O#'oc2C`Lo%W_B(pK:?qnwb0ioo}3-B&(6x5YT8}#r...
+Needle area (456): ...t)4VZsL;l{|S^v{o]1[n KEY:55503 g3Skk))}RRKDcPS,eTz)1m8jpYgwU...
+End (Target area) (974): ...LrX#tnf&UZ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12782
+Step 30300 | Loss: 0.2503 | Target: 12782 | Pred: 22782 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.767s Total 597.403s
+
+
+[DEBUG STEP 30300]
+Start: *^AyV1x&PG%eu\i'>7K1g28Wge3wGJ"mws0}87Y-Mdmqb<-da>...
+Needle area (871): ...D0g`Lq{3tj?4]tic7=&f KEY:12782 Dy<d=&Ev8?5'#ZvzylTBsIVFT.?(R...
+End (Target area) (974): ...DG5`{3w[t] QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02202
+Step 30400 | Loss: 0.0184 | Target: 02202 | Pred: 02202 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.733s Total 600.136s
+
+
+[DEBUG STEP 30400]
+Start: YuQxU\k#U<+v(3\G}8<vC_3mT";yg]%@1ALnV3j3yh$2o/&HTe...
+Needle area (739): ...E:|Tk2W?1"*]ZaJB<HDK KEY:02202 jSWf5ar%'a'H^[_3lZ$Us0@j_U-bT...
+End (Target area) (974): ...&N!)LmTk.H QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 28678
+Step 30500 | Loss: 0.0045 | Target: 28678 | Pred: 28678 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.710s Total 602.845s
+
+
+[DEBUG STEP 30500]
+Start: wy}5+26I^w-F_U.4"yM0/(vv}SS}6kA,p_2oSzvbLD2vy\e9C`...
+Needle area (673): ...+Y>!#%uICv}-1t;M9ae? KEY:28678 3OcKWm)uJ.w)k+0q\s={p-dd*_|(0...
+End (Target area) (974): ...wjdeY,dtN@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37407
+Step 30600 | Loss: 0.2314 | Target: 37407 | Pred: 37403 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.780s Total 605.626s
+
+
+[DEBUG STEP 30600]
+Start: lYeRP<eUeV%@K`/|Mf|t@W^k8Yp4Ly_9rTM@G\Ww{1MfX?aRLz...
+Needle area (394): ...bt52jA}HitKa4Q{v0HEb KEY:37407 T/VJuzK#.>/]LzBz!cKxVJhPQw6MD...
+End (Target area) (974): ...ub3c'/dcDM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 85225
+Step 30700 | Loss: 0.0054 | Target: 85225 | Pred: 85225 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.711s Total 608.336s
+
+
+[DEBUG STEP 30700]
+Start: D}'_cDY+$%PS[cJS0tad[kbqQ;cY\qLL#XxcRknsPmEQ#n:b\l...
+Needle area (921): ....Ygmq"vaeRKTd$a&M;/{ KEY:85225 @yo2p#]g%&Lc!3%Ad}'v@]P*;lUoH...
+End (Target area) (974): ...P*;lUoHI8i QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 74838
+Step 30800 | Loss: 0.0028 | Target: 74838 | Pred: 74838 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.761s Total 611.097s
+
+
+[DEBUG STEP 30800]
+Start: *pMva=-uqD1DY(c6@G8nf^J]\4?@(`lc0Vs45iC`VGc-LdLLYZ...
+Needle area (564): ...:M*>clgz[+#g}xR$mJ\' KEY:74838 CbHT|GNgy6Uf<eWo\g8KMz3q@9h4'...
+End (Target area) (974): ...5Ydtkf<o[_ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12336
+Step 30900 | Loss: 0.0018 | Target: 12336 | Pred: 12336 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.698s Total 613.795s
+
+
+[DEBUG STEP 30900]
+Start: Y!!PN,%^GW"eKN5<hVeVbB43=%ype\M=B:>KB=gFZ*1yy&KSk4...
+Needle area (297): ...57;\1dZUSdE7Un6#BWO_ KEY:12336 %fF$c(Tz[CV4f]^wbc,Y}su'+JqRs...
+End (Target area) (974): ...taam03*($P QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 61972
+Step 31000 | Loss: 0.0029 | Target: 61972 | Pred: 61972 | VRAM(model): 78MB | VRAM(total): 88MB
+Runtimes  100 steps : 2.699s Total 616.495s
+
+
+[DEBUG STEP 31000]
+Start: 9*m!7Su2Cn1o2`-%ek_S'?Q$@%NB0m|+%xTF)bYi:Q-DIZ*IB:...
+Needle area (192): ...`9Np(|?:XZ+J/miVWm[& KEY:61972 cimr&KSv&WGs;+!Q#9-Zuh,N)MJ\h...
+End (Target area) (974): ...Q*TD*(\Y?e QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_1024.pth (Step 31075, Context 1024)
+================================================================================
+Increasing context length, new context 2048
+================================================================================
+Answer targets 32920
+Step 31100 | Loss: 2.0898 | Target: 32920 | Pred: 27223 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 2.786s Total 619.280s
+
+
+[DEBUG STEP 31100]
+Start: tYZSi:kU_g;p&8|G2Wh>m!t"aC]idV`n%(i4dnm>3Q$7`Ew|,}...
+Needle area (599): ...v}%`b^'z2W>(7"wWpQwN KEY:32920 P;:Xi9'8)-3:X|PGw*qygRF]g'Bdw...
+End (Target area) (1998): ...j5_(sdTP], QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 72614
+Step 31200 | Loss: 2.4267 | Target: 72614 | Pred: 28280 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.134s Total 622.414s
+
+
+[DEBUG STEP 31200]
+Start: aUu8{tLr&n.!,WyXrw%f}Rt1<TRE)B8/A|'8Y|Yy+YpT;\I,Qd...
+Needle area (388): ...F%'t"0,P6Cu2BU\JNj&| KEY:72614 ^s]e<>oxqcm[:+V7`jtYf0.XoY^t?...
+End (Target area) (1998): ...I6N4[GU('> QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 23525
+Step 31300 | Loss: 2.3259 | Target: 23525 | Pred: 21102 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 2.992s Total 625.406s
+
+
+[DEBUG STEP 31300]
+Start: EFQ;,z}RgnxEHL+FaRY'ZZZThz[?rNoW;O5|!0qK>\0]C%vO.N...
+Needle area (309): ...C"z][;iTEKsH,VZYT^3^ KEY:23525 6^.#?n;^t.I"8*?)Mac(32hPAJanE...
+End (Target area) (1998): ...c?||?K{b0@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 66678
+Step 31400 | Loss: 2.2105 | Target: 66678 | Pred: 22632 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.100s Total 628.506s
+
+
+[DEBUG STEP 31400]
+Start: 8y/8GpWZjYec':I]gryGJ$8`-.ZL}n7[E+/=!x!n>q9l[q8{c{...
+Needle area (568): ...p1-vY#H?dBO+9ENOjQ@h KEY:66678 [F-TdE0uj|hW=w(r;6VAc#?"?v0uu...
+End (Target area) (1998): ...BY4W;ysAs2 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 92414
+Step 31500 | Loss: 2.3408 | Target: 92414 | Pred: 33833 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.117s Total 631.623s
+
+
+[DEBUG STEP 31500]
+Start: 0B7^=7 KEY:92414 Je[PcL8D=O,.(gi:fe3H7?%*'</-pcXN@...
+Needle area (-14): ...0B7^=7 KEY:92414 Je[PcL8D=O,.(gi:fe3H7?%*'</-p...
+End (Target area) (1998): ...yjsP(TVNZc QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11973
+Step 31600 | Loss: 0.0153 | Target: 11973 | Pred: 11973 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.112s Total 634.735s
+
+
+[DEBUG STEP 31600]
+Start: vGa0\>Aq-11e+>q-F?CT+GMG079HRsQwx[ioDdj6IWsj8K.sA....
+Needle area (1131): ...D_=-jQLC#q1W.\$8d>Q+ KEY:11973 t1cl^XDt[ui(Q>/VkJ0v@JRUp/1h<...
+End (Target area) (1998): ...|cQ]OQ@{rp QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11483
+Step 31700 | Loss: 0.0370 | Target: 11483 | Pred: 11483 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.010s Total 637.744s
+
+
+[DEBUG STEP 31700]
+Start: !NJRC0o{!413^&c!FTp=T]WzTuWIoC%YzNYh6<Ha/6wP^:w$;0...
+Needle area (1404): ...bNg}8abEQ{<Ur7^_w1>t KEY:11483 uJCwN$\XINeoZHZcl6Rj?\7eQ!uO|...
+End (Target area) (1998): ....Ab8w'AD1j QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 16407
+Step 31800 | Loss: 0.0058 | Target: 16407 | Pred: 16407 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.071s Total 640.815s
+
+
+[DEBUG STEP 31800]
+Start: Ia?9*##]]Y_-K/D1'5EKI3=d(OQqLl9L:mkaTp_L|sa@O/gV_)...
+Needle area (1144): ...=>^v2)udY#/tj*#$2.BN KEY:16407 r/w9%q[f6%wen`42bC)BFS)vb-BAh...
+End (Target area) (1998): ...c@s}w?3}Z_ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 97575
+Step 31900 | Loss: 2.3868 | Target: 97575 | Pred: 22126 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.135s Total 643.951s
+
+
+[DEBUG STEP 31900]
+Start: CYD3jXSW8$YW9j_!XJgjhyS,w1TU'{b>PjJ2*("VjKt0KYenVJ...
+Needle area (463): ...syJe'HEnl)8$|"f1HNpa KEY:97575 eF2&).T,W}Gd>/*uTPeS]2Z#>jXL....
+End (Target area) (1998): ...>G!u4x}\x* QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 92426
+Step 32000 | Loss: 2.2944 | Target: 92426 | Pred: 56842 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.114s Total 647.065s
+
+
+[DEBUG STEP 32000]
+Start: (*kIgg1ZZ]'S2)@/[BPs^3a2VVf*>v_)$QxQucy+z#+<Uc}i%:...
+Needle area (87): ...%)];vvWOo0jrq?/#Nup) KEY:92426 m\LWPdpnz;ZZW7NbR^xL507sF6.29...
+End (Target area) (1998): ...TFw"X!(!)! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 76414
+Step 32100 | Loss: 0.0324 | Target: 76414 | Pred: 76414 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.056s Total 650.120s
+
+
+[DEBUG STEP 32100]
+Start: AE6fQ_.YV_$mcd[n#8c@68:sEES9d5VuSYP\=H&d$B4Y96g_aM...
+Needle area (863): ...sb^iSuENSS3oIiyFWU\[ KEY:76414 ,qV_CYJ;,(1E`6zk4#i{+PO8*z@-}...
+End (Target area) (1998): ...33Sd8q`.^: QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 92715
+Step 32200 | Loss: 0.0257 | Target: 92715 | Pred: 92715 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.038s Total 653.158s
+
+
+[DEBUG STEP 32200]
+Start: ou7=7/[:K8c`wF;'`H[T:(#-z{iH9_-84@;Q`ahB;-!+WK;{L>...
+Needle area (512): ..."E&B:?@kO:UW(MBc!rbN KEY:92715 C\+*'D?etn8/q2Yj_:):4',kei)SX...
+End (Target area) (1998): ...D&gNCQ5L>* QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 06290
+Step 32300 | Loss: 0.0078 | Target: 06290 | Pred: 06290 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.097s Total 656.255s
+
+
+[DEBUG STEP 32300]
+Start: -!@<gv{LSOH0Omq[8B<2CYI9(kiCeY:IMfTC!eUv`|*1r)NHR9...
+Needle area (1065): ...1vgpW}[=J$x^d^k*lp5F KEY:06290 pHJR>`%T;7Fu/6%uB$jWyrpF;J&(S...
+End (Target area) (1998): ...Bo%p16OYQ1 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 21425
+Step 32400 | Loss: 0.1621 | Target: 21425 | Pred: 21425 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.018s Total 659.273s
+
+
+[DEBUG STEP 32400]
+Start: '4*n]_cs.XDc*<.]c<QcL8F4/'w(`'u7m0N\bp+tgq"RN"G#3A...
+Needle area (1635): ...@WECy1?5m?tOgGV=l50F KEY:21425 Lj,_|vN<w8>(-W:H#']<M1_q4u#%P...
+End (Target area) (1998): ...%*bl7yN?i@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 94861
+Step 32500 | Loss: 0.0298 | Target: 94861 | Pred: 94861 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.111s Total 662.385s
+
+
+[DEBUG STEP 32500]
+Start: Np.8|%mS@5}5'Z7g[c'!2c'|G4V,FY[JE@)Mllv>"h{cc2{=UI...
+Needle area (1138): ...B6(+?Vd,7{yjJDZ_?kCr KEY:94861 YX/`FMa#1=H9^YcwjX0\B!K{JQc6>...
+End (Target area) (1998): ....k0(Xg()Dp QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 63298
+Step 32600 | Loss: 0.0035 | Target: 63298 | Pred: 63298 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.040s Total 665.425s
+
+
+[DEBUG STEP 32600]
+Start: P{\j\u8ik9@#3Fbt[`f8=a!?y"G}W9_n)1=J;nB:fl?`RZ7FNl...
+Needle area (901): ...Yg#92)?sXNeO9pim>^8I KEY:63298 6V*y>SQ116%)z)qx>(1/GZUij;kBB...
+End (Target area) (1998): ...{k_$8!"!jC QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 52789
+Step 32700 | Loss: 0.0249 | Target: 52789 | Pred: 52789 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.129s Total 668.554s
+
+
+[DEBUG STEP 32700]
+Start: 2$UGI}Amq"rglS4tsV!"!iq-&%`[>Ho"p_b|5I>W5*AwNv:!>^...
+Needle area (1285): ...QnK;OXA@4?JC=%QFaN!: KEY:52789 %SKjcj<JWTduKtG72nm{NSmF6H&/"...
+End (Target area) (1998): ...4h*T$htCmw QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34425
+Step 32800 | Loss: 0.0084 | Target: 34425 | Pred: 34425 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.046s Total 671.600s
+
+
+[DEBUG STEP 32800]
+Start: 7l"|DA)}2r:%Z.18;TXsBU_+x/416r#)ynu7R%_"\Z|+@+qZ}-...
+Needle area (390): ...nmjYd1[sqiOVWuMF2N%_ KEY:34425 6}9|{5d0:rg4AE?D+wN#<}>l=gg![...
+End (Target area) (1998): ...I<yAXb/MP) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 40658
+Step 32900 | Loss: 0.0118 | Target: 40658 | Pred: 40658 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.095s Total 674.695s
+
+
+[DEBUG STEP 32900]
+Start: #4,7PNEx3^Y>(PK#a0eq2h*=mVLmZ*@ToJyFu;am)54"ANB=f>...
+Needle area (508): ...,*lC]>BrM>yE&h5](?=q KEY:40658 6-Q\A7D}oPI&P:Yzh$Z?^Cxj&nHjt...
+End (Target area) (1998): ...MwB:g99o/@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11164
+Step 33000 | Loss: 0.0069 | Target: 11164 | Pred: 11164 | VRAM(model): 80MB | VRAM(total): 122MB
+Runtimes  100 steps : 3.042s Total 677.738s
+
+
+[DEBUG STEP 33000]
+Start: Dso1s2o|wY=mkT2D2'olrNNy`9abGFlrO7q2F8Vh-`m>46lpVR...
+Needle area (54): ...\_BcCfv*?8mgCh}%O):b KEY:11164 #{()C#BZS2p/mQQRyQ^]er'98cgHv...
+End (Target area) (1998): ...W'@Kfb>Mp2 QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_2048.pth (Step 33087, Context 2048)
+================================================================================
+Increasing context length, new context 4096
+================================================================================
+Answer targets 34672
+Step 33100 | Loss: 2.4242 | Target: 34672 | Pred: 26323 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.365s Total 681.102s
+
+
+[DEBUG STEP 33100]
+Start: koawU,uL}j4D'n&'W}EDyFs5dV9>BRSfH2ks2SV-]B2w>wH9ck...
+Needle area (981): ...NA6^ti%dE(Oq/j%zbghK KEY:34672 ,;g8*lXG'KpZxoa4QT<)/OV`_h.{J...
+End (Target area) (4046): ...^TrfJKuxF< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19809
+Step 33200 | Loss: 2.1873 | Target: 19809 | Pred: 82693 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.932s Total 685.035s
+
+
+[DEBUG STEP 33200]
+Start: bAK43!:)EyG=kz^u6MpH&.EF@Y6].%)-Teg'XnK.tM5}=a=t0I...
+Needle area (989): ...c7-mLqN?<`d[x1""O''P KEY:19809 uIpkc'>{A^wY+ds0Gi>:hU'N@]ejg...
+End (Target area) (4046): ...?YJCi[O1[[ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 30087
+Step 33300 | Loss: 2.5758 | Target: 30087 | Pred: 85553 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.967s Total 689.002s
+
+
+[DEBUG STEP 33300]
+Start: r,P^[[V!{w^*Y3AC+}{yffgo-;pWr<e,WkuN(`hz9@%/D\IWW=...
+Needle area (1305): ...MHR@<|:^Tyrp/-K_"^JZ KEY:30087 Kv&SRjW?'[2A+4&!:QPNbo^'@G7Q]...
+End (Target area) (4046): ...k8Z$U>"3u5 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 59107
+Step 33400 | Loss: 0.1349 | Target: 59107 | Pred: 59107 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.865s Total 692.867s
+
+
+[DEBUG STEP 33400]
+Start: gmEqZeNZW*\oW;dD!R?QJ,\|.`E\JU%=JN>=tvPR=S7t=a&1=q...
+Needle area (2571): ...A+|maA`7N/=JUZYdvk-A KEY:59107 h=7TV!NBD'<w3]_gAREs@(@7?eOik...
+End (Target area) (4046): ...AZ.,s&SiZh QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 56427
+Step 33500 | Loss: 0.6244 | Target: 56427 | Pred: 52422 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.868s Total 696.735s
+
+
+[DEBUG STEP 33500]
+Start: $nGUV[/?Y-#$.&F[jWCoMpnf78}5>R.Hz589((OQNO<`t?mrFq...
+Needle area (2010): ...]3J{3C$Cz_]Ri\Vc-Zge KEY:56427 $yP#EA\3adT\MFm@fG*ugT:(?pUt7...
+End (Target area) (4046): ...^%e/^nM.hA QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 38570
+Step 33600 | Loss: 2.4592 | Target: 38570 | Pred: 55572 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.943s Total 700.678s
+
+
+[DEBUG STEP 33600]
+Start: s*|V'cY(Po4O7{lV8&"Q,"M8;p)OwUQ;G;y,rdQC;>h5nPfND0...
+Needle area (923): ...yJB(dJsc{|?J!"u{P5R+ KEY:38570 p5HOk$wx'<.A8[o'kh9a,g"`u-`w&...
+End (Target area) (4046): ...Z}<`N5?CGu QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 14576
+Step 33700 | Loss: 2.4154 | Target: 14576 | Pred: 72738 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.954s Total 704.632s
+
+
+[DEBUG STEP 33700]
+Start: AY&"j)v[IbNA}YRXGO5$].dB\kTx,yuT*M+4"oN|)S/1s5Nw2[...
+Needle area (1821): ...I:5Ws=-jU47o'HVJ&%!^ KEY:14576 V?T55D5HsOixNjz02vy!705.=3*g4...
+End (Target area) (4046): ...7\]w=|'>Yp QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24790
+Step 33800 | Loss: 2.2621 | Target: 24790 | Pred: 54494 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.896s Total 708.528s
+
+
+[DEBUG STEP 33800]
+Start: |/XqNPz:J/;H`S5Nu3 KEY:24790 J,|m>P7.ezPm\A;q7@,*!...
+Needle area (-2): ...|/XqNPz:J/;H`S5Nu3 KEY:24790 J,|m>P7.ezPm\A;q7@,*!!Oq!"U/#...
+End (Target area) (4046): ...p2W"e5[yk> QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 68796
+Step 33900 | Loss: 0.0068 | Target: 68796 | Pred: 68796 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.835s Total 712.364s
+
+
+[DEBUG STEP 33900]
+Start: Y;]D\;G9EO_.bH"r@WucW^"UNtZy8$9n`t)F\yU4-s]4x-sxBl...
+Needle area (3063): ...xwm|Fqln9SSqkR;M-2X| KEY:68796 Lsp[<={I1>KC<Kq2e(st:gi4_l%8f...
+End (Target area) (4046): ...1\H>6}]ZhH QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12714
+Step 34000 | Loss: 2.2751 | Target: 12714 | Pred: 44424 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.942s Total 716.305s
+
+
+[DEBUG STEP 34000]
+Start: j"/HHK,glhdL:9-_</0KuuwHg=B(D$}lRM<E'OtKK45AXIDI;V...
+Needle area (947): ...pkvy$6hXEYMYc6(a!aIv KEY:12714 B+<yVj?$&<X#J9vMaKHCDNOa-jgP|...
+End (Target area) (4046): ...-mRn[#<b*C QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 32568
+Step 34100 | Loss: 2.3232 | Target: 32568 | Pred: 89896 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.883s Total 720.188s
+
+
+[DEBUG STEP 34100]
+Start: 1Mo0yYYGBBT(YuKW90u8rvez]Kaqb20$A]HDEMRA]9(U'DFDk2...
+Needle area (1107): ...T&J8:E-I\uG)^I.E?Fny KEY:32568 *@=Y'zEK?S;nE^`L-.>}#BwQct'6g...
+End (Target area) (4046): ...SqJ0IhIkS} QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24029
+Step 34200 | Loss: 0.0444 | Target: 24029 | Pred: 24029 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.832s Total 724.020s
+
+
+[DEBUG STEP 34200]
+Start: DY'R|-d)p,+${F]CuA-=.F.V;W\_KoM8`v.t5_1E-0FqaS%+3}...
+Needle area (3816): ...$}Uz'kpC{Y-WQ?T.y"[_ KEY:24029 N'}dK2*.E):>[8`56U5C=j^{0WG)k...
+End (Target area) (4046): ....K!b=1Gb?h QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 05297
+Step 34300 | Loss: 2.0272 | Target: 05297 | Pred: 91292 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.842s Total 727.862s
+
+
+[DEBUG STEP 34300]
+Start: dN=N?7sQ(emRwLPhX[_scj*8b5L)QG&k,"Aw6h>NWbosi|G/9N...
+Needle area (360): ...;r}v446<hQvqNr=9jG^= KEY:05297 v_0A*(,1]H^Ej1nbz/)gRp2o=l4aq...
+End (Target area) (4046): ...JY/U4QJ\R& QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 48220
+Step 34400 | Loss: 0.9291 | Target: 48220 | Pred: 48920 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.982s Total 731.844s
+
+
+[DEBUG STEP 34400]
+Start: Kzt[iXNtiOdO.e8KP6!gklD3Xa>H3mE;/('*uSA?/)(EbWn_|w...
+Needle area (817): ...!Xr'wO8:Yi,7}=_QO#f[ KEY:48220 V3gYSD:AZ!ydB^Lg\O}Y$QVRBi$KN...
+End (Target area) (4046): ...Ayu+%W`v,i QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 88823
+Step 34500 | Loss: 0.0182 | Target: 88823 | Pred: 88823 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.876s Total 735.720s
+
+
+[DEBUG STEP 34500]
+Start: dOip?\xeuv!ma\0QP^!=@@YKrb&\XhSpl6QaIB]5)HLH3L[<|J...
+Needle area (3354): ...2bQ`*'t^RH}gooJDFWg[ KEY:88823 #*/>_rygg8S.i@T|3uw)aGomz;I#p...
+End (Target area) (4046): ...B|TK?8#256 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 00805
+Step 34600 | Loss: 0.0119 | Target: 00805 | Pred: 00805 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.952s Total 739.672s
+
+
+[DEBUG STEP 34600]
+Start: kC}K.4<ydkLi/UAHh.YTHrpH?}nk7<oO_Lj}IvDgFBXUl,IcKa...
+Needle area (3216): ...w\"fU_`o"N&4NK;!-#[w KEY:00805 0lPz_\}W3oac8VXV-1w@>#n=<F:8Y...
+End (Target area) (4046): ...>gOL5\1qd{ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 17124
+Step 34700 | Loss: 0.0076 | Target: 17124 | Pred: 17124 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.903s Total 743.575s
+
+
+[DEBUG STEP 34700]
+Start: 1JK8.j:+1($Jm&|nbA<B(D#)0m<B7|]L^jn<sJsI\kzj>I:YT7...
+Needle area (1318): ...$pXr=\xH!J$13Vngzfa) KEY:17124 >1VBtex"rZ}TFktN,G5fr8a>K<:Z2...
+End (Target area) (4046): ...v:1Q!K{Yzg QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 84236
+Step 34800 | Loss: 0.0624 | Target: 84236 | Pred: 84236 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.992s Total 747.567s
+
+
+[DEBUG STEP 34800]
+Start: j0YB3/m-bo2y_\:7gDmNBp7j^0xdY\jFk3ZMCN{g*r{(Ao##8w...
+Needle area (1794): ...C|OUe+XY<'VWsVuVsTQ\ KEY:84236 bCxZZG0L<>s-0RgZ$^zrZ0Jz7IUWl...
+End (Target area) (4046): ...Q,m7,ph+&A QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 17698
+Step 34900 | Loss: 0.0068 | Target: 17698 | Pred: 17698 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.879s Total 751.446s
+
+
+[DEBUG STEP 34900]
+Start: \gao|:Xf^J3s{PDx>yg12"X91.[uT6sv%<Xf_Uvcm20kRIQu%i...
+Needle area (285): ...DucmD1PwiksVtLW`70Sv KEY:17698 =w7B_jxzM/`,K!k**}pxc)=BjGdKE...
+End (Target area) (4046): ...t,zyq^5.=A QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33150
+Step 35000 | Loss: 0.0894 | Target: 33150 | Pred: 33150 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.919s Total 755.364s
+
+
+[DEBUG STEP 35000]
+Start: 9aoibL6SxTF%$@QPPWnu(hm_W>J5LKz:WK"mAe!!HW1'w^e/t0...
+Needle area (2130): ...BxBHf&=UFwAeo-Z>tIHZ KEY:33150 )'YTXwVp\:-"=ugCv\u!UDTD7"D;....
+End (Target area) (4046): ...e_i:-C<,h` QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 91509
+Step 35100 | Loss: 0.0914 | Target: 91509 | Pred: 91509 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.865s Total 759.229s
+
+
+[DEBUG STEP 35100]
+Start: s*fKVCX2y#&\4!p/EY1d$OgRcd15Rc<-KJf>,#r\3<WZu>X\:6...
+Needle area (1563): ...u#ZL1}vr0v1+|Rs}:@td KEY:91509 G,VlR{F?5w/})E?9V>9sD/cw&d,'0...
+End (Target area) (4046): ..."fp6O18"W% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 47095
+Step 35200 | Loss: 0.0089 | Target: 47095 | Pred: 47095 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.878s Total 763.107s
+
+
+[DEBUG STEP 35200]
+Start: Sw"l0C4Q8"Q6kmB{2lC}Cf)"4V0\}BeajfNt8CUQSZ=V+*/"_3...
+Needle area (3952): ...=Uk*:>&fWSzU{r7OB[zB KEY:47095 P@,[S!;}lOL\#&^VcI"PL9a8saKfP...
+End (Target area) (4046): ...6O,1\}[K-B QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 73189
+Step 35300 | Loss: 0.0037 | Target: 73189 | Pred: 73189 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.954s Total 767.062s
+
+
+[DEBUG STEP 35300]
+Start: :qj3Uoh'([*n!)u_85pogx'9`g[Z%u4rK)l/]T?5g:wrHDX-5{...
+Needle area (3617): ...M_Djt)mJtO{xE*Angg0P KEY:73189 PL`[p3S3W']:H<X#C$?E$vp$L&w\f...
+End (Target area) (4046): ...swbRdrv>]l QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44004
+Step 35400 | Loss: 0.0084 | Target: 44004 | Pred: 44004 | VRAM(model): 83MB | VRAM(total): 136MB
+Runtimes  100 steps : 3.968s Total 771.030s
+
+
+[DEBUG STEP 35400]
+Start: :Vd|z70KOH5KEV!#zAwyA9+Z='?*OkcMie]EuPrO;!Ynb]m)vl...
+Needle area (3933): ...ayS44!u?##+KqS\v&-&O KEY:44004 ?Q-w+l(/1m]]TXEz|pLP#pV0Vh:FN...
+End (Target area) (4046): ...+rie:8%Y20 QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_4096.pth (Step 35418, Context 4096)
+================================================================================
+Increasing context length, new context 8192
+================================================================================
+Answer targets 10136
+Step 35500 | Loss: 0.0138 | Target: 10136 | Pred: 10136 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 6.878s Total 777.907s
+
+
+[DEBUG STEP 35500]
+Start: Q+2n-spWc&<'sylqjxyj`&Ih1/ty+ivou8j@U4'}me#!T%<l4t...
+Needle area (5475): ...)}G-|Z12\o`*<cnSxSNV KEY:10136 %6s"-EdZKvGiW7f,hD,C8F@wFq&s2...
+End (Target area) (8142): ...k%bFoe4m8? QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75102
+Step 35600 | Loss: 2.2314 | Target: 75102 | Pred: 49694 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.324s Total 785.231s
+
+
+[DEBUG STEP 35600]
+Start: DgN_bf$7CD9^&>f7m([tkT4[*0+|/8>"FwmX%)R8M.:UvhO"K1...
+Needle area (2050): ...dFo\gfRoZ",t^cmkr$y/ KEY:75102 ^ro|[sZR;n]OJ52C=yg^/CcHU-5:j...
+End (Target area) (8142): ...FZF{NN&WB2 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 88135
+Step 35700 | Loss: 0.0202 | Target: 88135 | Pred: 88135 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.402s Total 792.633s
+
+
+[DEBUG STEP 35700]
+Start: 6o8ZUOT%VmRJOG5""3R`4K%e85/Z#^j9nOeG0xp|DE^3^ekFhT...
+Needle area (4646): ...vUZw[jA[A'.*v!ak@B?8 KEY:88135 +J'Td`W6Hula"GDAq2e(HF'EC|aDa...
+End (Target area) (8142): ...FQLN)IWPnM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 46259
+Step 35800 | Loss: 1.7814 | Target: 46259 | Pred: 42259 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.398s Total 800.031s
+
+
+[DEBUG STEP 35800]
+Start: v:Vp"P|fNY`7nc[W!@Lw5[CzgS/%dxo;Nt`'7Tf8%Xq+5pI){5...
+Needle area (4149): ...2}1=vP+:2i\rIVqO%kuv KEY:46259 faHHlNtuD,6_`H{a$sKglt$UtzMsv...
+End (Target area) (8142): ...6^M^A4@DDQ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 01210
+Step 35900 | Loss: 2.0221 | Target: 01210 | Pred: 41390 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.323s Total 807.354s
+
+
+[DEBUG STEP 35900]
+Start: {OB[wCqA$[o@zo+i5ia.;[XSS,M:t}8:D'UiwC]p2w}/NT=XQ'...
+Needle area (1942): ...WT\USln1%!mWAuY?=e/B KEY:01210 Hl;0ECi1#:"(#g=ncoEN3g0cN.*s5...
+End (Target area) (8142): ...|v02Olm30Z QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 21068
+Step 36000 | Loss: 0.0370 | Target: 21068 | Pred: 21068 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.329s Total 814.683s
+
+
+[DEBUG STEP 36000]
+Start: R;(N!^-2A*BSjNX5B)v5jXzyj*_R.TjqxlB$8FmC*E]j\$+3$6...
+Needle area (5604): ...Kg,*1+d?MwM"j3*#>njf KEY:21068 t,_;ehR@-s3}B1_h+d&/x>jeyngv-...
+End (Target area) (8142): ...,+j[)!W=FV QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 97169
+Step 36100 | Loss: 0.0071 | Target: 97169 | Pred: 97169 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.403s Total 822.085s
+
+
+[DEBUG STEP 36100]
+Start: R?z9}i0|cx<hpt|ssP"-zdDSQvtw#".d8'H@p%8|2z]v@IdIws...
+Needle area (5284): ...qESS'4'9NK,7X5F|Pzfz KEY:97169 zs3b[aPQjph'Cr\|@vrj('86)}H^X...
+End (Target area) (8142): ...BK`p00z9&" QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 65801
+Step 36200 | Loss: 2.0883 | Target: 65801 | Pred: 61488 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.394s Total 829.479s
+
+
+[DEBUG STEP 36200]
+Start: 2g75kre1Jh85OC(`".2B(3Yt\}77,;)lH_f/Oar5L3otia&]AN...
+Needle area (1460): ...^XRf"|CdCmRhLUkFJ:wP KEY:65801 =y/`u&m-I[wDF(SOw}%/-WTG&|&sW...
+End (Target area) (8142): ...G1r[N0/nyB QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 84376
+Step 36300 | Loss: 2.2538 | Target: 84376 | Pred: 06273 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.342s Total 836.821s
+
+
+[DEBUG STEP 36300]
+Start: vo*bKl>NID9T#R.y9Df`RR#_YV2>@Hm+@{vVq(%rfXlchp3N<\...
+Needle area (2298): ...0n#/Z{ySo2:1mA+b{$DP KEY:84376 Zd}wcT3#8(Wtms%h(2+5xdaU1_>n2...
+End (Target area) (8142): ...Z(]nfxANvI QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60524
+Step 36400 | Loss: 0.8567 | Target: 60524 | Pred: 60494 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.335s Total 844.156s
+
+
+[DEBUG STEP 36400]
+Start: 8k0-^kqE$w#g.kU=q.h|9w8v9C-2LTSPn!v9rz1cZB}V8=T4Q&...
+Needle area (4015): ...nof$e8T5z_2J^Z,'"Zu8 KEY:60524 ;S8Bb`2NW7m_yY?aQY=U<9]70VNkO...
+End (Target area) (8142): ...G):c_20]5L QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 36764
+Step 36500 | Loss: 2.5034 | Target: 36764 | Pred: 84828 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.382s Total 851.538s
+
+
+[DEBUG STEP 36500]
+Start: M=1v_KDIi#uO(f^Z3F?i#tksBO&^yFX.Atn1Xt&o.qYb{j@$MH...
+Needle area (2355): ...P9|g"{}'srU4oqA=|L-I KEY:36764 ij`)mSSvskohZDpplJO,}15c[W/qi...
+End (Target area) (8142): ...xd!zsWcLdT QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 64945
+Step 36600 | Loss: 0.0093 | Target: 64945 | Pred: 64945 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.307s Total 858.845s
+
+
+[DEBUG STEP 36600]
+Start: hVdEr5ooD1py9v`sr?uQsoyc<|w:Tv_x>J<RbMF}c-3>}+UdHL...
+Needle area (7673): ...QcYlwWR49G"y_`,Mp_$" KEY:64945 V9p,RiH]^|Ty]our1>O6]'t=>Fh4=...
+End (Target area) (8142): ...#5^Z_]J+?i QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 03646
+Step 36700 | Loss: 0.0686 | Target: 03646 | Pred: 03646 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.409s Total 866.254s
+
+
+[DEBUG STEP 36700]
+Start: KH}4+M(gd^:yg=Iz]j(1^g2'+RkG7_2,^3cnxpr1XLIhZB2%#k...
+Needle area (5477): ...x'cy27b:p/iXm:`zzZzh KEY:03646 ]$;iQv9QA*MlL}ilPiBudL24m_}jG...
+End (Target area) (8142): ..._%K=}*d/Uy QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 16362
+Step 36800 | Loss: 2.1431 | Target: 16362 | Pred: 12162 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.319s Total 873.573s
+
+
+[DEBUG STEP 36800]
+Start: X9Skc87sZ-}w9:EOeffDd"VI9)i)Be),-A/dl,DLPY1J1]ojo*...
+Needle area (2259): ...8_ltxK)bZv{,d+E@hLO. KEY:16362 w7aHveU'/!oyPxIC5JMV6]=\H"FzU...
+End (Target area) (8142): ...p(6?=k}xRT QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 55591
+Step 36900 | Loss: 0.0042 | Target: 55591 | Pred: 55591 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.393s Total 880.967s
+
+
+[DEBUG STEP 36900]
+Start: <7(^^7"o[C@Q`y5G;QA!N`Y]ES-S^)1ad+R.9"{(R1j>#G=u0g...
+Needle area (7201): ...i&PYO,uxOet,t4V56L-) KEY:55591 %.wA[{N]mS3(|?v+E(/6FTUK5<N,_...
+End (Target area) (8142): ...'m$}@X4c17 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 82768
+Step 37000 | Loss: 2.4403 | Target: 82768 | Pred: 75110 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.333s Total 888.300s
+
+
+[DEBUG STEP 37000]
+Start: Y_(_L_t KEY:82768 eKe"3ZkbfRTmn'NQ}}+wPlgV3=^&hl>%...
+Needle area (-13): ...Y_(_L_t KEY:82768 eKe"3ZkbfRTmn'NQ}}+wPlgV3=^&h...
+End (Target area) (8142): ...qLm.t%Fj$w QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 81713
+Step 37100 | Loss: 0.0201 | Target: 81713 | Pred: 81713 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.401s Total 895.701s
+
+
+[DEBUG STEP 37100]
+Start: :c/SeHeY@L;i45Z2RC"$u0zGx.&Vd_OcS"!H3?wC0Ak.T6eE9B...
+Needle area (3788): ...dUiga19i%`1S[")YLI?y KEY:81713 s,OGb2CTs+Pfm3k$Hy/c&xLcGXLzt...
+End (Target area) (8142): ...m{<n2JFimR QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 20358
+Step 37200 | Loss: 0.0164 | Target: 20358 | Pred: 20358 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.340s Total 903.041s
+
+
+[DEBUG STEP 37200]
+Start: w06ls#gX8y\wjMw:fT&Ex\OS:I{E$xTMF)Ufxf?UrtQb]|0Jzu...
+Needle area (8022): ...u5I!USPEaq?m{GK=p#[x KEY:20358 tY^<|SgTj7X8P+nxj1#qW@Ez&BCDR...
+End (Target area) (8142): ...)FyY`8>oNK QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 86585
+Step 37300 | Loss: 2.4019 | Target: 86585 | Pred: 71616 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.376s Total 910.416s
+
+
+[DEBUG STEP 37300]
+Start: Y2,-:}*'[Z;X-1617^'%;}yA47p#3^kA`FjWtbcwgt);ev:bj5...
+Needle area (432): ...g:Y]"9r$&@>&ENNg{+BW KEY:86585 3O=<@6x)`#6nA7c5oNhg3gbp(gKx;...
+End (Target area) (8142): ...8x[[qlZ5V[ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 72571
+Step 37400 | Loss: 1.8212 | Target: 72571 | Pred: 72577 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.322s Total 917.738s
+
+
+[DEBUG STEP 37400]
+Start: >j('*z"NnKM"bS'<l4:X-X\C{kHi%\Y%'|;aA,G$`#'#fUX0vo...
+Needle area (1011): ...-rdpub\=tkFZ9d4.wbx| KEY:72571 6t/[:z+[P/2Rr?fY>%tU>"t$W+UCq...
+End (Target area) (8142): ...NR'Nfna69k QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 17224
+Step 37500 | Loss: 0.0400 | Target: 17224 | Pred: 17224 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.380s Total 925.119s
+
+
+[DEBUG STEP 37500]
+Start: #J[psljHEGS+W]c-^#lZO%M/GxZF0|q7u/b&s(95{Ol-!M$4P%...
+Needle area (4083): ...5Mzl*4dOfA;j2aBu{55U KEY:17224 Juu{w@N#->sMSGIu8k[].O**RX,+"...
+End (Target area) (8142): ...r@3x\<7\++ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 15650
+Step 37600 | Loss: 0.0120 | Target: 15650 | Pred: 15650 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.322s Total 932.441s
+
+
+[DEBUG STEP 37600]
+Start: %Agrdf/<(h=b,3.k!RFYWxfL)y7pe6@4)}I6mXe@SX5hSY;m.<...
+Needle area (2563): ...L9?^'Mi;ECQMS<Q?bl&| KEY:15650 UGuQ%<w7j40/nHIu!IwdH^`8=c=1y...
+End (Target area) (8142): ...5+nOQZ4.s! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 22365
+Step 37700 | Loss: 0.0075 | Target: 22365 | Pred: 22365 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.342s Total 939.783s
+
+
+[DEBUG STEP 37700]
+Start: /."LUM8^)q7bUBSifDIG-P'ce;C-yI|4zjxQ{bdN`S[zN#,h*S...
+Needle area (385): ...I0D+EJ7j\hkJj'(AV"+R KEY:22365 <];a:1;BK|jZ'$,\h.h0Qd]T3h+$0...
+End (Target area) (8142): ...7@+l*Gi4\) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 39565
+Step 37800 | Loss: 0.0113 | Target: 39565 | Pred: 39565 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.397s Total 947.180s
+
+
+[DEBUG STEP 37800]
+Start: I>iBI]v7oUbQK(Q:wBg"u"\&?dyh$=@TvKh[G!:,ygvBQfUKyp...
+Needle area (946): ...BpL&>/GC@Z2@yU!R!"k* KEY:39565 SWr)CdY[aaxqAV+F(6r?uFpZTft(o...
+End (Target area) (8142): ...HZx][Bo,v\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 22060
+Step 37900 | Loss: 0.0037 | Target: 22060 | Pred: 22060 | VRAM(model): 88MB | VRAM(total): 236MB
+Runtimes  100 steps : 7.391s Total 954.571s
+
+
+[DEBUG STEP 37900]
+Start: o:pZuY\Rw:;mwq(?qM/_,{+/0f=)KY?y@](6lW\kk%=)@pZ7/9...
+Needle area (3048): ...v&o-DpcwGhYsRs>EL\Q$ KEY:22060 *3>[6GnM}A0$M$zYU!:W`$mSgV+OQ...
+End (Target area) (8142): ...gL1l7CG53! QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_8192.pth (Step 37998, Context 8192)
+================================================================================
+Increasing context length, new context 16384
+================================================================================
+Answer targets 63601
+Step 38000 | Loss: 0.0054 | Target: 63601 | Pred: 63601 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 7.454s Total 962.025s
+
+
+[DEBUG STEP 38000]
+Start: BX.0qi[h*"QXMX=P&x3F;|&0oP0tu9`HLP-2_qbvTLmd;,Q,Ra...
+Needle area (15323): ...XIl\1,XF0Z?dg:';!irq KEY:63601 Wi{MFuQr1[6f.CyC-}0Z/4g:XaX:*...
+End (Target area) (16334): ...ZeVt00A:M* QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 05030
+Step 38100 | Loss: 2.1230 | Target: 05030 | Pred: 74410 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.321s Total 972.346s
+
+
+[DEBUG STEP 38100]
+Start: [)SHx&FArVDw2Qn:{2T5;sriR4i>NCWHbC-5$;@A8V+;.8o+22...
+Needle area (6032): ...6vbIX<[v;9,L9a*ZCJ.G KEY:05030 :#1T@*v$T8zi;Q7'{-L\{A8vtIwqH...
+End (Target area) (16334): ...=XFV#,g&:7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 90022
+Step 38200 | Loss: 2.2500 | Target: 90022 | Pred: 12121 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.396s Total 982.742s
+
+
+[DEBUG STEP 38200]
+Start: qRKeW?>?(v[_=5|L@)g$`h:rp#G|h!7gg\_@MK"9VD+XK2%PG'...
+Needle area (5494): ...{u_7EGi}AHg+}CQQ03A, KEY:90022 k,JKqv&^C*^YHkFvb_Jm6)t:m_fU#...
+End (Target area) (16334): ...>_gKj7}NM" QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 18879
+Step 38300 | Loss: 2.1697 | Target: 18879 | Pred: 75828 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.382s Total 993.124s
+
+
+[DEBUG STEP 38300]
+Start: [Adn>@7zZX!W?UNlo&W0vOU37XKBtC&WMq7el#OfynX-Dmw,af...
+Needle area (562): ...?qI(`>T#AIkfHvlyi>U> KEY:18879 |4h'PGBrl;r`/vk&n#v:e=O<Es|:0...
+End (Target area) (16334): ...cDlSn-!ngm QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44176
+Step 38400 | Loss: 0.0157 | Target: 44176 | Pred: 44176 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.339s Total 1003.464s
+
+
+[DEBUG STEP 38400]
+Start: Xgaf?9QEX5OJtvcq\Q3>l$Rh$?9>pW@7L2n:<^&EN7J9/V&Ym_...
+Needle area (15427): ...yw6d-K7@R(L/$cXK[>Us KEY:44176 6%b6g,B.K^;[Cby[o)c<5U+>Ub(Zk...
+End (Target area) (16334): ...@tv-:LB#`b QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 98528
+Step 38500 | Loss: 0.0273 | Target: 98528 | Pred: 98528 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.327s Total 1013.791s
+
+
+[DEBUG STEP 38500]
+Start: udq)hWGunB}%|\TY]AzzC{"I+g;ddS?dZAr\$f:)HjmynCB>>U...
+Needle area (9810): ...%+4M21&puWkALK4hJKES KEY:98528 /eum3JOc}ipT<.+l{\2:1$AHapra?...
+End (Target area) (16334): ...{YS!XI}P[> QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 98466
+Step 38600 | Loss: 0.0192 | Target: 98466 | Pred: 98466 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.390s Total 1024.181s
+
+
+[DEBUG STEP 38600]
+Start: W|9AMnuA";Xt2UQ=biL{{X[&}ufg"[{`i5`i-MyO,RchQy_t(c...
+Needle area (13014): ...el*C*cyCTb\t;08Pj6hJ KEY:98466 "w>bOV>8q(`WT][8!A,D?G]dHhzV7...
+End (Target area) (16334): ...SOQ&A>)inJ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 96582
+Step 38700 | Loss: 0.0159 | Target: 96582 | Pred: 96582 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.405s Total 1034.586s
+
+
+[DEBUG STEP 38700]
+Start: DWEA)QmsYObx'uV{P#VTeUs&-j?%x)O0lvcp,!<^C;73@c+VcA...
+Needle area (15082): ...hjo6[rTgL>rD.Aq$MDk! KEY:96582 TxjQ[0zmI(z={L^z`=*AX_Bzw3]J{...
+End (Target area) (16334): ...Eo|=b&Xv)< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 40379
+Step 38800 | Loss: 1.1139 | Target: 40379 | Pred: 43379 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.335s Total 1044.922s
+
+
+[DEBUG STEP 38800]
+Start: nA<Ke7cL",E!pB@cHQZ1hc):cBux#/V$TDs)|GlxiNkW.t%f!G...
+Needle area (7156): ...c>3bU&(TFB/}:Ng@qsYW KEY:40379 e|a|I=YU02lfUt)i*S\OCe'"LKg.Q...
+End (Target area) (16334): ...j<ca%1%[w2 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 62832
+Step 38900 | Loss: 0.3647 | Target: 62832 | Pred: 62232 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.338s Total 1055.259s
+
+
+[DEBUG STEP 38900]
+Start: /D^3,D-8tND=AUI*y&T!.U@R|2Rt8nFp}h25d1qf(4j6i)Ndd#...
+Needle area (7339): ...QWE1vQg[0a0)o,KO#ctF KEY:62832 UX$|"fXN;b=oT+DnjQ8;/EH?{@h'n...
+End (Target area) (16334): ...b/NH(bR/<y QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 73037
+Step 39000 | Loss: 0.0363 | Target: 73037 | Pred: 73037 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.384s Total 1065.644s
+
+
+[DEBUG STEP 39000]
+Start: 7[r+=M\}Ozs5PBg@ts6Mq`"l//gB|bl=My>3J<5gcTEIg}eaju...
+Needle area (7320): ...r24747A)jlP;#&g}_\,v KEY:73037 >y)r^c{T/Thj3^[u6|9!rT$'g/csK...
+End (Target area) (16334): ...n$0%\R*[if QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 54393
+Step 39100 | Loss: 1.1262 | Target: 54393 | Pred: 54725 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.405s Total 1076.049s
+
+
+[DEBUG STEP 39100]
+Start: p80rV<({AcRN?FTpD@{$h|G[*1kHj$RzSAhzFGv*%sdriLF1)f...
+Needle area (6057): ...^QN&ARN\h(H.KW`VRa}L KEY:54393 >wTA|6%)K^GzUp#WouE</)<hrdG\x...
+End (Target area) (16334): ...\B')XlL6<l QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75304
+Step 39200 | Loss: 0.0049 | Target: 75304 | Pred: 75304 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.339s Total 1086.388s
+
+
+[DEBUG STEP 39200]
+Start: wlKEt}2afi>ERDr0n}TCK+T;TYZ8PnoK{ASJRMN>*fSLrqZo,(...
+Needle area (7892): ....m''W7VQs4mBw#'+QV@Y KEY:75304 F|3BVCl>V"R+b:9+u3SxJEgP%,C{0...
+End (Target area) (16334): ...=%7!lutNm! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 08472
+Step 39300 | Loss: 2.3696 | Target: 08472 | Pred: 78888 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.326s Total 1096.714s
+
+
+[DEBUG STEP 39300]
+Start: {yv&q5e.lleu$hsO3ZmY\#[ap^LOCY/=X%UYHYx^`9OHA',A}w...
+Needle area (2896): ...JI5u{[bs\?Ac68bh|52) KEY:08472 Y5>f1"\Z/Yo3n9&w7!By"f:S<;G)2...
+End (Target area) (16334): ...JdQ)^%%7Sx QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 33909
+Step 39400 | Loss: 0.0382 | Target: 33909 | Pred: 33909 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.401s Total 1107.115s
+
+
+[DEBUG STEP 39400]
+Start: pwmN7%F^&v,(<f|+o\yr^v6<$Tu9bYC}Y^h"[;b:jdt0*/.A7&...
+Needle area (11493): ...G)$9L|zaGE*Hu'R!;<'! KEY:33909 QO>5p+"GklV[g[obkoS,&!b2*d?'g...
+End (Target area) (16334): ...5K7srq-HWx QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 05955
+Step 39500 | Loss: 0.0218 | Target: 05955 | Pred: 05955 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.336s Total 1117.451s
+
+
+[DEBUG STEP 39500]
+Start: }:@FH1frG;7v8wefy]_!(wx7quW#/e1@;S-Jr9"`eq=wP4D3X;...
+Needle area (6786): ...R\V<x8k,FfMO!c,>*3)t KEY:05955 u=[7g<&YKmKT8ahi&[^('PlY!.T{O...
+End (Target area) (16334): ...fey/N.nnv) QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 22182
+Step 39600 | Loss: 0.4142 | Target: 22182 | Pred: 22122 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.406s Total 1127.857s
+
+
+[DEBUG STEP 39600]
+Start: gOgp_;-QGZ/6Y]pWkC.|E;hr$@lPeK8nkn#A#7He0x*UO'ul-t...
+Needle area (325): ...ve3}+6U'k,nD<7}x{8}d KEY:22182 T<ez$E@lY4Ffy+d#]'RA+ijpYl8RI...
+End (Target area) (16334): ...L08f$IFsxv QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60043
+Step 39700 | Loss: 0.0059 | Target: 60043 | Pred: 60043 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.344s Total 1138.201s
+
+
+[DEBUG STEP 39700]
+Start: pfd.A&?,dv?{Um&iu5Xy]8oD5XKEZMqP,rufo<pJ;kU$Auv2oT...
+Needle area (12110): ...jvx!?'Dr[:ap>'%Z19>= KEY:60043 &iAN6k4y>j|u05?nFDR"<$n>;m0Vs...
+End (Target area) (16334): ...C;N<&vX^cM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 35105
+Step 39800 | Loss: 0.0071 | Target: 35105 | Pred: 35105 | VRAM(model): 97MB | VRAM(total): 348MB
+Runtimes  100 steps : 10.400s Total 1148.601s
+
+
+[DEBUG STEP 39800]
+Start: -[>@F|tG)!Ij`OF6Iy1`&R6YFjAcqoM.v-:[JlIm<`wN1Vk'?J...
+Needle area (13046): ...e)TGx?}YR#s\!wT*8ubG KEY:35105 R!X*wxw5Qibn$#w/|vW[RPA.p4hOf...
+End (Target area) (16334): ...V$-+c@m&J= QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_16384.pth (Step 39872, Context 16384)
+================================================================================
+Increasing context length, new context 32768
+================================================================================
+Answer targets 59119
+Step 39900 | Loss: 0.0041 | Target: 59119 | Pred: 59119 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 12.261s Total 1160.862s
+
+
+[DEBUG STEP 39900]
+Start: QYPJ&,h,`=SI,AVwTK+qPJQQ=OpPaB!v#UZ!Lm"vM(&q!se[<$...
+Needle area (28449): ...3JhiRR/d6+HJ;"H?j5@& KEY:59119 &Hgpyg4cj1g3i}_-CF)75jG!4>+Cw...
+End (Target area) (32718): ...D#^yTr+,z& QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 41207
+Step 40000 | Loss: 2.4040 | Target: 41207 | Pred: 00800 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.080s Total 1177.942s
+
+
+[DEBUG STEP 40000]
+Start: &dBeoJ";FIkXCNpO,}%4sAP>IN"_sGHD5pR?]$mG|/cr+cOYId...
+Needle area (887): ...}Y:+Z>H'\kyRxcq|,/P) KEY:41207 S<3"HBP0w?I+1OO(Ml7o0G.N3gC2_...
+End (Target area) (32718): ...&F=<\|8L]c QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 64888
+Step 40100 | Loss: 2.3244 | Target: 64888 | Pred: 34405 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.142s Total 1195.084s
+
+
+[DEBUG STEP 40100]
+Start: Ne(GV>2q_.lhHDW0(W/r=L>;qm^XzbNq\#@K&xShT11%Vf6A&&...
+Needle area (1017): ...P91tRRZ_;{6#)7,E"&CY KEY:64888 ]"q.%5c+`3'J93AvV%q:@4r%tB?ll...
+End (Target area) (32718): ...H4gaTXZ[vd QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 19473
+Step 40200 | Loss: 2.1979 | Target: 19473 | Pred: 64404 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.045s Total 1212.128s
+
+
+[DEBUG STEP 40200]
+Start: Wz5)?\?Z8|_!i[sHzi|rRO7KuksvC#w6BC9"y3^9-n7gD9#Zl'...
+Needle area (350): ...*wB[x2,P\|WdIQ2DWj&, KEY:19473 ,nhm!2^:BH3I(G<P(CE41osv83K+s...
+End (Target area) (32718): ...[-8#@,(+C# QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 57315
+Step 40300 | Loss: 2.1071 | Target: 57315 | Pred: 75405 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.097s Total 1229.225s
+
+
+[DEBUG STEP 40300]
+Start: G*`W/;np(,qa%K:hA,EpxfverBl6y=)9Zz=Od|k"0Yvi<]?iR:...
+Needle area (4914): ...rtfO4z0e>eE:RM9]mxNR KEY:57315 D{IG[xc*`8(i?:wd/J|i5Js$ioZY/...
+End (Target area) (32718): ...-i"qxN/A;" QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 99945
+Step 40400 | Loss: 2.1774 | Target: 99945 | Pred: 83495 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.080s Total 1246.305s
+
+
+[DEBUG STEP 40400]
+Start: CL\w{SQ6[E8'Pns0p6;Aa?(}Vw!C3-a<$TR)I)aAv5l2pt4yo3...
+Needle area (1866): ...JKv7kC*_Y#/M#+]6c\$8 KEY:99945 icAILcc!ijgB7L>CCk\m+#*A)3rxY...
+End (Target area) (32718): ...uS@1;QXx!v QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 20179
+Step 40500 | Loss: 2.5240 | Target: 20179 | Pred: 87885 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.102s Total 1263.407s
+
+
+[DEBUG STEP 40500]
+Start: ?G{5X[#-yTuaq07{YY1&uu<9^V;%6:As8]lfpB-AWMIjVU;M.{...
+Needle area (2677): ...YOrFpm$|5U<:B@g-ISNl KEY:20179 gHHGh1ZBeRLFs%>Ev?<^hqL_{xPbp...
+End (Target area) (32718): ...x"yR`.j{ZP QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 88678
+Step 40600 | Loss: 0.0241 | Target: 88678 | Pred: 88678 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.051s Total 1280.457s
+
+
+[DEBUG STEP 40600]
+Start: ,W58%fOSSY/%)sI9([I;A7Q.NYKtp-BE:mcR>lHDK)FE7#^J=\...
+Needle area (15953): ...L=`(bCd\,CaX1ykKe5H" KEY:88678 Obcw.fJq[aa-0@Y>ji!EGpqS>nU.i...
+End (Target area) (32718): ...)v(0`l5ixZ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 44711
+Step 40700 | Loss: 2.3580 | Target: 44711 | Pred: 77860 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.097s Total 1297.555s
+
+
+[DEBUG STEP 40700]
+Start: BXv`#R0BBt*KJYu#[0/'%,h*y30c&9i{^W%4chDfj{IFq!^Pa\...
+Needle area (2385): ...|M?"c#OQx[m$>7}"={>: KEY:44711 \OhMDI{'0lj:F.`r&(veW7s*MQx[K...
+End (Target area) (32718): ...{dGoLnA{e4 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 78443
+Step 40800 | Loss: 2.3175 | Target: 78443 | Pred: 98898 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.136s Total 1314.690s
+
+
+[DEBUG STEP 40800]
+Start: 7cu*UH0T)SWD{pX986p24EH|2!(lLT:pSIL7n4ETbay"u2Rzwa...
+Needle area (11752): ...XUwlH{h^&h0pm2o$v;wB KEY:78443 EXS#T]3{oe)L&hZTU)p.!iS;$-KS0...
+End (Target area) (32718): ...4l{(0z'CUX QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 22720
+Step 40900 | Loss: 2.3468 | Target: 22720 | Pred: 98090 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.050s Total 1331.740s
+
+
+[DEBUG STEP 40900]
+Start: a,{iI@^wcDV.:T{I"G#@z3K]")&y#ekW-Jv[qkK@ZQ1;_?bu9q...
+Needle area (2432): ...)V(xe7jQ$GD<nQ6b<@&Y KEY:22720 uY}+!tiNidT9Lf#a>VtB17@k9kG?<...
+End (Target area) (32718): ...vnJ3$LHC34 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 53982
+Step 41000 | Loss: 2.2586 | Target: 53982 | Pred: 88080 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.094s Total 1348.834s
+
+
+[DEBUG STEP 41000]
+Start: }Hvd.tu"|%lk/ae?p1NY/3rh1SHOM@HZBDB!M"\F?\rn'IC$<O...
+Needle area (6550): ...Wbc*UCzTfYvAYZ*zn<'h KEY:53982 `G&{cqS5-rN>cA9tLd!.kV_^uzi{*...
+End (Target area) (32718): ...:0|0um:kU* QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37410
+Step 41100 | Loss: 2.2880 | Target: 37410 | Pred: 88284 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.084s Total 1365.918s
+
+
+[DEBUG STEP 41100]
+Start: N@+*u'n}=-&\v(lipg[9**4DG%A3Vy.x*5g]'K;w'Bwe#/uipV...
+Needle area (4817): ...(PF5EhoKPR|5''HTIJ!_ KEY:37410 y3")Q%P%a#L+@2s_2an&zwzh&aS:g...
+End (Target area) (32718): ...HBiYbXuF&s QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 61675
+Step 41200 | Loss: 0.0103 | Target: 61675 | Pred: 61675 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.104s Total 1383.022s
+
+
+[DEBUG STEP 41200]
+Start: "lec}9Os/+Ed#N7Fq3:"BT:iC;NW5+HD_@pd261Wi[e/M1#Olz...
+Needle area (25890): ...eZgO2?f.y:BGY1rW-/OO KEY:61675 X]5ipZaA1O`a8X}*/Ji55IZKOE?<z...
+End (Target area) (32718): ...*?8e{WuuWV QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 08246
+Step 41300 | Loss: 2.3067 | Target: 08246 | Pred: 88808 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.095s Total 1400.117s
+
+
+[DEBUG STEP 41300]
+Start: #F@Nn0}SYbc`<q*%akVDkRy.be?b$-`bA/fmQarXrh9Brz$n.I...
+Needle area (4348): ...j!Lt=IO?<ts5,FNfxzSP KEY:08246 +m0u'ryfIA$oP/u.XJQ7NX>^V5;lx...
+End (Target area) (32718): ...6m<x*Gr+F\ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 71673
+Step 41400 | Loss: 0.0101 | Target: 71673 | Pred: 71673 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.080s Total 1417.197s
+
+
+[DEBUG STEP 41400]
+Start: 'w44V+IjQ(9c.Wm^jR:4*jVOnl,_,7p7U]RO9iob2<P2%:.|)`...
+Needle area (18628): ...eIuaXBm+PR/U0(33ONW= KEY:71673 v+;ouIUtdXHTzLbD?Qi;XC2G"R);g...
+End (Target area) (32718): ...jwBX/=[Plq QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 42382
+Step 41500 | Loss: 2.2773 | Target: 42382 | Pred: 55889 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.102s Total 1434.299s
+
+
+[DEBUG STEP 41500]
+Start: @=Itp3RL,#wli!Fz9"UVwrz*(OHk'vb\I3p[UJwHC"#1Yiy{xD...
+Needle area (2538): ...Q|99&m0hH2xWC@^u5G8= KEY:42382 4>;x{A"51Ov-6SiWY3Nek&0q8XtP1...
+End (Target area) (32718): ...=_cIUA@Wq: QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89497
+Step 41600 | Loss: 0.0240 | Target: 89497 | Pred: 89497 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.043s Total 1451.342s
+
+
+[DEBUG STEP 41600]
+Start: 0VMYK;FXVN1/wM*z&Yv.58`Bv+-UbGx..T/AV:>\otNUYQ3;bG...
+Needle area (21791): ...:B;m+.>w2"!xEoGJ$]GP KEY:89497 ?rcAspzt-;]Q#R{>htd4q&nf14uX)...
+End (Target area) (32718): ...?*}/9A!s"1 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 77829
+Step 41700 | Loss: 1.3644 | Target: 77829 | Pred: 77827 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.096s Total 1468.438s
+
+
+[DEBUG STEP 41700]
+Start: Sc>TD5$Pq_I&`5n622OgJ+%FB_0n|ZXZV_fCO7R{4Yf]gb*"@"...
+Needle area (16493): ...k1SII}+=Maso}wm{sIBv KEY:77829 qsb4a{.5'*QJ@.EoW?[dr<?Vuh3CX...
+End (Target area) (32718): ...r@ieTy8PvU QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 82976
+Step 41800 | Loss: 0.0051 | Target: 82976 | Pred: 82976 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.134s Total 1485.572s
+
+
+[DEBUG STEP 41800]
+Start: K9eMhB}+wK`s*cT{fU&{7"Yv.0xv$nV,wLrT%s6"2SZT5?`.#,...
+Needle area (26784): ...g*TOYV^(}CYUnf$!@gMf KEY:82976 o[fjm_X%#r0vRNW),=ZU+dOFH31G{...
+End (Target area) (32718): ...dW_=Z1*h'R QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60318
+Step 41900 | Loss: 2.5329 | Target: 60318 | Pred: 58702 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.045s Total 1502.617s
+
+
+[DEBUG STEP 41900]
+Start: ;o?BlDAC%`\PW,3Ldet@2w\(#T6mfr2$byxP8\&-/O|3ZfMt@&...
+Needle area (2070): .../r`zx8\=D@R:j^=W;.=J KEY:60318 Z2d9(39ts4(l}X4,U<qqq.h*}JyAM...
+End (Target area) (32718): ...`,#,98Ei#' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 43959
+Step 42000 | Loss: 0.0138 | Target: 43959 | Pred: 43959 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.095s Total 1519.712s
+
+
+[DEBUG STEP 42000]
+Start: ?pNMNaX%9K6RKdCXi&@ZN9R[s%FP:l)5LNuX\-BK>/1rz"]5|h...
+Needle area (16113): ...xtzi^0%UrbpMGRcSaAPV KEY:43959 xVkkGpU|2=xkJ*U]xcTEVsx\#"X04...
+End (Target area) (32718): ...auS+j){;_L QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 34469
+Step 42100 | Loss: 0.0258 | Target: 34469 | Pred: 34469 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.073s Total 1536.785s
+
+
+[DEBUG STEP 42100]
+Start: 6S||/1apih*/-'Aj'Uj82F=%!,W8>mP?F+Nu4/|@hvc#:Hbb6j...
+Needle area (24416): ...va[W2g>,L45L:z9NLes; KEY:34469 ,oN|FoJ[BlY;qmz{_Rc)T-p.7@]E:...
+End (Target area) (32718): ...$-%49(`=h} QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 27758
+Step 42200 | Loss: 0.0215 | Target: 27758 | Pred: 27758 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.102s Total 1553.887s
+
+
+[DEBUG STEP 42200]
+Start: V{Us<IgMkIptfI<F=p$R&!dN+W7p-6n4<k_(Dlu((@zd1hH@M-...
+Needle area (11720): ...]bd8>fg;Cvw]^-h=;j|6 KEY:27758 I|=ng&d[9D=uYb/2-4hab.%|X'{]6...
+End (Target area) (32718): ...F!C&pP(H&V QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 83153
+Step 42300 | Loss: 0.0113 | Target: 83153 | Pred: 83153 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.048s Total 1570.936s
+
+
+[DEBUG STEP 42300]
+Start: {F+|Enn/-CROpOrm`MvdY6UP"==Di_N@@dOZ#/fNIG3HP=a{;$...
+Needle area (2582): ...(a})U/H#;^{t.?'tqtKg KEY:83153 R|r!.EeV?);U#)H'NOX3UH|=JPM%{...
+End (Target area) (32718): ...%P|_1u<g2. QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 11425
+Step 42400 | Loss: 0.0886 | Target: 11425 | Pred: 11425 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.091s Total 1588.027s
+
+
+[DEBUG STEP 42400]
+Start: <47|vc-eC'sxsBiJD3-VB{XYp$XDAp4gKP-h!GDo"rCh{6P2?:...
+Needle area (16881): ...A4_=8hUh`%CTls`fo77z KEY:11425 Yux^=2cA_}hBwGh=kk|v<VBRSjD,f...
+End (Target area) (32718): ...xStUBhBG]} QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 23358
+Step 42500 | Loss: 0.3099 | Target: 23358 | Pred: 23350 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.130s Total 1605.157s
+
+
+[DEBUG STEP 42500]
+Start: @*jh6aqtuEv)3-VmGr>?aA0l?I4PIOre.#}(%|SZb$R+/QZqL`...
+Needle area (32128): ...d0S|qF2%$2-iEwf@$!Ct KEY:23358 D%#$u1TiCJxpZ{9NKD3lRtj%G%fC4...
+End (Target area) (32718): ...SFCp1?L#K5 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 97828
+Step 42600 | Loss: 0.0062 | Target: 97828 | Pred: 97828 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.046s Total 1622.203s
+
+
+[DEBUG STEP 42600]
+Start: &gIV3+_)na35ZR!-<y=WHAPM"Fc^#CMJ3Ta^.(0nVebj#EESla...
+Needle area (10182): ...|rW]]U3S(;O9zIaesV;W KEY:97828 B3;$Tk/gZ6w1-jzF]#Qor$x[RiX@E...
+End (Target area) (32718): ...e'OXUC0%I% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24686
+Step 42700 | Loss: 0.0023 | Target: 24686 | Pred: 24686 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.092s Total 1639.295s
+
+
+[DEBUG STEP 42700]
+Start: W)XSnPCZit#7;sS[GRHK<O<)jt&]'}gNwjQA$|!U^P6e56,v3@...
+Needle area (13969): ...3zOG]G7HAsj5%'c41Lv| KEY:24686 B`[\,(`/K\?@/1]F#NC#YucL_+=mw...
+End (Target area) (32718): ...k*eoti!q^4 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 35753
+Step 42800 | Loss: 0.0044 | Target: 35753 | Pred: 35753 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.082s Total 1656.377s
+
+
+[DEBUG STEP 42800]
+Start: b*I;T"(Pb%--vK_NX4C2}hFQ[^V8#?XuzL9x*9YoJ<luz@lJ=M...
+Needle area (17456): ...{k:4o^^C5Za)vu+V6'aI KEY:35753 qD<lFyXZsE!>HOd4]0i=k_.(=C&#F...
+End (Target area) (32718): ...c=}5pSO!C6 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89472
+Step 42900 | Loss: 0.0041 | Target: 89472 | Pred: 89472 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.097s Total 1673.475s
+
+
+[DEBUG STEP 42900]
+Start: ^h,87d_E8PfXs5brXBc'T;;=0jD\P^W`K1E]\>>u!,!_tf3z&Z...
+Needle area (19813): ...5=nddFgQY\;;1s*8Jh%v KEY:89472 WP-XGZFnSho3FgLd[fmz4WnRzXVU\...
+End (Target area) (32718): ...0${u>XHZ\U QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89430
+Step 43000 | Loss: 0.0219 | Target: 89430 | Pred: 89430 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.044s Total 1690.519s
+
+
+[DEBUG STEP 43000]
+Start: d2}_`C4v%{|r_1OJBLp<%!1:E\u%5B:R!kWu}mo>-'Sgww/P?=...
+Needle area (5216): .../y,$c)M%eHxBs\!OejN0 KEY:89430 x@l9O3Ur%L]]|WO5=G*N9A^cKmcRK...
+End (Target area) (32718): ...`?&->Nr`Fl QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 42036
+Step 43100 | Loss: 0.0083 | Target: 42036 | Pred: 42036 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.125s Total 1707.644s
+
+
+[DEBUG STEP 43100]
+Start: _RMl1'A';h"\"{)4dZ{Pa\J2iPURJ$qAs*w7[_YY|:4%|nV0wY...
+Needle area (1510): ...?%-#00[]WGsD%ahhfFya KEY:42036 m-=#GyKqZSvPhHljMEboP{zY7Wdf`...
+End (Target area) (32718): ...H4|h%t`J\% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87634
+Step 43200 | Loss: 0.0277 | Target: 87634 | Pred: 87634 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.103s Total 1724.747s
+
+
+[DEBUG STEP 43200]
+Start: Q5Up0O}_,@s6Ze#<$3\]9*^IFW6'gj+kJ5DK.5m'b;g"8f#WUK...
+Needle area (8586): ...u{tWtEqP>:e1#e`Y/vJ] KEY:87634 XuA5(xLZ=K@Me2eu/v'6=.T{e.G*"...
+End (Target area) (32718): ...wVZdb(><]D QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 87173
+Step 43300 | Loss: 0.0050 | Target: 87173 | Pred: 87173 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.047s Total 1741.793s
+
+
+[DEBUG STEP 43300]
+Start: rin}<V"GW?6'SRRv.BKTOp21?]NYa]@E=/d7Z#||kibS{RQwWo...
+Needle area (4640): ...=X|g.D!Y&1<WAC=9Z9r1 KEY:87173 !]2yIS('^ouDOzw"6;Qv`vKQ5uoo{...
+End (Target area) (32718): ...gPNaDjyI,' QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 99668
+Step 43400 | Loss: 0.0024 | Target: 99668 | Pred: 99668 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.091s Total 1758.884s
+
+
+[DEBUG STEP 43400]
+Start: ^rAKAPFGk2`Mo4-S6>N1Bj/mXE2QR%rdUGL4un&KX6{;,lUozN...
+Needle area (17100): ...E\^$qSHmP!s4r"7l-gV@ KEY:99668 >u#`9J+25ae6<02F?3b*>Xw:;4s94...
+End (Target area) (32718): ...{#@8Pc};XD QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04113
+Step 43500 | Loss: 0.0666 | Target: 04113 | Pred: 04113 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.078s Total 1775.962s
+
+
+[DEBUG STEP 43500]
+Start: jJZz-]oyyagctB&sR*,%QCN,2#Am=q+J'$^4G8SyeG_*A:5{H}...
+Needle area (24498): ...J/RpujX>Rb?*`}^kr&'` KEY:04113 Ri19iQl%I'R<P=&%@73KQkIKQwq)H...
+End (Target area) (32718): ...:VD{UeT"K{ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 79060
+Step 43600 | Loss: 0.0037 | Target: 79060 | Pred: 79060 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.099s Total 1793.061s
+
+
+[DEBUG STEP 43600]
+Start: +|qlQHi-Ea2W_uos},I?Paue5C7{,mSJG>is^$N@+Y\(M0-rdV...
+Needle area (10951): ...i%rwHs:BC_B*.ZE(.k/V KEY:79060 .Po/&SSL@ujZ>bJ0dBug""_j93.\y...
+End (Target area) (32718): ...r1j^gJ<Z4P QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 37642
+Step 43700 | Loss: 0.0039 | Target: 37642 | Pred: 37642 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.088s Total 1810.149s
+
+
+[DEBUG STEP 43700]
+Start: T*_4\;,%$V!*wbFVv(Cuu-fC(^2);2wA:9}U=R&"61QYo<KuT^...
+Needle area (20741): ...?8O8B0GB7&Mbvpqi&vXs KEY:37642 ";<c%5*|73'f(pd3%$`NNv3[V|s@C...
+End (Target area) (32718): ...z?dx/1yO9t QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 58735
+Step 43800 | Loss: 0.0204 | Target: 58735 | Pred: 58735 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.075s Total 1827.224s
+
+
+[DEBUG STEP 43800]
+Start: Dc`r-T8]1K5%M^ayKU.0hbjbS#*wB`W#]Vc>%n^aG$BQBTfngb...
+Needle area (12242): ...}j/%=mr[{COe/5G(dyY$ KEY:58735 8eC0^}v(*;DO_c6wLQwpj.L"Y_SG=...
+End (Target area) (32718): ...ybB+]_afli QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75665
+Step 43900 | Loss: 0.0028 | Target: 75665 | Pred: 75665 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.108s Total 1844.333s
+
+
+[DEBUG STEP 43900]
+Start: Dg<M:5quS;$_Deev}d]&KsMUTbRHlQSAeu@)%Apf7{w{bid&Z)...
+Needle area (7440): ...WMR)D{4pqF.}({b&vY31 KEY:75665 ;|!/@ZPDZH}jlz+nZQl=H-Z9=!(Lg...
+End (Target area) (32718): ...llkuwFrEGb QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 45516
+Step 44000 | Loss: 0.0016 | Target: 45516 | Pred: 45516 | VRAM(model): 114MB | VRAM(total): 636MB
+Runtimes  100 steps : 17.045s Total 1861.378s
+
+
+[DEBUG STEP 44000]
+Start: dvysG+V@kT:E!G^KmFKF?{`tR-NS51C:>8Q/&o@_IO*t?h7nOc...
+Needle area (11369): ...r*+9(:7XpvW9cs8'>8%g KEY:45516 01ymbmLelI5L6`F-s<0ssE8S`zIG(...
+End (Target area) (32718): ...J4kV2S6nUM QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_32768.pth (Step 44059, Context 32768)
+================================================================================
+Increasing context length, new context 65536
+================================================================================
+Answer targets 12420
+Step 44100 | Loss: 2.2918 | Target: 12420 | Pred: 22092 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 25.960s Total 1887.338s
+
+
+[DEBUG STEP 44100]
+Start: B)1_{yD(z$`dl`Ip{Rpes<2!TNI=CLaYTn4}9>|?X?}P/7|BPY...
+Needle area (22152): ...h[B.@l7H44)=@(===(Cn KEY:12420 ]0|=nMP?d@a\KJa0GdjyrD[pAS1h8...
+End (Target area) (65486): ...Mx*o2v23V" QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 84717
+Step 44200 | Loss: 1.7425 | Target: 84717 | Pred: 71717 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.812s Total 1926.150s
+
+
+[DEBUG STEP 44200]
+Start: ,kWZr,u8Zx5ywB}"K)0WinSH&!8rW$NwFrg7{I7bwXRP4w!)j....
+Needle area (32936): ...0or!g,I$ANb@=Y6"H#-, KEY:84717 *$SijY1;?*#D5^H_hPdMdQMJB}pbI...
+End (Target area) (65486): ...UB4]Y`EsYI QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 76687
+Step 44300 | Loss: 2.5350 | Target: 76687 | Pred: 42012 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.825s Total 1964.975s
+
+
+[DEBUG STEP 44300]
+Start: :SG_QApFzg\a;EeAJaWRm0`Ju5]MT&s>uD>@BP\F+0S14HoW:E...
+Needle area (27018): ...cM2*h(ekvF!.7]ABH0_& KEY:76687 }L7Ip)H2W=BL3x/D<Zh^A!QO?'a*5...
+End (Target area) (65486): ...%K$LLt#^;% QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04136
+Step 44400 | Loss: 2.1948 | Target: 04136 | Pred: 08402 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.851s Total 2003.826s
+
+
+[DEBUG STEP 44400]
+Start: ;*V/A,yoo"N|=y+txb}:LBQ#VoA\ka8Luz:llWh0t#]\ovNr8x...
+Needle area (5121): ...d,hzRHe}arUH.Ot#-+mq KEY:04136 4<Xj@5']C&9DU\z7l*e6U1N!,/4++...
+End (Target area) (65486): ...XWpLtjn:j! QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 86539
+Step 44500 | Loss: 0.0595 | Target: 86539 | Pred: 86539 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.863s Total 2042.688s
+
+
+[DEBUG STEP 44500]
+Start: [PdZE&rzbLR1UvTOj#i$;O6RF<,R^b$&Y_98MIOxHR@8rR_*1+...
+Needle area (38485): ...nsc.%uLS{<uC[C:g},;d KEY:86539 0h!fFX\Bu-Z?jNi.B}HXE@(SP<OXe...
+End (Target area) (65486): ...OSv2f$MY)7 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 83533
+Step 44600 | Loss: 0.0484 | Target: 83533 | Pred: 83533 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.830s Total 2081.519s
+
+
+[DEBUG STEP 44600]
+Start: 0JB`eqRKay=Y./lBX{hLK\4^BvwR$/xDGMeNMk^n6N)Ls`m;i....
+Needle area (53751): ...brd+60ES[tab:6n>}u7u KEY:83533 wXVwb^io};mL0mkR&{>I,E[j&%[VR...
+End (Target area) (65486): ...w84&k,b@v< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 92972
+Step 44700 | Loss: 0.0054 | Target: 92972 | Pred: 92972 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.838s Total 2120.357s
+
+
+[DEBUG STEP 44700]
+Start: R0[.EmHYh'j#p_TG6r91Bmo}u{x(z+8kKw%uGJ`!NM[3]'p{8%...
+Needle area (62732): ...:G{lQd#V7XBNv0Ky8p>I KEY:92972 H[S_y}PI|C-E<@Yjykv3t='X%\olk...
+End (Target area) (65486): ...:@Ig&:Y1G8 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24014
+Step 44800 | Loss: 0.6459 | Target: 24014 | Pred: 24044 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.864s Total 2159.221s
+
+
+[DEBUG STEP 44800]
+Start: %RHnn*$:.yef![\,ZA:eqne0jb?r,YbX1`$J*RtxF$!/\^MR3C...
+Needle area (46179): ...#($v65}7}'of|.Y6%1b{ KEY:24014 s9Ix[n'c2>*Ld!Q%_%E5[8K{yQf?....
+End (Target area) (65486): ...Hz.8}t)*bw QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 73478
+Step 44900 | Loss: 0.0156 | Target: 73478 | Pred: 73478 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.827s Total 2198.048s
+
+
+[DEBUG STEP 44900]
+Start: %KTgd/20+>Ubu#uvrhr3/Q<fQZu|zno2.'|22MIYo](90pTSDO...
+Needle area (34969): ...kfjli9O5Z1j:P*.mnGAk KEY:73478 =]K++9WS"JCU*t8GoJ:s|8e{I.YAB...
+End (Target area) (65486): ...dG$$<V7[mF QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 28017
+Step 45000 | Loss: 2.2365 | Target: 28017 | Pred: 88822 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.834s Total 2236.882s
+
+
+[DEBUG STEP 45000]
+Start: I_x^l_cb'F=vzwHHmi@z5DK#DU>_8<;!Ni'x(S[8T_!<3*cUO,...
+Needle area (23037): ...g'R@IzgWimk&}2@lQ3D' KEY:28017 3dO*0(LiB?#`!L]*@;_!a?{*Q5O[`...
+End (Target area) (65486): ...^vX|1D8p4m QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02922
+Step 45100 | Loss: 2.0680 | Target: 02922 | Pred: 38422 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.828s Total 2275.710s
+
+
+[DEBUG STEP 45100]
+Start: <a`T_[VF4J,P03RGt^A]4jj&`&zA@F'<H:&7dO<hXFG>n=LE%F...
+Needle area (17795): ...)x?F!i!,wd:H:;&FB@U0 KEY:02922 LEBFM98q]z6/LvriyWU{'!D<j@bPe...
+End (Target area) (65486): ...8YyhQ>-/e^ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 09448
+Step 45200 | Loss: 2.2267 | Target: 09448 | Pred: 78565 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.861s Total 2314.571s
+
+
+[DEBUG STEP 45200]
+Start: &/v2(S/w@<W<,sY@btixyaf@(kZG9S@JJEp]nZ1P?@T=xR4z`q...
+Needle area (12465): ...ojvKR9`Sil7//va2G$hR KEY:09448 :4yidU4yCf5?VM%(K4<gPHIP=D]CB...
+End (Target area) (65486): ...TA-KB[B!ah QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 41360
+Step 45300 | Loss: 0.0103 | Target: 41360 | Pred: 41360 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.831s Total 2353.402s
+
+
+[DEBUG STEP 45300]
+Start: TiB{PIE]y;_9H6hRD{8r:+!wEDZ3"fS?\wFfp?$@?[.tQ@eb:,...
+Needle area (55960): ...9emP1![.(oAvC3{)plGK KEY:41360 6vbG-8d]'7?f*V&D}vZ^zAuso;dW....
+End (Target area) (65486): ...OlAy.=$.[x QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 28387
+Step 45400 | Loss: 2.3559 | Target: 28387 | Pred: 09968 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.835s Total 2392.237s
+
+
+[DEBUG STEP 45400]
+Start: sIW4Y!aEhMX.#k}a\kB&Bc0r?8!K#9^Ujpo(IA,UMq,G>)z3Di...
+Needle area (8664): ...S.zyv3Nj7@-!Q`[.M^;3 KEY:28387 OSBi&7-M:@,N*{R3JsJQPPblGx\8H...
+End (Target area) (65486): ...a\e?p3bhAO QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 04227
+Step 45500 | Loss: 0.0061 | Target: 04227 | Pred: 04227 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.866s Total 2431.104s
+
+
+[DEBUG STEP 45500]
+Start: GVvm9lfz6#(u.mCV)zHFzE:HOQ0g}<@npY#V-&2WGE\vc!g[fY...
+Needle area (49348): ...ns'7Oyj.^C';cM@d-j.Z KEY:04227 @*cGelny'}|t{DIOTqGSH#q9ri=w%...
+End (Target area) (65486): ...v4,K'86fWl QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 28007
+Step 45600 | Loss: 0.0158 | Target: 28007 | Pred: 28007 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.826s Total 2469.930s
+
+
+[DEBUG STEP 45600]
+Start: %S`'9-zOjX{axi[QZ=87,c#"*\na95oV=OFN-:xs#e#ru>d2*}...
+Needle area (28179): ...y#+>D`Y_I,%6@"q_LuT( KEY:28007 2\>|e!yxxz\1i]4=A+nYt99l"B0z;...
+End (Target area) (65486): ...$M*jY-@xF| QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 02934
+Step 45700 | Loss: 0.0057 | Target: 02934 | Pred: 02934 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.843s Total 2508.773s
+
+
+[DEBUG STEP 45700]
+Start: bFlvs\2)}&?;38Yi?hIAt^AV(j_>-0{Dtk0tooXS'w'[az4+4\...
+Needle area (26804): ...d(&0)?zt<-aPff9]/I(a KEY:02934 cH%o?|<x"X=_f=3]".nXbWL)q]Y@u...
+End (Target area) (65486): ...Km]14:!U!@ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 67061
+Step 45800 | Loss: 0.0140 | Target: 67061 | Pred: 67061 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.828s Total 2547.600s
+
+
+[DEBUG STEP 45800]
+Start: ^=`>16SY]Bcx%hdFo;%%BE!@?Gs'2aWn^:@$UxqDLr=rF6k#Lh...
+Needle area (63299): ...vhaH.S+48H1vB6$=KO$7 KEY:67061 Ey9(]jRktxXWg#qS0:i]jD_}Qg3'X...
+End (Target area) (65486): ...(|'U'L(HP< QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 26576
+Step 45900 | Loss: 0.3995 | Target: 26576 | Pred: 26572 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.859s Total 2586.460s
+
+
+[DEBUG STEP 45900]
+Start: 0s)t]kJk3A'`[JaI;c@[Z/WaxYOxAcg.zEuC6QThCT3ZT2y`j8...
+Needle area (45975): ...jI/6P|-w3"<i37J6NJ`a KEY:26576 (lhyI-x-Y_omWUh6qgXSU6(j=aw==...
+End (Target area) (65486): ...E7*=HiWXUL QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 68349
+Step 46000 | Loss: 0.0943 | Target: 68349 | Pred: 68349 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.840s Total 2625.300s
+
+
+[DEBUG STEP 46000]
+Start: Po83%Q4TKZ6;YkFP*beTZ9A)d,uq_aTvjl|-zzRp_f2EAO]erA...
+Needle area (63455): ...#T})$@@k1IPA9>/m7uWl KEY:68349 fE#9ia2X`-r\T"|B'14-OllUpQ8Px...
+End (Target area) (65486): ...}=;.{$TmjL QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 60633
+Step 46100 | Loss: 0.8239 | Target: 60633 | Pred: 63673 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.820s Total 2664.120s
+
+
+[DEBUG STEP 46100]
+Start: ;4mc9tE${5&4u?^iMNCk2'EE*AI{TX7#OEDZV^R=Vl&X<huZ:x...
+Needle area (2251): ...]gP1h!#xQ)={`vfX'3"y KEY:60633 5=.6|1=^V.OZUe_P=&h.ak7iHsudz...
+End (Target area) (65486): ...(z(Ia'{pVu QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 62685
+Step 46200 | Loss: 0.0069 | Target: 62685 | Pred: 62685 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.870s Total 2702.990s
+
+
+[DEBUG STEP 46200]
+Start: Qtrj$}j[$,ZR(T9y=Q=7dL)oFS8kr|g7&b9-i7,*V-kDKW,-jq...
+Needle area (59700): ...KhYMef@?Wb[a]eeH#"B3 KEY:62685 e>q=+<|RC=5@hKPw?,/"\HF9;G_F:...
+End (Target area) (65486): ...|t,sY(k2&E QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 81242
+Step 46300 | Loss: 0.0352 | Target: 81242 | Pred: 81242 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.817s Total 2741.807s
+
+
+[DEBUG STEP 46300]
+Start: Rzp0gYy07M8`??+]As'9JNU1.W/EG"-z\o,Njv?:>;0hYy-]QV...
+Needle area (11846): ...9Od;\]\|d-+0j%>^dVQ7 KEY:81242 |7E&K&H2BZd{_bs6@-rm'i?TYf{0i...
+End (Target area) (65486): ...(oHRLVWWS0 QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 75448
+Step 46400 | Loss: 0.0156 | Target: 75448 | Pred: 75448 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.839s Total 2780.646s
+
+
+[DEBUG STEP 46400]
+Start: =He}<T_%Av;vmDtaYVR;;.%p709n|Xv=MQQWb%ahu;2P3HW[1%...
+Needle area (42941): ...jj5}N<J%9=W"z(/ht>6a KEY:75448 $[0mzI!&_52:a/7R9jlqs@qWg5P2V...
+End (Target area) (65486): ...<%sUfH=#;# QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 72466
+Step 46500 | Loss: 0.0460 | Target: 72466 | Pred: 72466 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.859s Total 2819.505s
+
+
+[DEBUG STEP 46500]
+Start: gnf5P:/y;VGA[6|ri>qNH{[BAM6=A)l7=Pa2,X>_p4+Jx53SN'...
+Needle area (59439): ...;w`udk^<-?9/p*K3"|LN KEY:72466 \O^bY35{QSR[h\bW7A_VFLQhX1"o}...
+End (Target area) (65486): ....A[e"y+dvX QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 55027
+Step 46600 | Loss: 0.0053 | Target: 55027 | Pred: 55027 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.828s Total 2858.332s
+
+
+[DEBUG STEP 46600]
+Start: I[Dc)k5N(rxUj,@xu4&3iNqh@:K9%|uN4sRG(<7x/qQK>diOT_...
+Needle area (35381): ...SG_kGh8gnT|?mnrQB8dK KEY:55027 !S,OCG4&:B)?YXCSh!/&no(;b,K|B...
+End (Target area) (65486): ...pUUnt6IJBi QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 25882
+Step 46700 | Loss: 0.0054 | Target: 25882 | Pred: 25882 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.840s Total 2897.172s
+
+
+[DEBUG STEP 46700]
+Start: Y!:l-<O3OjT}N2DG2HKiXngLwl@E(X#X}=<%CA>!L.zBcqOsf"...
+Needle area (41452): ...X9!o%._2Y7h?KRbPup'J KEY:25882 f|a+%n7/^)=yS[9Pc4qjr}_WF[fC+...
+End (Target area) (65486): ...f2K|82Q>mP QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 15373
+Step 46800 | Loss: 0.0028 | Target: 15373 | Pred: 15373 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.821s Total 2935.994s
+
+
+[DEBUG STEP 46800]
+Start: 5EF8Y89T;#;A,\*Af;U\bH4b+!e/`+wn^l0i.m>#*RIAO7ozB9...
+Needle area (51835): ...eb!v-1xPvaKiz]kJoHv8 KEY:15373 'VvoQ!boPOMWyHCEMBl>c5N%jdM1j...
+End (Target area) (65486): ...*HX1rJX:d/ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 46756
+Step 46900 | Loss: 0.0243 | Target: 46756 | Pred: 46756 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.865s Total 2974.858s
+
+
+[DEBUG STEP 46900]
+Start: itw7EYc|iKCv9{`-L(mAqDTAaq5>^)?2k.(fuO=,dKi'+xlJlm...
+Needle area (62918): ...s3D^X=1q](P`xt#HjE+* KEY:46756 stR2Gxi,6V!u/ymQ(:6'ha)@P#>2Z...
+End (Target area) (65486): ...,yCy'W38CM QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 12926
+Step 47000 | Loss: 0.0071 | Target: 12926 | Pred: 12926 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.822s Total 3013.681s
+
+
+[DEBUG STEP 47000]
+Start: @EBCMe{}z'Z<<>h0jsYhVpa4x*Mg$z"Ax$r=<01mHO<"37Z/$j...
+Needle area (22243): ...PMvn3,3}B"Lgqsj3TQCa KEY:12926 o!Zf.qX`d*:J}8m26oC0Y/"VSjUG0...
+End (Target area) (65486): ...%z$BGrZEk? QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 68139
+Step 47100 | Loss: 0.0124 | Target: 68139 | Pred: 68139 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.844s Total 3052.524s
+
+
+[DEBUG STEP 47100]
+Start: [Mc,zVHx`ln5,'-ZYS`;LNs'[|8S+P{0oT.QpJ,,yGlOZbi/uX...
+Needle area (62438): ...yd$bshn+<w[QzL!h$0vY KEY:68139 i_G<S,.J5v;.FrKNwSxhA!HK?XJ1W...
+End (Target area) (65486): ...r.Max<+n1p QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 89478
+Step 47200 | Loss: 0.0063 | Target: 89478 | Pred: 89478 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.863s Total 3091.387s
+
+
+[DEBUG STEP 47200]
+Start: ^{9t3r1YIE-,#U._h0"8RE\,K(o>mDQtWJj7-|aq;Z">(1h^ny...
+Needle area (36670): ...!I}Wnfv[L[0|{nKV(N;F KEY:89478 %yW|"<9eP3\#k#4/q/E/H4YiHmOF!...
+End (Target area) (65486): ...t@q'}T+KxV QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 30153
+Step 47300 | Loss: 0.0036 | Target: 30153 | Pred: 30153 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.831s Total 3130.218s
+
+
+[DEBUG STEP 47300]
+Start: Mm*.5siG&uQQSO*RvDd+^/lWO;aPF6}iU{A]2kbsv3Zo/,)hj(...
+Needle area (5216): ...\`"&,{p@wHhtomqTaCk6 KEY:30153 h+@m+0J}7S'aOs=M<:ZHI8C8Im!g*...
+End (Target area) (65486): ...OYQ>&';LeI QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 03168
+Step 47400 | Loss: 1.5562 | Target: 03168 | Pred: 09168 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.837s Total 3169.056s
+
+
+[DEBUG STEP 47400]
+Start: TWgtl9Ooz['/WALs9gqME'}y]z/.mkY|l:KvkqfhqxRmJHG}QG...
+Needle area (1117): ...$/?gl'[h%Dw!jfQw5zs} KEY:03168 0?q>A;kH9:irT)b!4N#t\j\lZm]if...
+End (Target area) (65486): ...Oc9vUJwv?h QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 09219
+Step 47500 | Loss: 0.0053 | Target: 09219 | Pred: 09219 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.830s Total 3207.886s
+
+
+[DEBUG STEP 47500]
+Start: O'I8=th{^<ie(yJa'FBdYAryv`b|th"#jKi31T",DnWb-v3>yN...
+Needle area (64519): ...epAQkE,<w6obQ5nkrrw` KEY:09219 ZkTWy''g!5{>T5P4AAa!2QP]V$IB_...
+End (Target area) (65486): ...LO|\'/ePLz QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 66134
+Step 47600 | Loss: 0.0030 | Target: 66134 | Pred: 66134 | VRAM(model): 147MB | VRAM(total): 1148MB
+Runtimes  100 steps : 38.869s Total 3246.755s
+
+
+[DEBUG STEP 47600]
+Start: 9=''THYq0F$*XT>r{*#Z4mH?{{m#qBy(&4oWQ43"jxOWZ/l4*c...
+Needle area (46835): ...8Ken/:93B%#;[^`Eg%5< KEY:66134 S$0FxP&Bs_h6b0g_Ul|\LPlHpF8Y/...
+End (Target area) (65486): ...#.DTxquh?( QUESTION: What is the KEY? ANSWER:░░░░░
+
+[v] Checkpoint saved: needle_success_65536.pth (Step 47648, Context 65536)
+================================================================================
+Increasing context length, new context 131072
+================================================================================
+Answer targets 84439
+Step 47700 | Loss: 0.0688 | Target: 84439 | Pred: 84439 | VRAM(model): 213MB | VRAM(total): 2556MB
+Runtimes  100 steps : 68.779s Total 3315.534s
+
+
+[DEBUG STEP 47700]
+Start: iCp5ZPs42G:seidUb3%Wf$e&qT6<>EOxx`8c+D8#w8%*@q\\js...
+Needle area (122332): ...nX?!OB^&hZ(H2Uj.EIc8 KEY:84439 Ej)r9R6Z/eN!67k#@4kd+W'8W|CEZ...
+End (Target area) (131022): ...)9+c`Ias:( QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 26852
+Step 47800 | Loss: 2.4578 | Target: 26852 | Pred: 80428 | VRAM(model): 213MB | VRAM(total): 2556MB
+Runtimes  100 steps : 97.390s Total 3412.923s
+
+
+[DEBUG STEP 47800]
+Start: lKtrG2io1Bnj}3L<J4DgnkUB+TBX|VGYw|Gu+JsE,vrBb.=Akn...
+Needle area (51798): ...f2k=]#Z_Ug[}meAJus3& KEY:26852 i@PU4#EA5aWnJ_B4=Lmxk-p*iB+qp...
+End (Target area) (131022): ....#||]m67[m QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 03281
+Step 47900 | Loss: 0.2710 | Target: 03281 | Pred: 08281 | VRAM(model): 213MB | VRAM(total): 2556MB
+Runtimes  100 steps : 97.383s Total 3510.306s
+
+
+[DEBUG STEP 47900]
+Start: d5_`O&E\ZDBmH<t_c9USx(NR*d1qCT|D1[^hy'!b'R9`Y}x9;j...
+Needle area (98742): ...nFTCHa>aU;2s#=M6`j!& KEY:03281 M+hYuQ>uvx)p1wTc3IavkJJ*E?_NL...
+End (Target area) (131022): ...6^nF&Vpm__ QUESTION: What is the KEY? ANSWER:░░░░░
+Answer targets 24132
+Step 48000 | Loss: 2.5403 | Target: 24132 | Pred: 35359 | VRAM(model): 213MB | VRAM(total): 2556MB
+Runtimes  100 steps : 97.384s Total 3607.690s
+
+
+[DEBUG STEP 48000]
+Start: h|&#<MtfA}Py%O$?Dtm\XbtNBgjcltK0D>%RTHcAc,nlyHAHLb...
+Needle area (6820): ...q@S-nWt{)o\v#okDn3Ah KEY:24132 ZrmkquXO>GO1s@mvl2kD&tWPcZnKA...
+End (Target area) (131022): ...-a:d;}P*o# QUESTION: What is the KEY? ANSWER:░░░░░
+^C
+[!] Training stopped by Contorl-C.
+
+[v] Checkpoint saved: needle_checkpoint.pth (Step 48056, Context 64)
+
